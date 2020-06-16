@@ -1,0 +1,349 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<!-- This manual is for Texinfo Publisher (version 1.1), a Makefile based multi-format publishing system. Texinfo Publisher is based on GNU Texinfo and is a unrelated project.
+
+Copyright (C)  2012  A. Bradford.
+Permission is granted to copy, distribute and/or modify this document
+under the terms of the GNU Free Documentation License, Version 1.3
+or any later version published by the Free Software Foundation;
+with no Invariant Sections, no Front-Cover Texts, and no Back-Cover
+Texts.  A copy of the license is included in the section entitled "GNU
+Free Documentation License".
+ -->
+<!-- Created by GNU Texinfo 6.7, http://www.gnu.org/software/texinfo/ -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Learning GNU Texinfo (Texinfo Publisher)</title>
+
+<meta name="description" content="Learning GNU Texinfo (Texinfo Publisher)">
+<meta name="keywords" content="Learning GNU Texinfo (Texinfo Publisher)">
+<meta name="resource-type" content="document">
+<meta name="distribution" content="global">
+<meta name="Generator" content="texi2any">
+<link href="index.html" rel="start" title="Top">
+<link href="Concept-index.html" rel="index" title="Concept index">
+<link href="index.html#SEC_Contents" rel="contents" title="Table of Contents">
+<link href="index.html" rel="up" title="Top">
+<link href="Output-formats.html" rel="next" title="Output formats">
+<link href="Compiling-and-viewing-content.html" rel="prev" title="Compiling and viewing content">
+<style type="text/css">
+<!--
+a.summary-letter {text-decoration: none}
+blockquote.indentedblock {margin-right: 0em}
+div.display {margin-left: 3.2em}
+div.example {margin-left: 3.2em}
+div.lisp {margin-left: 3.2em}
+kbd {font-style: oblique}
+pre.display {font-family: inherit}
+pre.format {font-family: inherit}
+pre.menu-comment {font-family: serif}
+pre.menu-preformatted {font-family: serif}
+span.nolinebreak {white-space: nowrap}
+span.roman {font-family: initial; font-weight: normal}
+span.sansserif {font-family: sans-serif; font-weight: normal}
+ul.no-bullet {list-style: none}
+-->
+</style>
+
+
+</head>
+
+<body lang="en">
+<a href="texinfopublisher-1.1.pdf">PDF content of this website</a><span id="Learning-GNU-Texinfo"></span><div class="header">
+<p>
+Next: <a href="Output-formats.html" accesskey="n" rel="next">Output formats</a>, Previous: <a href="Compiling-and-viewing-content.html" accesskey="p" rel="prev">Compiling and viewing content</a>, Up: <a href="index.html" accesskey="u" rel="up">Top</a> &nbsp; [<a href="index.html#SEC_Contents" title="Table of contents" rel="contents">Contents</a>][<a href="Concept-index.html" title="Index" rel="index">Index</a>]</p>
+</div>
+<hr>
+<span id="Learning-GNU-Texinfo-1"></span><h2 class="chapter">4 Learning GNU Texinfo</h2>
+<span id="index-Learning-GNU-Texinfo"></span>
+<span id="index-Texinfo-1"></span>
+<span id="index-GNU-Texinfo-Manual"></span>
+<span id="index-Texinfo-Manual"></span>
+<span id="GNU-Texinfo-web-resources"></span><h3 class="section">4.1 GNU Texinfo web resources</h3>
+<p>You will have to learn a little GNU Texinfo.
+See the <a href="http://www.gnu.org/software/texinfo/manual/texinfo/">GNU Texinfo Manual</a> and the <a href="http://svn.savannah.gnu.org/viewvc/*checkout*/trunk/doc/refcard/txirefcard.pdf?root=texinfo&amp;content-type=text%2Fplain">GNU Texinfo Reference Card</a>. Don&rsquo;t be alarmed at the size of the GNU Texinfo Manual. Few Texinfo commands are needed to have great looking multi-format content.
+</p>
+<span id="Basic-changes"></span><h3 class="section">4.2 Basic changes</h3>
+<span id="index-Website_002etexi-1"></span>
+<p>Inside the directory <samp>texinfopublisher-1.1/</samp> you will see a file <samp>Website.texi</samp>. This is the source file that is compiled when the command <code>make</code> is run. The result of the compilation is the building of your content. Change your working directory to <samp>texinfopublisher-1.1/</samp> and type
+</p><div class="example">
+<pre class="example">make
+</pre></div>
+<p>You have compiled a basic template with examples. The <samp>Makefile</samp> is verbose and will give instructions to view the resulting output formats.
+<br>
+<br>
+<span id="index-vi"></span>
+<span id="index-emacs"></span>
+<span id="index-gedit"></span>
+<span id="index-kate"></span>
+<span id="index-notepad"></span>
+Using your favorite editor (<code>vi</code>, <code>emacs</code>, <code>gedit</code>, <code>kate</code>, <code>notepad</code>) edit
+</p><div class="example">
+<pre class="example"><span id="index-Website_002etexi-2"></span><samp>texinfopublisher-1.1/Website.texi</samp>
+</pre></div>
+<p>Trying adding simple text to any of the nodes/sections and running <code>make</code> to re-compile from the command line. View the resulting output to confirm the changes.
+</p>
+<span id="GNU-Texinfo-commands"></span><h3 class="section">4.3 GNU Texinfo commands</h3>
+<span id="g_t_0040node"></span><h4 class="subsection">4.3.1 @node</h4>
+<span id="index-_0040node"></span>
+<span id="index-_0040chapter"></span>
+<p>Create new nodes (chapters) with the @node command followed with a @chapter command. All nodes names <i>must</i> also be declared between the @menu and @end menu section of the .texi file.
+<br>
+<br>
+Based on <i>all</i> the references to &ldquo;Chapter 9&rdquo; in <samp>texinfopublisher-1.1/Website.texi</samp> think of what modifications would have to be made to the file to create a &ldquo;Chapter 10&rdquo;.
+<br>
+<br>
+Try creating a &ldquo;Chapter 10&rdquo;. Try creating a chapter named &ldquo;Information&rdquo;.
+</p>
+<span id="g_t_0040section-_002f-_0040subsection-_002f-_0040subsubsection"></span><h4 class="subsection">4.3.2 @section / @subsection / @subsubsection</h4>
+<span id="index-_0040section"></span>
+<span id="index-_0040subsection"></span>
+<span id="index-_0040subsubsection"></span>
+<p>Content between @node commands such as text between &ldquo;@node Chapter 1&rdquo; and &ldquo;@node Chapter 2&rdquo; in <samp>texinfopublisher-1.1/Website.texi</samp> can be broken down into sections, subsections and subsubsections.
+<br>
+<br>
+Try adding text content to sections / subsections and subsubsections. Try adding more sections. Add text like the following
+</p><div class="example">
+<pre class="example">@section Another section example
+</pre></div>
+
+<span id="g_t_0040"></span><h4 class="subsection">4.3.3 @</h4>
+<span id="index-_0040"></span>
+<p>The at sign @ is a special character that starts all Texinfo commands. To generated an at sign @ character in Texinfo two @@ characters must be entered in the source .texi file. The email address anthony_bradford@yahoo.com will have to be written as anthony_bradford@@yahoo.com in a .texi file.
+<br>
+<br>
+The { and } characters also have to be preceded with an at sign @. Use @{ to generate { and @} to generate }.
+</p>
+<span id="g_t_0040c"></span><h4 class="subsection">4.3.4 @c</h4>
+<span id="index-_0040c"></span>
+<p>The @c Texinfo command generates a comment.
+This would be a comment in a Texinfo file.
+</p><div class="example">
+<pre class="example">@c This is a comment.
+</pre></div>
+
+<span id="g_t_0040_002a"></span><h4 class="subsection">4.3.5 @*</h4>
+<span id="index-_0040_002a"></span>
+<p>The @* command creates a line break.
+<br>
+<br>
+Try adding some line breaks between sentences.
+</p>
+<span id="g_t_0040b"></span><h4 class="subsection">4.3.6 @b</h4>
+<span id="index-bold"></span>
+<span id="index-font"></span>
+<span id="index-_0040b"></span>
+<p>Write in <b>bold</b> text by using the @b command. If you write
+</p><div class="example">
+<pre class="example">@b{This will produce bold text}.
+</pre></div>
+<p>You will get
+</p><div class="example">
+<pre class="example"><b>This will produce bold text</b>.
+</pre></div>
+
+<span id="g_t_0040i"></span><h4 class="subsection">4.3.7 @i</h4>
+<span id="index-italics"></span>
+<span id="index-_0040i"></span>
+<p>Write in <i>italics</i> by using the @i command. If you write
+</p><div class="example">
+<pre class="example">@i{This will produce italics text}.
+</pre></div>
+<p>You will get
+</p><div class="example">
+<pre class="example"><i>This will produce italics text</i>.
+</pre></div>
+
+<span id="g_t_0040sansserif"></span><h4 class="subsection">4.3.8 @sansserif</h4>
+<span id="index-_0040sansserif"></span>
+<p>Write in <span class="sansserif">sans serif</span> font by using the @sansserif command. If you write
+</p><div class="example">
+<pre class="example">@sansserif{This will produce sans serif}.
+</pre></div>
+<p>You will get
+</p><div class="example">
+<pre class="example"><span class="sansserif">This will produce sans serif</span>.
+</pre></div>
+
+<span id="g_t_0040url"></span><h4 class="subsection">4.3.9 @url</h4>
+<p>@url produces a hypertext URL link
+<br>
+<br>
+<span id="index-_0040url"></span>
+@url{http://fsf.org} produces <a href="http://fsf.org">http://fsf.org</a>.
+<br>
+<br>
+@url{http://fsf.org,The Free Software Foundation} produces <a href="http://fsf.org">The Free Software Foundation</a>.
+</p>
+<span id="g_t_0040email"></span><h4 class="subsection">4.3.10 @email</h4>
+<span id="index-_0040email"></span>
+<p>@email produces a hypertext mailto: email address. Remember to generate an at sign @ two are needed @@.
+<br>
+<br>
+@email{anthony_bradford@@yahoo.com} produces <a href="mailto:anthony_bradford@yahoo.com">anthony_bradford@yahoo.com</a>.
+<br>
+<br>
+@email{anthony_bradford@@yahoo.com,Anthony Bradford} produces <a href="mailto:anthony_bradford@yahoo.com">Anthony Bradford</a>.
+<br>
+<br>
+Note that anthony_bradford@@yahoo.com produces anthony_bradford@yahoo.com, which is a email address with no hyperlink properties.
+</p>
+<span id="g_t_0040example-_002f-_0040smallexample"></span><h4 class="subsection">4.3.11 @example / @smallexample</h4>
+<span id="index-_0040example"></span>
+<span id="index-_0040smallexample"></span>
+<p>@example
+<br>
+This is example text
+<br>
+@end example
+<br>
+<br>
+Produces
+<br>
+</p><div class="example">
+<pre class="example">This is example text.
+</pre></div>
+<br>
+<p>@smallexample
+<br>
+This is small example text.
+<br>
+@end smallexample
+<br>
+<br>
+Produces
+<br>
+</p><div class="example">
+<pre class="example">This is small example text.
+</pre></div>
+
+<span id="g_t_0040itemize"></span><h4 class="subsection">4.3.12 @itemize</h4>
+<span id="index-_0040itemize"></span>
+<p>@itemize
+<br>
+@item one
+<br>
+@item two
+<br>
+@item three
+<br>
+@item four
+<br>
+@end itemize
+<br>
+<br>
+Will produce
+<br>
+</p><ul>
+<li> one
+</li><li> two
+</li><li> three
+</li><li> four
+</li></ul>
+<span id="index-_0040enumerate"></span>
+<span id="index-_0040table"></span>
+<span id="index-_0040multitable_002e"></span>
+<span id="index-GNU-Texinfo-Manual-1"></span>
+<span id="index-Texinfo-Manual-1"></span>
+<p>See the <a href="http://www.gnu.org/software/texinfo/manual/texinfo/">GNU Texinfo Manual</a> for other list and table commands such as @enumerate, @table and @multitable. The GNU Texinfo Manual has many examples.
+</p>
+<span id="g_t_0040image"></span><h4 class="subsection">4.3.13 @image</h4>
+<span id="image"></span><span id="index-_0040image"></span>
+<p>Keep all images in the directory <samp>texinfopublisher-1.1/images/</samp>. Image file name extensions (.jpg, .png, .eps) should always be kept lowercase. The <samp>images/</samp> directory is never cleaned by <code>make clean</code>. The command
+</p><div class="example">
+<pre class="example"><span id="index-open-book-image"></span><span id="index-image-open-book"></span>@image{images/open_book_blue,,80pt,Picture of a open book,png}
+</pre></div>
+<p>inserts the image <samp>texinfopublisher-1.1/images/open_book_blue.png</samp> into your content.
+<br>
+Producing
+<br>
+<br>
+<img src="images/open_book_blue.png" alt="Picture of a open book">
+<br>
+<br>
+Use the @center command to center the image
+</p><div class="example">
+<pre class="example">@center @image{images/open_book_blue,,80pt,Picture of a open book,png}
+</pre></div>
+<p>Produces
+<br>
+<br>
+</p><div align="center"><img src="images/open_book_blue.png" alt="Picture of a open book">
+</div><br>
+<br>
+<p>The argument &ldquo;80pt&rdquo; is the image point scaling. This is impacting to PDF/DVI/PostScript output but not impacting to HTML/EPUB output. The following examples are scaled larger in the PDF/DVI/PostScript content but are the same size in the HTML/EPUB content. Switch to other content formats by clicking here <a href="http://AnthonyBradford.com/TexinfoPublisher/index.html">here</a>.
+<br>
+<br>
+</p><div class="example">
+<pre class="example">@image{images/open_book_blue,,120pt,Picture of a open book,png}
+</pre></div>
+<p>Produces
+<br>
+<br>
+<img src="images/open_book_blue.png" alt="Picture of a open book">
+<br>
+<br>
+</p><div class="example">
+<pre class="example">@image{images/open_book_blue,,150pt,Picture of a open book,png}
+</pre></div>
+<p>Produces
+<br>
+<br>
+<img src="images/open_book_blue.png" alt="Picture of a open book">
+<br>
+<br>
+</p><div class="example">
+<pre class="example">@image{images/open_book_blue,,180pt,Picture of a open book,png}
+</pre></div>
+<p>Produces
+<br>
+<br>
+<img src="images/open_book_blue.png" alt="Picture of a open book">
+<br>
+<br>
+</p>
+<span id="g_t_0040cindex"></span><h4 class="subsection">4.3.14 @cindex</h4>
+<span id="index-_0040cindex"></span>
+<p>Index items using the @cindex command.
+<span id="index-blueberry"></span>
+</p><div class="example">
+<pre class="example">@cindex blueberry
+</pre></div>
+<p>Will place the word blueberry in the ending index of this document. See <a href="Concept-index.html">Concept index</a>, and look for blueberry.
+</p>
+<span id="g_t_0040paragraphindent"></span><h4 class="subsection">4.3.15 @paragraphindent</h4>
+<span id="index-_0040paragraphindent"></span>
+<p>To turn off automatic paragraph indenting use the command
+</p><div class="example">
+<pre class="example">@paragraphindent none
+</pre></div>
+<span id="index-Website_002etexi-3"></span>
+<p>Place this command towards the top the of Website.texi file. This manual was written with paragraph indenting turned off.
+</p>
+<span id="g_t_0040cartouche"></span><h4 class="subsection">4.3.16 @cartouche</h4>
+<span id="index-_0040cartouche"></span>
+<span id="index-box"></span>
+<p>@cartouche
+<br>
+This is a test. 
+<br>
+@end cartouche
+<br>
+<br>
+Produces text in a box.
+<br>
+</p><table class="cartouche" border="1"><tr><td>
+<p>This is a test.
+</p></td></tr></table>
+<p>@cartouche is <i>not</i> translated into the EPUB book format.
+</p>
+<hr>
+<div class="header">
+<p>
+Next: <a href="Output-formats.html" accesskey="n" rel="next">Output formats</a>, Previous: <a href="Compiling-and-viewing-content.html" accesskey="p" rel="prev">Compiling and viewing content</a>, Up: <a href="index.html" accesskey="u" rel="up">Top</a> &nbsp; [<a href="index.html#SEC_Contents" title="Table of contents" rel="contents">Contents</a>][<a href="Concept-index.html" title="Index" rel="index">Index</a>]</p>
+</div>
+
+
+<a href="texinfopublisher-1.1.pdf">PDF content of this website</a>
+</body>
+</html>

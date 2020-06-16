@@ -1,0 +1,122 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<!-- This manual is for Texinfo Publisher (version 1.1), a Makefile based multi-format publishing system. Texinfo Publisher is based on GNU Texinfo and is a unrelated project.
+
+Copyright (C)  2012  A. Bradford.
+Permission is granted to copy, distribute and/or modify this document
+under the terms of the GNU Free Documentation License, Version 1.3
+or any later version published by the Free Software Foundation;
+with no Invariant Sections, no Front-Cover Texts, and no Back-Cover
+Texts.  A copy of the license is included in the section entitled "GNU
+Free Documentation License".
+ -->
+<!-- Created by GNU Texinfo 6.7, http://www.gnu.org/software/texinfo/ -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Misc (Texinfo Publisher)</title>
+
+<meta name="description" content="Misc (Texinfo Publisher)">
+<meta name="keywords" content="Misc (Texinfo Publisher)">
+<meta name="resource-type" content="document">
+<meta name="distribution" content="global">
+<meta name="Generator" content="texi2any">
+<link href="index.html" rel="start" title="Top">
+<link href="Concept-index.html" rel="index" title="Concept index">
+<link href="index.html#SEC_Contents" rel="contents" title="Table of Contents">
+<link href="index.html" rel="up" title="Top">
+<link href="GNU-Free-Documentation-License.html" rel="next" title="GNU Free Documentation License">
+<link href="Broken-link-checking.html" rel="prev" title="Broken link checking">
+<style type="text/css">
+<!--
+a.summary-letter {text-decoration: none}
+blockquote.indentedblock {margin-right: 0em}
+div.display {margin-left: 3.2em}
+div.example {margin-left: 3.2em}
+div.lisp {margin-left: 3.2em}
+kbd {font-style: oblique}
+pre.display {font-family: inherit}
+pre.format {font-family: inherit}
+pre.menu-comment {font-family: serif}
+pre.menu-preformatted {font-family: serif}
+span.nolinebreak {white-space: nowrap}
+span.roman {font-family: initial; font-weight: normal}
+span.sansserif {font-family: sans-serif; font-weight: normal}
+ul.no-bullet {list-style: none}
+-->
+</style>
+
+
+</head>
+
+<body lang="en">
+<a href="texinfopublisher-1.1.pdf">PDF content of this website</a><span id="Misc"></span><div class="header">
+<p>
+Next: <a href="GNU-Free-Documentation-License.html" accesskey="n" rel="next">GNU Free Documentation License</a>, Previous: <a href="Broken-link-checking.html" accesskey="p" rel="prev">Broken link checking</a>, Up: <a href="index.html" accesskey="u" rel="up">Top</a> &nbsp; [<a href="index.html#SEC_Contents" title="Table of contents" rel="contents">Contents</a>][<a href="Concept-index.html" title="Index" rel="index">Index</a>]</p>
+</div>
+<hr>
+<span id="Misc-1"></span><h2 class="chapter">9 Misc</h2>
+
+<span id="Renaming-the-prefix-_0060_0060Website_0027_0027"></span><h3 class="section">9.1 Renaming the prefix &ldquo;Website&rdquo;</h3>
+<span id="index-renaming-Website"></span>
+<p>The prefix file name &rsquo;Website&rsquo; is set in several places. This prefix controls the name of output files such as <samp>Website.pdf</samp>, <samp>Website.epub</samp>, <samp>Website.dbk</samp> and <samp>Website.txt</samp>. You may want to change it to another name.
+<br>
+<br>
+<span id="index-Makefile-4"></span>
+<span id="index-Website_002etexi-4"></span>
+Edit the <samp>Makefile</samp> variable &rsquo;Manual = Website&rsquo; to something like &rsquo;Manual = YourName&rsquo;. Rename the Website.texi on the command line with &rsquo;mv Website.texi YourName.texi&rsquo;. Change the &rsquo;@set Manual Website&rsquo; inside the .texi file to &rsquo;@set Manual YourName&rsquo;. This will change the prefix file name &rsquo;Website&rsquo; to YourName. On the command line run <samp>make</samp> to test building the new outputs. The system will generate the files <samp>YourName.pdf</samp>, <samp>YourName.epub</samp>, <samp>Website.dbk</samp> and <samp>YourName.txt</samp>.
+<br>
+<br>
+If the <samp>Makefile</samp> becomes corrupt, dated backups can be found the directory <samp>texinfopublisher-1.1/bak/</samp>.
+</p>
+<span id="texinfopublisher_002d1_002e1_002ffiles-directory"></span><h3 class="section">9.2 <samp>texinfopublisher-1.1/files</samp> directory</h3>
+<span id="filesDirectory"></span><p>The <samp>files/</samp> directory can be used for miscellaneous files associated with your content. The use of this directory will reduce clutter. The <samp>files/</samp> directory is never cleaned by <code>make clean</code>.
+</p>
+<span id="Favicon"></span><h3 class="section">9.3 Favicon</h3>
+<span id="index-Shortcut-icon"></span>
+<span id="index-Web-site-icon"></span>
+<span id="index-bookmark-icon"></span>
+<span id="index-favicon_002eico"></span>
+<p>A favicon (shortcut icon, Web site icon, tab icon or bookmark icon) is provided as <samp>texinfopublisher-1.1/favicon.ico</samp>. Feel free to use or create your own favicon.
+</p>
+<span id="Automatic-backups"></span><h3 class="section">9.4 Automatic backups</h3>
+<span id="index-automated-backups"></span>
+<span id="index-backups"></span>
+<p>Every time the command <code>make</code> is run the <samp>texinfopublisher-1.1/bak/</samp> directory
+is populated with a copy of Website.texi with the date appended. The format of the
+date is year, month and day (YYYYMMDD). Therefore a backup created on Jan 8th 2014 will create the file
+<samp>bak/Website.texi.20140108</samp>. This backup file can be used if the <samp>Website.texi</samp> gets corrupted.
+</p>
+<span id="Installing-texi2any"></span><h3 class="section">9.5 Installing <code>texi2any</code></h3>
+<span id="installtexi2any"></span><span id="index-texi2any-1"></span>
+<p>If your system lacks <code>texi2any</code> or is running a version prior to 5.2 install the latest version from <a href="http://ftp.gnu.org/gnu/texinfo/">http://ftp.gnu.org/gnu/texinfo/</a>. Download the file most recent tar.gz file and do the following
+</p><div class="example">
+<pre class="example">tar xfz texinfo-5.2.tar.gz
+cd texinfo-5.2
+./configure
+make
+sudo make install
+</pre></div>
+<p>Confirm installation by typing
+</p><div class="example">
+<pre class="example">texi2any --version
+</pre></div>
+
+<span id="Compiling-Texinfo-Publisher-documentation"></span><h3 class="section">9.6 Compiling Texinfo Publisher documentation</h3>
+<span id="index-documentation"></span>
+<span id="index-TexinfoPublisher_002etexi"></span>
+<p>This Texinfo Publisher manual is written in GNU Texinfo. Inside the directory of <samp>texinfopublisher-1.1/doc/</samp> see a file <samp>TexinfoPublisher.texi</samp>. This is the source file that is compiled when the command <code>make</code> is run. The result of the compilation is the building of this Texinfo Publisher Manual (the manual that your are reading now). Change your working directory to <samp>texinfopublisher-1.1/doc/</samp> and type
+</p><div class="example">
+<pre class="example">make
+</pre></div>
+<p>This will compile the documentation into many formats.
+</p>
+<hr>
+<div class="header">
+<p>
+Next: <a href="GNU-Free-Documentation-License.html" accesskey="n" rel="next">GNU Free Documentation License</a>, Previous: <a href="Broken-link-checking.html" accesskey="p" rel="prev">Broken link checking</a>, Up: <a href="index.html" accesskey="u" rel="up">Top</a> &nbsp; [<a href="index.html#SEC_Contents" title="Table of contents" rel="contents">Contents</a>][<a href="Concept-index.html" title="Index" rel="index">Index</a>]</p>
+</div>
+
+
+<a href="texinfopublisher-1.1.pdf">PDF content of this website</a>
+</body>
+</html>

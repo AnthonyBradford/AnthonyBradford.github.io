@@ -1,0 +1,179 @@
+3 Compiling and viewing content
+*******************************
+
+3.1 Compiling content
+=====================
+
+In the directory 'texinfopublisher-1.1/' type the GNU / Linux command
+     make
+The 'Makefile' will execute and process the file Texinfo 'Website.texi'.
+The following files will build.
+'index.html'
+     This file has relative links to the .pdf, .txt, .epub and .zip
+     files.  Other associated HTML files many appear.
+'indexNoSplit.html'
+     This file has relative links to the .pdf, .txt, .epub and .zip
+     files.  Content is one large HTML page.
+'Website_frame.html'
+     Framed version of of index.html
+'Website.pdf'
+     PDF of website content.
+'Website.txt'
+     Text version of website content.
+'Website.epub'
+     EPUB book of website content.  This will only be created if your
+     system has the package 'dbtoepub' installed.
+'Website.dbk'
+     DocBook version of website content.
+'Website.zip'
+     Zip file of all HTML, PDF, DocBook, Text, and EPUB files.  All
+     content can be regenerated from this zip file distribution.
+'Website.tar.gz'
+     Compressed source tar file of all content including 'Makefile',
+     'configure' file and build scripts.  All content can be regenerated
+     from this tar file distribution.
+The HTML always has links to the non-HTML output formats.  Info, XML,
+PostScript, TeX DVI and DjVu output formats are not created by default.
+These formats can be added with command line options to 'make'.
+
+3.2 Viewing content
+===================
+
+To view content run the following command depending on which system or
+desktop you are running.
+Command                  System
+--------------------------------------------------------------
+firefox index.html       Unix/Linux
+nautilus .               GNOME Desktop
+kde-open index.html      KDE
+explorer .               Windows / Cygwin
+explorer index.html      Windows / Cygwin
+
+From the main HTML page, 'index.html', you will see links labeled
+   * PDF version of this website
+   * HTML version of this website
+   * Framed HTML version of this website
+   * Single-page HTML version of this website
+   * Text version of this website
+   * Plain text version of this website
+   * Split text version of this website
+   * Split plain text version of this website
+   * EPUB version of this website
+   * HTML zip package of this website
+   * Gzipped tar source of this website
+Click on these links to view the formats.  Content between all formats
+is matching.
+
+HTML or split HTML indicates Texinfo source is compiled to multiple HTML
+pages.  Single-page (non-split) HTML indicates Texinfo source is
+compiled to one large HTML page.
+
+3.3 More building options
+=========================
+
+'make pdf'
+     Builds PDF file Website.pdf
+'make djvu'
+     Builds DjVu file Website.djvu
+'make docbook'
+     Builds DocBook file Website.dbk
+'make xml'
+     Builds XML file Website.xml
+'make epub'
+     Builds EPUB file Website.epub
+'make frames'
+     Builds HTML with frames file Website_frame.html
+'make html2'
+     Builds index.html and associated HTML files with the command
+     'xmlto'.  This HTML output is a different style from the HTML
+     generated from 'make' or 'make all'.
+'make pdf2'
+     Builds Website.pdf with the command 'dblatex'.  This PDF is
+     different style from the PDF generated from 'make', 'make all' or
+     'make pdf'.
+'make dvi'
+     Builds Device independent file format (DVI) file Website.dvi.  All
+     .png, .jpg and .gif images are automatically converted to .eps
+     format in the directory 'images/'.
+'make ps'
+     Builds PostScript file Website.ps.  All .png, .jpg and .gif images
+     are automatically converted to the .eps format in the directory
+     'images/'.
+'make text'
+     This will build a text file with no headers Website.txt.  Images
+     are converted to ASCII.
+'make plaintext'
+     This will build a text file with no headers Website.txt Images are
+     not converted to ASCII.
+'make info'
+     This will build the Info file Website.info
+'make htmlhelp'
+     This will create the file Website.hhp which can be made into a
+     Microsoft HTML Helper file (.chm) with the Microsoft utility
+     hhc.exe.  Microsoft HTML Helper files (.chm) only run under the
+     Microsoft Windows operating system.
+'make zip'
+     Creates a .zip file distribution including 'Makefile' and build
+     scripts.  All content can be regenerated from this tar file.
+'make clean'
+     Clean all compiled content.  The source files of the content will
+     not be deleted.
+'make distclean'
+     Same as 'make clean' but all files in bak/ and images/bak
+     directories are deleted.
+'make distclean ; make dist'
+     Creates a compressed source tar file of all content including
+     'Makefile' and build scripts.  All content can be regenerated from
+     this tar file.
+'make CSS=css/janix-texinfo.css'
+     Generate HTML using the Cascading Style Sheet
+     'css/janix-texinfo.css'.
+'make CSS=css/bright-colors.css'
+     Generate HTML using the Cascading Style Sheet
+     'css/bright-colors.css'.
+'make help'
+     lists all 'make' options.
+
+3.4 'make' arguments to control output formats
+==============================================
+
+Texinfo Publisher's 'Makefile' uses the variable TEXI2DVI_FLAGS to
+control which output formats are created.  TEXI2DVI_FLAGS also controls
+links in the 'index.html' and 'indexNoSplit.html' to the output formats.
+The values of
+     SPLIT, NOSPLIT, PDF, DJVU, TEXT, ZIP, XML, DOCBOOK, EPUB, POSTSCRIPT,
+     DVI, INFO
+can be defined '-D' in the variable TEXI2DVI_FLAGS. Causing the
+associated output to be created.  Customization can be made by defining
+different values in TEXI2DVI_FLAGS. The variable TEXI2DVI_FLAGS can be
+customized on the command line.  See the following examples.
+
+'make clean; make TEXI2DVI_FLAGS='''
+     Do nothing.
+'make clean; make 'TEXI2DVI_FLAGS=-D SPLIT''
+     Generate index.html
+'make clean; make 'TEXI2DVI_FLAGS=-D SPLIT -D NOSPLIT''
+     Generate index.html and indexNoSplit.html
+'make clean; make 'TEXI2DVI_FLAGS=-D SPLIT -D NOSPLIT -D ZIP''
+     Generate index.html, indexNoSplit.html and Zip file content.
+'make clean; make 'TEXI2DVI_FLAGS=-D SPLIT -D NOSPLIT -D PDF''
+     Generate index.html, indexNoSplit.html and PDF.
+'make clean; make 'TEXI2DVI_FLAGS=-D SPLIT -D NOSPLIT -D PDF -D DJVU''
+     Generate index.html, indexNoSplit.html, PDF and DjVu.
+'make clean; make 'TEXI2DVI_FLAGS=-D SPLIT -D NOSPLIT -D PDF -D EPUB''
+     Generate index.html, indexNoSplit.html, PDF and EPUB.
+'make clean; make 'TEXI2DVI_FLAGS=-D SPLIT -D POSTSCRIPT -DVI''
+     Generate index.html, PostScript and TeX DVI.
+'make clean; make 'TEXI2DVI_FLAGS=-D SPLIT -D PDF''
+     Generate index.html and PDF.
+'make clean; make 'TEXI2DVI_FLAGS=-D SPLIT -D EPUB''
+     Generate index.html and EPUB.
+'make clean; make 'TEXI2DVI_FLAGS=-D SPLIT -D PDF -D EPUB''
+     Generate index.html, PDF and EPUB.
+HTML output always has links to non-HTML formats.  'make' and 'make all'
+are equivalent to 'make 'TEXI2DVI_FLAGS=-D SPLIT -D NOSPLIT -D PDF -D
+TEXT -D EPUB -D ZIP''.
+
+The variable TEXI2DVI_FLAGS can also be customized by editing the
+'Makefile'.
+

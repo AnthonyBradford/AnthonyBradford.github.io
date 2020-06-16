@@ -1,0 +1,70 @@
+1 Overview of Texinfo Publisher
+*******************************
+
+Texinfo Publisher is a 'Makefile' based publishing system featuring
+simultaneous content creation into HTML, non-split HTML, Framed HTML,
+HTML Zip, XML, DocBook, PDF, DjVu, PostScript, DVI, Plain text, Info and
+EPUB book formats.  All Texinfo Publisher output formats are from a
+single Texinfo source.  Texinfo Publisher can be used for website
+creation.
+
+Texinfo Publisher also features
+   * Spell checking
+   * Diction analysis
+   * Style analysis
+   * Broken link checking
+   * Batch image re-sizing
+   * Batch image conversions
+   * Automatic image conversion to EPS
+   * Automatic image conversion to ASCII art
+   * Alternative HTML and PDF styles
+   * Microsoft HTML Helper creation
+Texinfo Publisher is a low maintenance solution for publishing websites
+with multi-format matching content.  Texinfo Publisher can be used for
+proprietary corporate documentation.
+
+The Texinfo Publisher manual was published with Texinfo Publisher and is
+available in many formats.
+   * HTML version of this manual
+     (http://AnthonyBradford.com/TexinfoPublisher/index.html)
+   * Single-page HTML version of this manual
+     (http://AnthonyBradford.com/TexinfoPublisher/indexNoSplit.html)
+   * HTML zip package of this manual
+     (http://AnthonyBradford.com/TexinfoPublisher/texinfopublisher-1.1.zip)
+   * Text version of this manual
+     (http://AnthonyBradford.com/TexinfoPublisher/texinfopublisher-1.1.txt)
+   * DocBook version of this manual
+     (http://AnthonyBradford.com/TexinfoPublisher/texinfopublisher-1.1.dbk)
+   * EPUB version of this manual
+     (http://AnthonyBradford.com/TexinfoPublisher/texinfopublisher-1.1.epub)
+Texinfo Publisher is based on GNU Texinfo and is a unrelated project.
+
+1.1 GNU Texinfo wrapper
+=======================
+
+Texinfo Publisher is a wrapper for GNU Texinfo.  Texinfo Publisher
+compiles to many content formats (HTML, PDF, Text, Info, XML, DocBook,
+DVI, PostScript, EPUB) via a 'Makefile'.  The main HTML file
+'index.html' provides links to all content formats.  Content format
+links in 'index.html' can be controlled by arguments to the command
+'make'.
+
+1.2 Image processing
+====================
+
+Texinfo Publisher provides automatic image conversion from JPG, PNG and
+GIF to the EPS format.  The EPS image format is needed for PostScript
+and DVI output.
+
+Batch image re-sizing is also provided for optimal web viewing.
+
+1.3 Language analysis
+=====================
+
+Texinfo Publisher provides diction, style and spelling analysis.
+
+1.4 Broken link checking
+========================
+
+Texinfo Publisher provides broken link checking.
+

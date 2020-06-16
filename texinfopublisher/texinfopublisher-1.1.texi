@@ -1,0 +1,1093 @@
+\input texinfo @c -*-texinfo-*-
+@c %**start of header
+@set VERSION 1.1
+@set Website AnthonyBradford.com
+@set Directory TexinfoPublisher
+@set Manual texinfopublisher-@value{VERSION}
+@setfilename @value{Manual}.info
+@settitle Texinfo Publisher
+@paragraphindent none
+@codequoteundirected on
+
+@c Define a new index for options.
+@defcodeindex op
+@c Combine everything into one index (arbitrarily chosen to be the
+@c concept index).
+@syncodeindex op cp
+@c %**end of header
+@image{images/open_book_blue,,80pt,Picture of a open book,png}
+
+@copying
+This manual is for Texinfo Publisher (version @value{VERSION}), a @file{Makefile} based multi-format publishing system. Texinfo Publisher is based on GNU Texinfo and is a unrelated project.
+
+@quotation
+Copyright @copyright{}  @var{2012}  @var{A. Bradford}.
+Permission is granted to copy, distribute and/or modify this document
+under the terms of the GNU Free Documentation License, Version 1.3
+or any later version published by the Free Software Foundation;
+with no Invariant Sections, no Front-Cover Texts, and no Back-Cover
+Texts.  A copy of the license is included in the section entitled ``GNU
+Free Documentation License''.
+
+@end quotation
+@end copying
+
+@dircategory Manual
+@direntry
+* The Texinfo Publisher Manual.               Manual
+@end direntry
+
+@titlepage
+@title Texinfo Publisher Manual
+@subtitle for version @value{VERSION}
+@sp 10
+@author @email{anthony_bradford@@yahoo.com,A. Bradford}
+@page
+@vskip 0pt plus 1filll
+@insertcopying
+@end titlepage
+
+@ifnothtml
+@contents
+@end ifnothtml
+
+@ifnottex
+@node Top
+@top Texinfo Publisher Manual Version @value{VERSION}
+
+A @file{Makefile} based GNU Texinfo multi-format publishing system.
+@*
+Copyright @copyright{}  @var{2012}  @var{A. Bradford}.
+@end ifnottex
+
+@html
+@ifset PDF
+<a href="@value{Manual}.pdf">PDF version of this manual</a>
+<br>
+@end ifset
+@ifset DJVU
+<a href="@value{Manual}.djvu">DjVu content of this website</a>
+<br>
+@end ifset
+@ifset SPLIT
+<a href="index.html">HTML version of this manual</a>
+<br>
+@end ifset
+@ifset NOSPLIT
+<a href="indexNoSplit.html">Single-page HTML version of this manual</a>
+<br>
+@end ifset
+@ifset TEXT
+@cindex Text
+@cindex Plain text
+<a href="@value{Manual}.txt">Text version of this manual</a> 
+<br>
+@cindex Plain text
+<a href="@value{Manual}_PlainText.txt">Plain text version of this manual</a> 
+<br>
+<a href="textsplit/">Split text version of this manual</a>
+<br>
+<a href="plaintextsplit/">Split plain text version of this manual</a>
+<br>
+@end ifset
+@ifset EPUB
+@cindex EPUB
+<a href="@value{Manual}.epub">EPUB version of this manual</a> 
+<br>
+@end ifset
+@ifset POSTSCRIPT
+@cindex PostScript
+<a href="@value{Manual}.ps">PostScript version of this manual</a> 
+<br>
+@end ifset
+@ifset DVI
+@cindex @TeX{} DVI
+@cindex DVI
+<a href="@value{Manual}.dvi">@TeX{} DVI version of this manual</a> 
+<br>
+@end ifset
+@ifset ZIP
+@cindex Zip
+<a href="@value{Manual}.zip">HTML zip package of this manual</a>
+<br>
+@end ifset
+<a href="@value{Manual}.tar.gz">Gzipped tar source of this manual</a> 
+<br>
+<br>
+@end html
+
+@ifnottex
+@menu
+* Overview of Texinfo Publisher::
+* Downloading Texinfo Publisher::
+* Compiling and viewing content::
+* Learning GNU Texinfo::
+* Output formats::
+* Images::
+* Language analysis::
+* Broken link checking::
+* Misc::
+* GNU Free Documentation License::
+* Concept index::	Index of concepts.
+@end menu
+@end ifnottex
+
+@html
+@ifset LongContents
+@contents
+@end ifset
+@ifset ShortContents
+@shortcontents
+@end ifset
+@end html
+
+@node Overview of Texinfo Publisher
+@chapter Overview of Texinfo Publisher
+@cindex Overview of Texinfo Publisher
+@cindex Makefile
+Texinfo Publisher is a @file{Makefile} based publishing system featuring simultaneous content creation into HTML, non-split HTML, Framed HTML, HTML Zip, XML, DocBook, PDF, DjVu, PostScript, DVI, Plain text, Info and EPUB book formats. All Texinfo Publisher output formats are from a single Texinfo source. Texinfo Publisher can be used for website creation.
+@*
+@*
+Texinfo Publisher also features
+@itemize
+@item Spell checking
+@item Diction analysis
+@item Style analysis
+@item Broken link checking
+@item Batch image re-sizing
+@item Batch image conversions
+@item Automatic image conversion to EPS
+@item Automatic image conversion to ASCII art
+@item Alternative HTML and PDF styles
+@item Microsoft HTML Helper creation
+@end itemize
+@cindex Texinfo
+Texinfo Publisher is a low maintenance solution for publishing websites with multi-format matching content. Texinfo Publisher can be used for proprietary corporate documentation.
+@*
+@*
+@ifnothtml
+The Texinfo Publisher manual was published with Texinfo Publisher and is available in many formats.
+@itemize
+@item @url{http://@value{Website}/@value{Directory}/index.html,HTML version of this manual}
+@item @url{http://@value{Website}/@value{Directory}/indexNoSplit.html,Single-page HTML version of this manual}
+@item @url{http://@value{Website}/@value{Directory}/@value{Manual}.zip,HTML zip package of this manual}
+@item @url{http://@value{Website}/@value{Directory}/@value{Manual}.txt,Text version of this manual}
+@item @url{http://@value{Website}/@value{Directory}/@value{Manual}.dbk,DocBook version of this manual}
+@item @url{http://@value{Website}/@value{Directory}/@value{Manual}.epub,EPUB version of this manual}
+@c @item @url{http://@value{Website}/@value{Directory}/@value{Manual}.info,Info version of this manual}
+@c @item @url{http://@value{Website}/@value{Directory}/@value{Manual}.xml,XML version of this manual}
+@c @item @url{http://@value{Website}/@value{Directory}/@value{Manual}.ps,PostScript version of this manual}
+@c @item @url{http://@value{Website}/@value{Directory}/@value{Manual}.dvi,TeX DVI version of this manual}
+@end itemize
+@end ifnothtml
+Texinfo Publisher is based on GNU Texinfo and is a unrelated project.
+
+@section GNU Texinfo wrapper
+@cindex index.html
+@cindex Makefile
+Texinfo Publisher is a wrapper for GNU Texinfo. Texinfo Publisher compiles to many content formats (HTML, PDF, Text, Info, XML, DocBook, DVI, PostScript, EPUB) via a @file{Makefile}. The main HTML file @file{index.html} provides links to all content formats. Content format links in @file{index.html} can be controlled by arguments to the command @command{make}.
+
+@section Image processing
+Texinfo Publisher provides automatic image conversion from JPG, PNG and GIF to the EPS format. The EPS image format is needed for PostScript and DVI output.
+@*
+@*
+Batch image re-sizing is also provided for optimal web viewing.
+
+@section Language analysis
+Texinfo Publisher provides diction, style and spelling analysis.
+
+@section Broken link checking
+Texinfo Publisher provides broken link checking.
+
+@node Downloading Texinfo Publisher
+@chapter Downloading Texinfo Publisher
+@cindex Downloading Texinfo Publisher
+Texinfo Publisher works with the GNU / Linux operating system and Windows / Cygwin environments.
+
+@section Downloading
+@cindex texinfopublisher-@value{VERSION}.tar.gz
+@cindex tar
+Texinfo Publisher can be downloaded as a gzipped tar from @url{http://@value{Website}/@value{Directory}/texinfopublisher-@value{VERSION}.tar.gz,texinfopublisher-@value{VERSION}.tar.gz} or
+@url{https://sourceforge.net/projects/texinfo-web-publisher/?source=directory,sourceforge.net}.
+
+@section Configuring
+After downloading type the following commands
+
+@cindex configure
+@example
+tar xfz texinfopublisher-@value{VERSION}.tar.gz
+cd texinfopublisher-@value{VERSION}
+./configure
+@end example
+@cindex autotools
+The configure shell script will give system specific instructions on package installation depending on your system. This is @i{not} a autotools package.
+
+@section Configuration issues
+Texinfo Publisher will work with recent versions of @command{texi2any}. Texi2any (GNU texinfo) 5.2 or greater is recommended. To find out which version of @command{texi2any} your system is running type
+@example
+texi2any --version
+@end example
+If your system is running a older version you can install the latest version.
+@xref{installtexi2any,, Texi2any Installation}, for installation instructions.
+@*
+@*
+See @file{README.testing} in the tar package for information on systems Texinfo Publisher has been tested on.
+
+@node Compiling and viewing content
+@chapter Compiling and viewing content
+@cindex Compiling and viewing content
+
+@section Compiling content
+@cindex make
+In the directory @file{texinfopublisher-@value{VERSION}/} type the GNU / Linux command
+@example
+make
+@end example
+@cindex Makefile
+@cindex Website.texi
+The @file{Makefile} will execute and process the file Texinfo @file{Website.texi}. The following files will build.
+@table @samp
+@item index.html
+@cindex index.html
+@cindex HTML
+This file has relative links to the .pdf, .txt, .epub and .zip files. Other associated HTML files many appear.
+@item indexNoSplit.html
+@cindex indexNoSplit.html
+This file has relative links to the .pdf, .txt, .epub and .zip files. Content is one large HTML page.
+@item Website_frame.html
+@cindex Website_frame.html
+Framed version of of index.html
+@item Website.pdf
+@cindex .pdf
+@cindex PDF
+PDF of website content.
+@item Website.txt
+Text version of website content.
+@item Website.epub
+@cindex .epub
+@cindex EPUB
+EPUB book of website content. This will only be created if your system has the package @command{dbtoepub} installed.
+@item Website.dbk
+@cindex .dbk
+DocBook version of website content.
+@item Website.zip
+@cindex Zip
+@cindex .zip
+Zip file of all HTML, PDF, DocBook, Text, and EPUB files. All content can be regenerated from this zip file distribution.
+@item Website.tar.gz
+@cindex tar
+@cindex .tar.gz
+@cindex configure
+Compressed source tar file of all content including @file{Makefile}, @file{configure} file and build scripts. All content can be regenerated from this tar file distribution.
+@end table
+@cindex EPS
+@cindex .eps
+@cindex DjVu
+The HTML always has links to the non-HTML output formats.
+Info, XML, PostScript, @TeX{} DVI and DjVu output formats are not created by default.
+These formats can be added with command line options to @command{make}. 
+
+@section Viewing content
+To view content run the following command depending on which system or desktop you are running.
+@cindex kde-open
+@cindex Cygwin
+@cindex firefox
+@cindex GNOME Desktop
+@cindex nautilus
+@cindex explorer
+@multitable @columnfractions .33 .50
+@headitem Command @tab System
+@item firefox index.html
+@tab Unix/Linux
+@item nautilus .
+@tab GNOME Desktop
+@item kde-open index.html
+@tab KDE
+@item explorer .
+@tab Windows / Cygwin
+@item explorer index.html
+@tab Windows / Cygwin
+@end multitable
+@*
+From the main HTML page, @file{index.html}, you will see links labeled
+@cindex tar
+@itemize
+@item PDF version of this website
+@item HTML version of this website
+@item Framed HTML version of this website
+@item Single-page HTML version of this website
+@item Text version of this website
+@item Plain text version of this website
+@item Split text version of this website
+@item Split plain text version of this website
+@item EPUB version of this website
+@item HTML zip package of this website
+@item Gzipped tar source of this website 
+@end itemize
+Click on these links to view the formats. Content between all formats is matching.
+@*
+@*
+@cindex Split HTML
+@cindex Single-page HTML
+@cindex Non-split HTML
+@cindex HTML (split vs. non-split)
+HTML or split HTML indicates Texinfo source is compiled to multiple HTML pages. Single-page (non-split) HTML indicates Texinfo source is compiled to one large HTML page.
+
+@section More building options
+@table @samp
+@item make pdf
+@cindex PDF
+@cindex .pdf
+Builds PDF file Website.pdf
+@item make djvu
+@cindex DjVu
+Builds DjVu file Website.djvu 
+@item make docbook
+@cindex make docbook
+@cindex DocBook
+@cindex .dbk
+Builds DocBook file Website.dbk
+@item make xml
+@cindex XML
+@cindex .xml
+Builds XML file Website.xml
+@item make epub
+@cindex make epub
+@cindex EPUB
+@cindex .epub
+Builds EPUB file Website.epub
+@item make frames
+@cindex make frames
+@cindex frames
+@cindex HTML
+Builds HTML with frames file Website_frame.html
+@cindex xmlto
+@item make html2
+Builds index.html and associated HTML files with the command @command{xmlto}. This HTML output is a different style from the HTML generated from 'make' or 'make all'.
+@item make pdf2
+@cindex dblatex
+@cindex PDF
+Builds Website.pdf with the command @command{dblatex}. This PDF is different style from the PDF generated from 'make', 'make all' or 'make pdf'.
+@item make dvi
+@cindex make dvi
+@cindex DVI
+@cindex .dvi
+Builds Device independent file format (DVI) file Website.dvi. All .png, .jpg and .gif images are automatically converted to .eps format in the directory @file{images/}.
+@item make ps
+@cindex make ps
+@cindex PostScript
+@cindex .ps
+Builds PostScript file Website.ps. All .png, .jpg and .gif images are automatically converted to the .eps format in the directory @file{images/}.
+@item make text
+@cindex make text
+This will build a text file with no headers Website.txt. Images are converted to ASCII.
+@item make plaintext
+@cindex make plaintext
+This will build a text file with no headers Website.txt Images are @i{not} converted to ASCII.
+@item make info
+@cindex make info
+This will build the Info file Website.info
+@item make htmlhelp
+@cindex HTML Helper
+@cindex Microsoft HTML Helper
+@cindex .hhp
+This will create the file Website.hhp which can be made into a
+Microsoft HTML Helper file (.chm) with the Microsoft utility hhc.exe. Microsoft HTML Helper files (.chm) only run under the Microsoft Windows operating system.
+@item make zip
+@cindex make zip
+Creates a .zip file distribution including @file{Makefile} and build scripts. All content can be regenerated from this tar file.
+@item make clean
+@cindex make clean
+Clean all compiled content. The source files of the content will not be deleted.
+@cindex make distclean
+@item make distclean
+Same as @command{make clean} but all files in bak/ and images/bak directories are deleted.
+@item make distclean ; make dist
+@cindex make dist
+@cindex make distclean
+Creates a compressed source tar file of all content including @file{Makefile} and build scripts. All content can be regenerated from this tar file.
+@cindex Cascading Style Sheets
+@item make CSS=css/janix-texinfo.css
+Generate HTML using the Cascading Style Sheet @file{css/janix-texinfo.css}.
+@item make CSS=css/bright-colors.css
+Generate HTML using the Cascading Style Sheet @file{css/bright-colors.css}.
+@cindex make help
+@item make help
+lists all @command{make} options.
+@end table
+
+@section @command{make} arguments to control output formats
+@cindex TEXI2DVI_FLAGS
+@cindex index.html
+@cindex indexNoSplit.html
+@cindex Makefile
+Texinfo Publisher's @file{Makefile} uses the variable TEXI2DVI_FLAGS to control which output formats are created. TEXI2DVI_FLAGS also controls links in the @file{index.html} and @file{indexNoSplit.html} to the output formats. The values of
+@example
+SPLIT, NOSPLIT, PDF, DJVU, TEXT, ZIP, XML, DOCBOOK, EPUB, POSTSCRIPT,
+DVI, INFO
+@end example
+can be defined '-D' in the variable TEXI2DVI_FLAGS. Causing the associated output to be created. Customization can be made by defining different values in TEXI2DVI_FLAGS. The variable TEXI2DVI_FLAGS can be customized on the command line. See the following examples.
+
+@table @samp
+@item make clean; make TEXI2DVI_FLAGS=''
+Do nothing.
+@item make clean; make 'TEXI2DVI_FLAGS=-D SPLIT'
+Generate index.html
+@item make clean; make 'TEXI2DVI_FLAGS=-D SPLIT -D NOSPLIT'
+Generate index.html and indexNoSplit.html
+@item make clean; make 'TEXI2DVI_FLAGS=-D SPLIT -D NOSPLIT -D ZIP'
+Generate index.html, indexNoSplit.html and Zip file content.
+@item make clean; make 'TEXI2DVI_FLAGS=-D SPLIT -D NOSPLIT -D PDF'
+Generate index.html, indexNoSplit.html and PDF.
+@cindex DjVu
+@item make clean; make 'TEXI2DVI_FLAGS=-D SPLIT -D NOSPLIT -D PDF -D DJVU'
+Generate index.html, indexNoSplit.html, PDF and DjVu.
+@item make clean; make 'TEXI2DVI_FLAGS=-D SPLIT -D NOSPLIT -D PDF -D EPUB'
+Generate index.html, indexNoSplit.html, PDF and EPUB.
+@item make clean; make 'TEXI2DVI_FLAGS=-D SPLIT -D POSTSCRIPT -DVI'
+Generate index.html, PostScript and @TeX{} DVI.
+@item make clean; make 'TEXI2DVI_FLAGS=-D SPLIT -D PDF'
+Generate index.html and PDF.
+@item make clean; make 'TEXI2DVI_FLAGS=-D SPLIT -D EPUB'
+Generate index.html and EPUB.
+@item make clean; make 'TEXI2DVI_FLAGS=-D SPLIT -D PDF -D EPUB'
+Generate index.html, PDF and EPUB.
+@end table
+HTML output always has links to non-HTML formats. @command{make} and @command{make all} are equivalent to @command{make 'TEXI2DVI_FLAGS=-D SPLIT -D NOSPLIT -D PDF -D TEXT -D EPUB -D ZIP'}.
+@*
+@*
+The variable TEXI2DVI_FLAGS can also be customized by editing the @file{Makefile}.
+
+@node Learning GNU Texinfo
+@chapter Learning GNU Texinfo
+@cindex Learning GNU Texinfo
+@cindex Texinfo
+@cindex GNU Texinfo Manual
+@cindex Texinfo Manual
+@section GNU Texinfo web resources
+You will have to learn a little GNU Texinfo.
+See the @url{http://www.gnu.org/software/texinfo/manual/texinfo/,GNU Texinfo Manual} and the @url{http://svn.savannah.gnu.org/viewvc/*checkout*/trunk/doc/refcard/txirefcard.pdf?root=texinfo&content-type=text%2Fplain,GNU Texinfo Reference Card}. Don't be alarmed at the size of the GNU Texinfo Manual. Few Texinfo commands are needed to have great looking multi-format content.
+
+@section Basic changes
+@cindex Website.texi
+Inside the directory @file{texinfopublisher-@value{VERSION}/} you will see a file @file{Website.texi}. This is the source file that is compiled when the command @command{make} is run. The result of the compilation is the building of your content. Change your working directory to @file{texinfopublisher-@value{VERSION}/} and type
+@example
+make
+@end example
+You have compiled a basic template with examples. The @file{Makefile} is verbose and will give instructions to view the resulting output formats.
+@*
+@*
+@cindex vi
+@cindex emacs
+@cindex gedit
+@cindex kate
+@cindex notepad
+Using your favorite editor (@command{vi}, @command{emacs}, @command{gedit}, @command{kate}, @command{notepad}) edit
+@example
+@cindex Website.texi
+@file{texinfopublisher-@value{VERSION}/Website.texi}
+@end example
+Trying adding simple text to any of the nodes/sections and running @command{make} to re-compile from the command line. View the resulting output to confirm the changes.
+
+@section GNU Texinfo commands
+@subsection @@node
+@cindex @@node
+@cindex @@chapter
+Create new nodes (chapters) with the @@node command followed with a @@chapter command. All nodes names @i{must} also be declared between the @@menu and @@end menu section of the .texi file.
+@*
+@*
+Based on @i{all} the references to ``Chapter 9'' in @file{texinfopublisher-@value{VERSION}/Website.texi} think of what modifications would have to be made to the file to create a ``Chapter 10''.
+@*
+@*
+Try creating a ``Chapter 10''. Try creating a chapter named ``Information''.
+
+@subsection @@section / @@subsection / @@subsubsection
+@cindex @@section
+@cindex @@subsection
+@cindex @@subsubsection
+Content between @@node commands such as text between ``@@node Chapter 1'' and ``@@node Chapter 2'' in @file{texinfopublisher-@value{VERSION}/Website.texi} can be broken down into sections, subsections and subsubsections.
+@*
+@*
+Try adding text content to sections / subsections and subsubsections. Try adding more sections. Add text like the following
+@example
+@@section Another section example
+@end example
+
+@subsection @@
+@cindex @@
+The at sign @@ is a special character that starts all Texinfo commands. To generated an at sign @@ character in Texinfo two @@@@ characters must be entered in the source .texi file. The email address anthony_bradford@@yahoo.com will have to be written as anthony_bradford@@@@yahoo.com in a .texi file.
+@*
+@*
+The @{ and @} characters also have to be preceded with an at sign @@. Use @@@{ to generate @{ and @@@} to generate @}.
+
+@subsection @@c
+@cindex @@c
+The @@c Texinfo command generates a comment.
+This would be a comment in a Texinfo file.
+@example
+@@c This is a comment.
+@end example
+
+@subsection @@*
+@cindex @@*
+The @@* command creates a line break.
+@*
+@*
+Try adding some line breaks between sentences.
+
+@subsection @@b
+@cindex bold
+@cindex font
+@cindex @@b
+Write in @b{bold} text by using the @@b command. If you write
+@example
+@@b@{This will produce bold text@}.
+@end example
+You will get
+@example
+@b{This will produce bold text}.
+@end example
+
+@subsection @@i
+@cindex italics
+@cindex @@i
+Write in @i{italics} by using the @@i command. If you write
+@example
+@@i@{This will produce italics text@}.
+@end example
+You will get
+@example
+@i{This will produce italics text}.
+@end example
+
+@subsection @@sansserif
+@cindex @@sansserif
+Write in @sansserif{sans serif} font by using the @@sansserif command. If you write
+@example
+@@sansserif@{This will produce sans serif@}.
+@end example
+You will get
+@example
+@sansserif{This will produce sans serif}.
+@end example
+
+@subsection @@url
+@@url produces a hypertext URL link
+@*
+@*
+@cindex @@url
+@@url@{http://fsf.org@} produces @url{http://fsf.org}.
+@*
+@*
+@@url@{http://fsf.org,The Free Software Foundation@} produces @url{http://fsf.org,The Free Software Foundation}.
+
+@subsection @@email
+@cindex @@email
+@@email produces a hypertext mailto: email address. Remember to generate an at sign @@ two are needed @@@@.
+@*
+@*
+@@email@{anthony_bradford@@@@yahoo.com@} produces @email{anthony_bradford@@yahoo.com}.
+@*
+@*
+@@email@{anthony_bradford@@@@yahoo.com,Anthony Bradford@} produces @email{anthony_bradford@@yahoo.com,Anthony Bradford}.
+@*
+@*
+Note that anthony_bradford@@@@yahoo.com produces anthony_bradford@@yahoo.com, which is a email address with no hyperlink properties.
+
+@subsection @@example / @@smallexample
+@cindex @@example
+@cindex @@smallexample
+@@example
+@*
+This is example text
+@*
+@@end example
+@*
+@*
+Produces
+@*
+@example
+This is example text.
+@end example
+@*
+@@smallexample
+@*
+This is small example text.
+@*
+@@end smallexample
+@*
+@*
+Produces
+@*
+@smallexample
+This is small example text.
+@end smallexample
+
+@subsection @@itemize
+@cindex @@itemize
+@@itemize
+@*
+@@item one
+@*
+@@item two
+@*
+@@item three
+@*
+@@item four
+@*
+@@end itemize
+@*
+@*
+Will produce
+@*
+@itemize
+@item one
+@item two
+@item three
+@item four
+@end itemize
+@cindex @@enumerate
+@cindex @@table
+@cindex @@multitable.
+@cindex GNU Texinfo Manual
+@cindex Texinfo Manual
+See the @url{http://www.gnu.org/software/texinfo/manual/texinfo/,GNU Texinfo Manual} for other list and table commands such as @@enumerate, @@table and @@multitable. The GNU Texinfo Manual has many examples.
+
+@subsection @@image
+@anchor{image}
+@cindex @@image
+Keep all images in the directory @file{texinfopublisher-@value{VERSION}/images/}. Image file name extensions (.jpg, .png, .eps) should always be kept lowercase. The @file{images/} directory is never cleaned by @command{make clean}. The command
+@example
+@cindex open book image
+@cindex image open book
+@@image@{images/open_book_blue,,80pt,Picture of a open book,png@}
+@end example
+inserts the image @file{texinfopublisher-@value{VERSION}/images/open_book_blue.png} into your content.
+@*
+Producing
+@*
+@*
+@image{images/open_book_blue,,80pt,Picture of a open book,png}
+@*
+@*
+Use the @@center command to center the image
+@example
+@@center @@image@{images/open_book_blue,,80pt,Picture of a open book,png@}
+@end example
+Produces
+@*
+@*
+@center @image{images/open_book_blue,,80pt,Picture of a open book,png}
+@*
+@*
+The argument ``80pt'' is the image point scaling. This is impacting to PDF/DVI/PostScript output but not impacting to HTML/EPUB output. The following examples are scaled larger in the PDF/DVI/PostScript content but are the same size in the HTML/EPUB content. Switch to other content formats by clicking here @url{http://@value{Website}/@value{Directory}/index.html,here}.
+@*
+@*
+@example
+@@image@{images/open_book_blue,,120pt,Picture of a open book,png@}
+@end example
+Produces
+@*
+@*
+@image{images/open_book_blue,,120pt,Picture of a open book,png}
+@*
+@*
+@example
+@@image@{images/open_book_blue,,150pt,Picture of a open book,png@}
+@end example
+Produces
+@*
+@*
+@image{images/open_book_blue,,150pt,Picture of a open book,png}
+@*
+@*
+@example
+@@image@{images/open_book_blue,,180pt,Picture of a open book,png@}
+@end example
+Produces
+@*
+@*
+@image{images/open_book_blue,,180pt,Picture of a open book,png}
+@*
+@*
+
+@subsection @@cindex
+@cindex @@cindex
+Index items using the @@cindex command.
+@cindex blueberry
+@example
+@@cindex blueberry
+@end example
+Will place the word blueberry in the ending index of this document. @xref{Concept index}, and look for blueberry.
+
+@subsection @@paragraphindent
+@cindex @@paragraphindent
+To turn off automatic paragraph indenting use the command
+@example
+@@paragraphindent none
+@end example
+@cindex Website.texi
+Place this command towards the top the of Website.texi file. This manual was written with paragraph indenting turned off.
+
+@subsection @@cartouche
+@cindex @@cartouche
+@cindex box
+@@cartouche
+@*
+This is a test. 
+@*
+@@end cartouche
+@*
+@*
+Produces text in a box.
+@*
+@cartouche
+This is a test.
+@end cartouche
+@@cartouche is @i{not} translated into the EPUB book format.
+
+@node Output formats
+@chapter Output formats
+@cindex Output formats
+All output formats should be inspected.
+
+@section HTML
+@cindex HTML
+@cindex index.html
+@cindex indexNoSplit.html
+GNU Texinfo generates high quality HTML. HTML images are @i{not} scaled with the @@image command. @xref{imageresize,,Image re-sizing}, to re-size images. Text exceeding page width is not a concern in HTML. The files @file{index.html} and @file{indexNoSplit.html} will have links to other content output formats due to the framework of the Texinfo Publisher.
+
+@section PDF
+@cindex PDF
+@subsection PDF restrictions
+@cindex @@*
+GNU Texinfo generates high quality PDFs, but the PDF format is restrictive. PDFs have limited page width. Text or images can exceed a PDFs page width. HTML output can be problem free while there are issues with the PDF output. If text runs over a PDFs page width force a newline via the @@* command. Be careful of the @@image command. A large image can exceed a PDFs page width. Adjust the images point scale to a lower value until the image fits within the PDF page.
+@*
+@*
+@xref{image,,Images}, for more information on images.
+
+@subsection Viewing PDFs
+@cindex evince
+The GNOME document viewer @command{evince} can be used to view PDFs.
+
+@section EPUB
+@cindex dbtoepub
+@cindex texi2any
+@cindex EPUB
+@cindex makeinfo
+@cindex DocBook
+@cindex .epub
+EPUB (.epub) is not generated directly from GNU Texinfo. Texinfo is converted into DocBook via @command{makeinfo}/@command{texi2any}, then converted into EPUB via @command{dbtoepub}. Texinfo not generating EPUB directly is considered a @url{http://savannah.gnu.org/bugs/?24973,bug}.
+
+@subsection EPUB line break issues
+@cindex @@*
+The @@* commands are not passed to EPUB output causing some text not to have line breaks. One solution is to globally replace all references of @@* to the next 4 lines:
+@example
+@@*
+@@ifdocbook
+
+@@end ifdocbook
+@end example
+
+@subsection EPUB double index issues
+@cindex @@ifdocbook
+In the table of contents two link references to the ending index can be generated with some versions of Texinfo. The program, @url{http://www.google.com/search?q=sigil+EPUB,Sigil - The EPUB Editor}, can be used to remove one of the index references.
+@*
+@*
+@cindex yum
+Sigil can be installed on @command{yum} based systems with the command
+@example
+sudo yum install sigil
+@end example
+
+@subsection Viewing the EPUB book format
+@cindex okular
+@cindex sigil
+The EPUB book format can be viewed with the programs @command{sigil} and @command{okular}. @command{okular} may also need the okular-extra-backends package installed.
+
+@section PostScript and DVI
+@cindex PostScript
+@cindex DVI
+@cindex EPS
+@cindex .eps
+@cindex .ps
+@cindex .dvi
+PostScript (.ps) and the DVI output formats (.dvi) both need images to be stored in the Encapsulated PostScript (EPS) format. Images should be stored in the directory @file{texinfopublisher-@value{VERSION}/images/}. To convert images to the EPS format try the following
+@table @samp
+@cindex jpg2eps
+@cindex make jpg2eps
+@item make jpg2eps
+@cindex EPS
+Converts the JPG format to the EPS format.
+@cindex png2eps
+@cindex make png2eps
+@item make png2eps
+Converts the PNG format to the EPS format.
+@cindex gif2eps
+@cindex make gif2eps
+@item make gif2eps
+Converts the GIF format to the EPS format.
+@end table
+@*
+The commands @command{make dvi} and @command{make ps} both automatically run jpg2eps, png2eps and gif2eps.
+@*
+@*
+@xref{Imageconverting,,Image converting}, for more information on converting images.
+
+@section Zip file
+@cindex Zip
+@cindex .zip
+Un-zip the @file{Website.zip} into any public_html web server space. @file{Website.zip} can be un-zipped to a directory below public_html but you must establish a link to the content.
+
+@section Microsoft HTML Helper file
+@cindex HTML Helper
+@cindex .chm
+@cindex a2x
+@cindex hhc.exe
+@cindex @@ifdocbook
+Microsoft HTML Helper (.chm) is not generated directly from Texinfo. Texinfo is converted into DocBook via @command{makeinfo}/@command{texi2any}, then converted into Microsoft HTML Helper via @command{a2x} and @command{hhc.exe}. With some versions of Texinfo the @@* commands are not passed to Microsoft HTML Helper files causing some text not to have line breaks. One solution is to globally replace all references of @@* to the next 4 lines:
+@example
+@@*
+@@ifdocbook
+
+@@end ifdocbook
+@end example
+Microsoft HTML Helper files (.chm) only run under the Microsoft Windows operating system and cannot be run from network drives.
+
+@section Plain text
+@cindex Plain text
+@cindex @@image
+@cindex alttext
+GNU Texinfo generates high quality plain text. Images are not passed to the plain text generated. Ensure when using the @@image command in .texi sources that the @@image argument alttext gives a description of the image. In the @@image example below the alttext is ``Picture of a open book''.
+@example
+@@image@{images/open_book_blue,,180pt,Picture of a open book,png@}
+@end example
+In the compiled plain text output you will see
+@example
+[Picture of a open book]
+@end example
+
+@node Images
+@chapter Images
+@cindex images
+
+@section Public domain image resources
+@cindex public domain resources
+Use images in your documents. If you did not create the image use a public
+domain image.
+@*
+@*
+For a list of public domain image resources see
+@*
+@url{http://en.wikipedia.org/wiki/Wikipedia:Public_domain_image_resources}
+@*
+@*
+The image of the open blue book used in this manual is from the public domain.
+@xref{image,,Images}.
+
+@section Image re-sizing
+@cindex make resizejpg
+@cindex make resizepng
+@anchor{imageresize}
+Keep all images in the directory @file{texinfopublisher-@value{VERSION}/images/}.
+@*
+@*
+If you want to re-size JPEG images for HTML display type on the command line
+@example
+make resizejpg
+@end example
+To re-size PNG images type
+@example
+make resizepng
+@end example
+To re-size both JPEG and PNG files
+@example
+make resize
+@end example
+The @command{make resize} command makes backups of the original images in @file{images/bak/} directory. All images will be re-sized to 960x576, 640x480 and 320x240. These new image sizes might be better for HTML display.
+
+@section Image format converting
+@anchor{Imageconverting}
+Texinfo Publisher does batch image format conversions in the directory @file{texinfopublisher-@value{VERSION}/images/}.
+Images are converted to the target formats. The original image format file is left un-touched.
+@cindex .jpg
+@cindex .png
+@cindex .gif
+@cindex .eps
+@cindex .pdf
+@table @samp
+@cindex jpg2eps
+@cindex EPS
+@cindex make jpg2eps
+@item make jpg2eps
+Converts JPG format to the EPS format.
+@cindex png2eps
+@cindex make png2eps
+@item make png2eps
+Converts PNG format to the EPS format.
+@cindex gif2eps
+@cindex make gif2eps
+@item make gif2eps
+@cindex make gif2eps
+Converts GIF format to the EPS format.
+@cindex jpg2png
+@item make jpg2png
+@cindex make jpg2png
+@cindex JPG
+@cindex PNG
+Converts JPG format to the PNG format.
+@cindex gif2png
+@cindex GIF
+@cindex make gif2png
+@item make gif2png
+Converts GIF format to the PNG format.
+@cindex gif2jpg
+@cindex make gif2jpg
+@item make gif2jpg
+Converts GIF format to the JPG format.
+@cindex eps2pdf
+@cindex make eps2pdf
+@item make eps2pdf
+Converts EPS format to the PDF format.
+@cindex jpg2txt
+@cindex make jpg2txt
+@cindex jp2a
+@item make jpg2txt
+Converts JPG to ASCII text file using @command{jp2a}.
+@cindex png2txt
+@cindex make png2txt
+@item make png2txt
+Converts PNG to ASCII text file using @command{jp2a}.
+@end table
+
+@node Language analysis
+@chapter Language analysis
+@cindex language analysis
+
+@section Spell checking
+@cindex make spelling
+@cindex spelling
+To spell check content type on the command line
+@example
+make spelling
+@end example
+@cindex apsell
+@cindex GNU aspell
+The GNU @command{aspell} interactive spell checker will be run on your .texi content. If @command{apsell} flags words such as ``HTML'', ``EPUB'', ``DVI'' as spelled wrong, use the ``a) Add'' feature so these words are not flagged on the next run.
+@*
+@*
+For more information on @command{aspell} type @command{man aspell} on the command line.
+
+@section Diction analysis
+@cindex diction analysis
+@cindex GNU diction
+@cindex make diction
+To diction analyze content type on the command line
+@example
+make diction
+@end example
+The GNU @command{diction} analyzer will be run on your text output.
+GNU @command{diction} prints wordy and commonly misused phrases in sentences.
+@*
+@*
+For more information on @command{diction} type @command{man diction} on the command line.
+
+@section Style analysis
+@cindex style analysis
+@cindex GNU style
+@cindex make style
+To style analyze content type on the command line
+@example
+make style
+@end example
+@cindex readability grades
+The GNU @command{style} analyzer will be run on your text output.
+Your content will be analyzed for readability grades, sentence info, word usage and sentence beginnings.
+@*
+@*
+For more information on @command{style} type @command{man style} on the command line.
+
+@node Broken link checking
+@chapter Broken link checking
+@cindex broken link checking
+@cindex linkchecker
+@cindex HTML
+@cindex make linkchecker
+To find broken links in HTML output run the command
+@example
+make linkchecker
+@end example
+@cindex firefox
+A file @file{linkchecker-out.html} will be created. This file gives a report on bad links.
+View this file by typing @command{firefox linkchecker-out.html} on the command line.
+
+@node Misc
+@chapter Misc
+
+@section Renaming the prefix ``Website''
+@cindex renaming Website
+The prefix file name 'Website' is set in several places. This prefix controls the name of output files such as @file{Website.pdf}, @file{Website.epub}, @file{Website.dbk} and @file{Website.txt}. You may want to change it to another name.
+@*
+@*
+@cindex Makefile
+@cindex Website.texi
+Edit the @file{Makefile} variable 'Manual = Website' to something like 'Manual = YourName'. Rename the Website.texi on the command line with 'mv Website.texi YourName.texi'. Change the '@@set Manual Website' inside the .texi file to '@@set Manual YourName'. This will change the prefix file name 'Website' to YourName. On the command line run @file{make} to test building the new outputs. The system will generate the files @file{YourName.pdf}, @file{YourName.epub}, @file{Website.dbk} and @file{YourName.txt}.
+@*
+@*
+If the @file{Makefile} becomes corrupt, dated backups can be found the directory @file{texinfopublisher-@value{VERSION}/bak/}.
+
+@section @file{texinfopublisher-@value{VERSION}/files} directory
+@anchor{filesDirectory}
+The @file{files/} directory can be used for miscellaneous files associated with your content. The use of this directory will reduce clutter. The @file{files/} directory is never cleaned by @command{make clean}.
+
+@section Favicon
+@cindex Shortcut icon
+@cindex Web site icon
+@cindex bookmark icon
+@cindex favicon.ico
+A favicon (shortcut icon, Web site icon, tab icon or bookmark icon) is provided as @file{texinfopublisher-@value{VERSION}/favicon.ico}. Feel free to use or create your own favicon.
+
+@section Automatic backups
+@cindex automated backups
+@cindex backups
+Every time the command @command{make} is run the @file{texinfopublisher-@value{VERSION}/bak/} directory
+is populated with a copy of Website.texi with the date appended. The format of the
+date is year, month and day (YYYYMMDD). Therefore a backup created on Jan 8th 2014 will create the file
+@file{bak/Website.texi.20140108}. This backup file can be used if the @file{Website.texi} gets corrupted.
+
+@section Installing @command{texi2any}
+@anchor{installtexi2any}
+@cindex texi2any
+If your system lacks @command{texi2any} or is running a version prior to 5.2 install the latest version from @url{http://ftp.gnu.org/gnu/texinfo/}. Download the file most recent tar.gz file and do the following
+@example
+tar xfz texinfo-5.2.tar.gz
+cd texinfo-5.2
+./configure
+make
+sudo make install
+@end example
+Confirm installation by typing
+@example
+texi2any --version
+@end example
+
+@section Compiling Texinfo Publisher documentation
+@cindex documentation
+@cindex TexinfoPublisher.texi
+This Texinfo Publisher manual is written in GNU Texinfo. Inside the directory of @file{texinfopublisher-@value{VERSION}/doc/} see a file @file{TexinfoPublisher.texi}. This is the source file that is compiled when the command @command{make} is run. The result of the compilation is the building of this Texinfo Publisher Manual (the manual that your are reading now). Change your working directory to @file{texinfopublisher-@value{VERSION}/doc/} and type
+@example
+make
+@end example
+This will compile the documentation into many formats.
+
+@node GNU Free Documentation License
+@appendix GNU Free Documentation License
+@cindex GNU Free Documentation License
+@cindex license
+@include fdl.texi
+
+@node Concept index
+@unnumbered Concept index
+@printindex cp
+
+@bye

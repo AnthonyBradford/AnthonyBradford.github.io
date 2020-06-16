@@ -1,0 +1,37 @@
+7 Language analysis
+*******************
+
+7.1 Spell checking
+==================
+
+To spell check content type on the command line
+     make spelling
+The GNU 'aspell' interactive spell checker will be run on your .texi
+content.  If 'apsell' flags words such as "HTML", "EPUB", "DVI" as
+spelled wrong, use the "a) Add" feature so these words are not flagged
+on the next run.
+
+For more information on 'aspell' type 'man aspell' on the command line.
+
+7.2 Diction analysis
+====================
+
+To diction analyze content type on the command line
+     make diction
+The GNU 'diction' analyzer will be run on your text output.  GNU
+'diction' prints wordy and commonly misused phrases in sentences.
+
+For more information on 'diction' type 'man diction' on the command
+line.
+
+7.3 Style analysis
+==================
+
+To style analyze content type on the command line
+     make style
+The GNU 'style' analyzer will be run on your text output.  Your content
+will be analyzed for readability grades, sentence info, word usage and
+sentence beginnings.
+
+For more information on 'style' type 'man style' on the command line.
+

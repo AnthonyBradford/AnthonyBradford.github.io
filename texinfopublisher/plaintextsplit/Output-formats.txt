@@ -1,0 +1,127 @@
+5 Output formats
+****************
+
+All output formats should be inspected.
+
+5.1 HTML
+========
+
+GNU Texinfo generates high quality HTML. HTML images are not scaled with
+the @image command.  *Note Image re-sizing: imageresize, to re-size
+images.  Text exceeding page width is not a concern in HTML. The files
+'index.html' and 'indexNoSplit.html' will have links to other content
+output formats due to the framework of the Texinfo Publisher.
+
+5.2 PDF
+=======
+
+5.2.1 PDF restrictions
+----------------------
+
+GNU Texinfo generates high quality PDFs, but the PDF format is
+restrictive.  PDFs have limited page width.  Text or images can exceed a
+PDFs page width.  HTML output can be problem free while there are issues
+with the PDF output.  If text runs over a PDFs page width force a
+newline via the @* command.  Be careful of the @image command.  A large
+image can exceed a PDFs page width.  Adjust the images point scale to a
+lower value until the image fits within the PDF page.
+
+*Note Images: image, for more information on images.
+
+5.2.2 Viewing PDFs
+------------------
+
+The GNOME document viewer 'evince' can be used to view PDFs.
+
+5.3 EPUB
+========
+
+EPUB (.epub) is not generated directly from GNU Texinfo.  Texinfo is
+converted into DocBook via 'makeinfo'/'texi2any', then converted into
+EPUB via 'dbtoepub'.  Texinfo not generating EPUB directly is considered
+a bug (http://savannah.gnu.org/bugs/?24973).
+
+5.3.1 EPUB line break issues
+----------------------------
+
+The @* commands are not passed to EPUB output causing some text not to
+have line breaks.  One solution is to globally replace all references of
+@* to the next 4 lines:
+     @*
+     @ifdocbook
+
+     @end ifdocbook
+
+5.3.2 EPUB double index issues
+------------------------------
+
+In the table of contents two link references to the ending index can be
+generated with some versions of Texinfo.  The program, Sigil - The EPUB
+Editor (http://www.google.com/search?q=sigil+EPUB), can be used to
+remove one of the index references.
+
+Sigil can be installed on 'yum' based systems with the command
+     sudo yum install sigil
+
+5.3.3 Viewing the EPUB book format
+----------------------------------
+
+The EPUB book format can be viewed with the programs 'sigil' and
+'okular'.  'okular' may also need the okular-extra-backends package
+installed.
+
+5.4 PostScript and DVI
+======================
+
+PostScript (.ps) and the DVI output formats (.dvi) both need images to
+be stored in the Encapsulated PostScript (EPS) format.  Images should be
+stored in the directory 'texinfopublisher-1.1/images/'.  To convert
+images to the EPS format try the following
+'make jpg2eps'
+     Converts the JPG format to the EPS format.
+'make png2eps'
+     Converts the PNG format to the EPS format.
+'make gif2eps'
+     Converts the GIF format to the EPS format.
+
+The commands 'make dvi' and 'make ps' both automatically run jpg2eps,
+png2eps and gif2eps.
+
+*Note Image converting: Imageconverting, for more information on
+converting images.
+
+5.5 Zip file
+============
+
+Un-zip the 'Website.zip' into any public_html web server space.
+'Website.zip' can be un-zipped to a directory below public_html but you
+must establish a link to the content.
+
+5.6 Microsoft HTML Helper file
+==============================
+
+Microsoft HTML Helper (.chm) is not generated directly from Texinfo.
+Texinfo is converted into DocBook via 'makeinfo'/'texi2any', then
+converted into Microsoft HTML Helper via 'a2x' and 'hhc.exe'.  With some
+versions of Texinfo the @* commands are not passed to Microsoft HTML
+Helper files causing some text not to have line breaks.  One solution is
+to globally replace all references of @* to the next 4 lines:
+     @*
+     @ifdocbook
+
+     @end ifdocbook
+Microsoft HTML Helper files (.chm) only run under the Microsoft Windows
+operating system and cannot be run from network drives.
+
+5.7 Plain text
+==============
+
+GNU Texinfo generates high quality plain text.  Images are not passed to
+the plain text generated.  Ensure when using the @image command in .texi
+sources that the @image argument alttext gives a description of the
+image.  In the @image example below the alttext is "Picture of a open
+book".
+     @image{images/open_book_blue,,180pt,Picture of a open book,png}
+In the compiled plain text output you will see
+     [Picture of a open book]
+

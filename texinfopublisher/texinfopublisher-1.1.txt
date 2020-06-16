@@ -1,0 +1,1995 @@
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWNX0kkkxxxxxxxxxxxxxxxxxxxdxxxxxdoo0WMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNOxxxxxxxxxkkkkOOOOOOkkkOOO0000KNWWMMW0ddxXWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWWWNNNNWWMMMMMMMMMMMMMMNxodkKNWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWKdlokXMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMNKOkkkkOO0000000OkkxOXWMMMMMXkxk0WMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWKOkkx0WMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMWN0kxddxOXNMMMMMMMMMMMMN0xodxXMXxlxXMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWXxdx0WMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMWKkoodkXWMMMMMMMMMMMMMMMMMMMMWXkooclXMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWKkolxKWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMNkddx0NMMMMMMMMMMMMMMMMMMMMMMMMMMMXdc:dKWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWKxodOWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMWXOkkkONMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWKxloxNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWXkxkOKWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMKdddxKWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMW0lc0WMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMXkdod0WMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMWXOdokXWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWk;l0WMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWXkodKWMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMKdc;oOKWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMXkold0WMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWKkkxk0NMMMMMMMMMMMMMMMMMMMMMM
+MMMMK,;xl;xWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMXo:c0MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNOdddKMMMMMMMMMMMMMMMMMMMM
+MMMMx'kWWk:dWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMXd:kNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNOod0NMMMMMMMMMMMMMMMMM
+MMMMllNMMWKldNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMKoloONMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMW0kkkkONMMMMMMMMMMMMM
+MMKo'dWMMMMWdlXMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNx:;dXMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMW0doxXWMMMMMMMMMM
+MMXl..dNMMMMXcc0WMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNx:;kWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWNNXXXKK000OOkkkxxddollcc:.'dXMMMMMMMMM
+MMMWo..:OWMMMXd:dXMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMN0llxXWMMMMMMMMMMMMMMMMMMMMWXK0kxddooollllllooooooodddddddddddxxxxko.cNMMMMMMMMM
+MMMMNo. .oXMMMMKl:OWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWO:,l0WMMMMMMMMMMMMMMWXkl;,;:codxO0KXNNWWMMMMMMMMMMMMMMMMMMMMMMMMX,.oKWMMMMMMM
+MMMMMWx' .cKMMMMXo;xWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNk:,cOWMMMMMMMMMN0dc;;ok0XWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWl. .cxXWMMMM
+MMMMMMWk,..;KMMMMWk;kMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNOc'dWMMMMMMNk:,cxKNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMO'   .'dNMMM
+MMMMMMMMKl..;KMMMMMKlkWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWKoco0NMW0ccxKWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWWWWWNo.    .,kWM
+MMMMMMMMMWO,.,kWMMMMK:lKMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWNX0Okkxddddddod:..;dl.dWMMMMMMMMMMMMMMMNK0OOOOOkxddoolllcc:::::;;;;;;;;;;'.     .oWM
+MMMMMMMMMMW0' .dNMMMM0::OWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWN0kdooloooodddxxxxxdddo,...dNMMMMMMMMMMMWKkdl,........                             ...,kWM
+MMMMMMMMMMMMO'..;OWMMMNxcdXMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWX0xdddddxk0XWWMMMMMMMMMMMMMKl..,x0kkkKWMMMNOdc,..                 .....''',;::cloodxxkkOO0KXNWMM
+MMMMMMMMMMMMMK:. .oNMMMMKc;kWMMMMMMMMMMMMMMMMMMMMMMMMMWKxl:clkXNMMMMMMMMMMMMMMMMMMMMMK'  ....   .dWNk;.         .....,;:cldxxk0KKXNNNWMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMXo. .cXMMMMNd;OMMMMMMMMMMMMMMMMMMMMMMWKxlccdOXMMMMMMMMMMMMMMMMMMMMMMMMMo           'c;..',;;::cloxkO0KXNWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMWO;..cXMMMMW0lOWMMMMMMMMMMMMMMMWXOxoloxKNWMMMMMMMMMMMMMMMMMWWWWNNNNNNN:           .';o0NNNWWWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMNo..;0MMMMM0;oNMMMMMMMMMMMMKoccoxKWMMMMMMMMMMMMMMMMWXkdolc:;,,''',,,.       .,cdOXWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMWx. 'kWMMMM0:cKMMMMMMMN0xlldONMMMMMMMMMMMMMMWNKkol:..      ..;cllc;;,;;:codONWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMWx. .cKMMMMXd:dXN0xxxdxk0NMMMMMMMMMMMMNKOxc,'..   ..',:lox0XWMMMMWWWWWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMWk'  'xNMMMM0:,:okXWMMMMMMMMMMMMMNOxl,..     .';cxKNWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMW0;. .lNMMMWo.dWMMMMMMMMMMMMMNOd;..     .:ldOKNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMKc. .xMMMNc.kMMMMMMMMMMN0xl,.   ..,:ld0WMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMNx'..dXMK;,KMMMMMWX0d;'.....,cxOKNWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMXc..;0x.lWMMXOo:'. ..;lx0XWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMX; .,,.dNOc,. ..'lkKWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMK;. ..,'.':ldkKNWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMNo...;lONMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNOOKWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+Texinfo Publisher Manual Version 1.1
+1 Overview of Texinfo Publisher
+  1.1 GNU Texinfo wrapper
+  1.2 Image processing
+  1.3 Language analysis
+  1.4 Broken link checking
+2 Downloading Texinfo Publisher
+  2.1 Downloading
+  2.2 Configuring
+  2.3 Configuration issues
+3 Compiling and viewing content
+  3.1 Compiling content
+  3.2 Viewing content
+  3.3 More building options
+  3.4 'make' arguments to control output formats
+4 Learning GNU Texinfo
+  4.1 GNU Texinfo web resources
+  4.2 Basic changes
+  4.3 GNU Texinfo commands
+    4.3.1 @node
+    4.3.2 @section / @subsection / @subsubsection
+    4.3.3 @
+    4.3.4 @c
+    4.3.5 @*
+    4.3.6 @b
+    4.3.7 @i
+    4.3.8 @sansserif
+    4.3.9 @url
+    4.3.10 @email
+    4.3.11 @example / @smallexample
+    4.3.12 @itemize
+    4.3.13 @image
+    4.3.14 @cindex
+    4.3.15 @paragraphindent
+    4.3.16 @cartouche
+5 Output formats
+  5.1 HTML
+  5.2 PDF
+    5.2.1 PDF restrictions
+    5.2.2 Viewing PDFs
+  5.3 EPUB
+    5.3.1 EPUB line break issues
+    5.3.2 EPUB double index issues
+    5.3.3 Viewing the EPUB book format
+  5.4 PostScript and DVI
+  5.5 Zip file
+  5.6 Microsoft HTML Helper file
+  5.7 Plain text
+6 Images
+  6.1 Public domain image resources
+  6.2 Image re-sizing
+  6.3 Image format converting
+7 Language analysis
+  7.1 Spell checking
+  7.2 Diction analysis
+  7.3 Style analysis
+8 Broken link checking
+9 Misc
+  9.1 Renaming the prefix "Website"
+  9.2 'texinfopublisher-1.1/files' directory
+  9.3 Favicon
+  9.4 Automatic backups
+  9.5 Installing 'texi2any'
+  9.6 Compiling Texinfo Publisher documentation
+Appendix A GNU Free Documentation License
+Concept index
+Texinfo Publisher Manual Version 1.1
+************************************
+
+A 'Makefile' based GNU Texinfo multi-format publishing system.
+Copyright (C) 2012 A. BRADFORD.
+
+1 Overview of Texinfo Publisher
+*******************************
+
+Texinfo Publisher is a 'Makefile' based publishing system featuring
+simultaneous content creation into HTML, non-split HTML, Framed HTML,
+HTML Zip, XML, DocBook, PDF, DjVu, PostScript, DVI, Plain text, Info and
+EPUB book formats.  All Texinfo Publisher output formats are from a
+single Texinfo source.  Texinfo Publisher can be used for website
+creation.
+
+Texinfo Publisher also features
+   * Spell checking
+   * Diction analysis
+   * Style analysis
+   * Broken link checking
+   * Batch image re-sizing
+   * Batch image conversions
+   * Automatic image conversion to EPS
+   * Automatic image conversion to ASCII art
+   * Alternative HTML and PDF styles
+   * Microsoft HTML Helper creation
+Texinfo Publisher is a low maintenance solution for publishing websites
+with multi-format matching content.  Texinfo Publisher can be used for
+proprietary corporate documentation.
+
+The Texinfo Publisher manual was published with Texinfo Publisher and is
+available in many formats.
+   * HTML version of this manual
+     (http://AnthonyBradford.com/TexinfoPublisher/index.html)
+   * Single-page HTML version of this manual
+     (http://AnthonyBradford.com/TexinfoPublisher/indexNoSplit.html)
+   * HTML zip package of this manual
+     (http://AnthonyBradford.com/TexinfoPublisher/texinfopublisher-1.1.zip)
+   * Text version of this manual
+     (http://AnthonyBradford.com/TexinfoPublisher/texinfopublisher-1.1.txt)
+   * DocBook version of this manual
+     (http://AnthonyBradford.com/TexinfoPublisher/texinfopublisher-1.1.dbk)
+   * EPUB version of this manual
+     (http://AnthonyBradford.com/TexinfoPublisher/texinfopublisher-1.1.epub)
+Texinfo Publisher is based on GNU Texinfo and is a unrelated project.
+
+1.1 GNU Texinfo wrapper
+=======================
+
+Texinfo Publisher is a wrapper for GNU Texinfo.  Texinfo Publisher
+compiles to many content formats (HTML, PDF, Text, Info, XML, DocBook,
+DVI, PostScript, EPUB) via a 'Makefile'.  The main HTML file
+'index.html' provides links to all content formats.  Content format
+links in 'index.html' can be controlled by arguments to the command
+'make'.
+
+1.2 Image processing
+====================
+
+Texinfo Publisher provides automatic image conversion from JPG, PNG and
+GIF to the EPS format.  The EPS image format is needed for PostScript
+and DVI output.
+
+Batch image re-sizing is also provided for optimal web viewing.
+
+1.3 Language analysis
+=====================
+
+Texinfo Publisher provides diction, style and spelling analysis.
+
+1.4 Broken link checking
+========================
+
+Texinfo Publisher provides broken link checking.
+
+2 Downloading Texinfo Publisher
+*******************************
+
+Texinfo Publisher works with the GNU / Linux operating system and
+Windows / Cygwin environments.
+
+2.1 Downloading
+===============
+
+Texinfo Publisher can be downloaded as a gzipped tar from
+texinfopublisher-1.1.tar.gz
+(http://AnthonyBradford.com/TexinfoPublisher/texinfopublisher-1.1.tar.gz)
+or sourceforge.net
+(https://sourceforge.net/projects/texinfo-web-publisher/?source=directory).
+
+2.2 Configuring
+===============
+
+After downloading type the following commands
+
+     tar xfz texinfopublisher-1.1.tar.gz
+     cd texinfopublisher-1.1
+     ./configure
+The configure shell script will give system specific instructions on
+package installation depending on your system.  This is not a autotools
+package.
+
+2.3 Configuration issues
+========================
+
+Texinfo Publisher will work with recent versions of 'texi2any'.
+Texi2any (GNU texinfo) 5.2 or greater is recommended.  To find out which
+version of 'texi2any' your system is running type
+     texi2any --version
+If your system is running a older version you can install the latest
+version.  *Note Texi2any Installation: installtexi2any, for installation
+instructions.
+
+See 'README.testing' in the tar package for information on systems
+Texinfo Publisher has been tested on.
+
+3 Compiling and viewing content
+*******************************
+
+3.1 Compiling content
+=====================
+
+In the directory 'texinfopublisher-1.1/' type the GNU / Linux command
+     make
+The 'Makefile' will execute and process the file Texinfo 'Website.texi'.
+The following files will build.
+'index.html'
+     This file has relative links to the .pdf, .txt, .epub and .zip
+     files.  Other associated HTML files many appear.
+'indexNoSplit.html'
+     This file has relative links to the .pdf, .txt, .epub and .zip
+     files.  Content is one large HTML page.
+'Website_frame.html'
+     Framed version of of index.html
+'Website.pdf'
+     PDF of website content.
+'Website.txt'
+     Text version of website content.
+'Website.epub'
+     EPUB book of website content.  This will only be created if your
+     system has the package 'dbtoepub' installed.
+'Website.dbk'
+     DocBook version of website content.
+'Website.zip'
+     Zip file of all HTML, PDF, DocBook, Text, and EPUB files.  All
+     content can be regenerated from this zip file distribution.
+'Website.tar.gz'
+     Compressed source tar file of all content including 'Makefile',
+     'configure' file and build scripts.  All content can be regenerated
+     from this tar file distribution.
+The HTML always has links to the non-HTML output formats.  Info, XML,
+PostScript, TeX DVI and DjVu output formats are not created by default.
+These formats can be added with command line options to 'make'.
+
+3.2 Viewing content
+===================
+
+To view content run the following command depending on which system or
+desktop you are running.
+Command                  System
+--------------------------------------------------------------
+firefox index.html       Unix/Linux
+nautilus .               GNOME Desktop
+kde-open index.html      KDE
+explorer .               Windows / Cygwin
+explorer index.html      Windows / Cygwin
+
+From the main HTML page, 'index.html', you will see links labeled
+   * PDF version of this website
+   * HTML version of this website
+   * Framed HTML version of this website
+   * Single-page HTML version of this website
+   * Text version of this website
+   * Plain text version of this website
+   * Split text version of this website
+   * Split plain text version of this website
+   * EPUB version of this website
+   * HTML zip package of this website
+   * Gzipped tar source of this website
+Click on these links to view the formats.  Content between all formats
+is matching.
+
+HTML or split HTML indicates Texinfo source is compiled to multiple HTML
+pages.  Single-page (non-split) HTML indicates Texinfo source is
+compiled to one large HTML page.
+
+3.3 More building options
+=========================
+
+'make pdf'
+     Builds PDF file Website.pdf
+'make djvu'
+     Builds DjVu file Website.djvu
+'make docbook'
+     Builds DocBook file Website.dbk
+'make xml'
+     Builds XML file Website.xml
+'make epub'
+     Builds EPUB file Website.epub
+'make frames'
+     Builds HTML with frames file Website_frame.html
+'make html2'
+     Builds index.html and associated HTML files with the command
+     'xmlto'.  This HTML output is a different style from the HTML
+     generated from 'make' or 'make all'.
+'make pdf2'
+     Builds Website.pdf with the command 'dblatex'.  This PDF is
+     different style from the PDF generated from 'make', 'make all' or
+     'make pdf'.
+'make dvi'
+     Builds Device independent file format (DVI) file Website.dvi.  All
+     .png, .jpg and .gif images are automatically converted to .eps
+     format in the directory 'images/'.
+'make ps'
+     Builds PostScript file Website.ps.  All .png, .jpg and .gif images
+     are automatically converted to the .eps format in the directory
+     'images/'.
+'make text'
+     This will build a text file with no headers Website.txt.  Images
+     are converted to ASCII.
+'make plaintext'
+     This will build a text file with no headers Website.txt Images are
+     not converted to ASCII.
+'make info'
+     This will build the Info file Website.info
+'make htmlhelp'
+     This will create the file Website.hhp which can be made into a
+     Microsoft HTML Helper file (.chm) with the Microsoft utility
+     hhc.exe.  Microsoft HTML Helper files (.chm) only run under the
+     Microsoft Windows operating system.
+'make zip'
+     Creates a .zip file distribution including 'Makefile' and build
+     scripts.  All content can be regenerated from this tar file.
+'make clean'
+     Clean all compiled content.  The source files of the content will
+     not be deleted.
+'make distclean'
+     Same as 'make clean' but all files in bak/ and images/bak
+     directories are deleted.
+'make distclean ; make dist'
+     Creates a compressed source tar file of all content including
+     'Makefile' and build scripts.  All content can be regenerated from
+     this tar file.
+'make CSS=css/janix-texinfo.css'
+     Generate HTML using the Cascading Style Sheet
+     'css/janix-texinfo.css'.
+'make CSS=css/bright-colors.css'
+     Generate HTML using the Cascading Style Sheet
+     'css/bright-colors.css'.
+'make help'
+     lists all 'make' options.
+
+3.4 'make' arguments to control output formats
+==============================================
+
+Texinfo Publisher's 'Makefile' uses the variable TEXI2DVI_FLAGS to
+control which output formats are created.  TEXI2DVI_FLAGS also controls
+links in the 'index.html' and 'indexNoSplit.html' to the output formats.
+The values of
+     SPLIT, NOSPLIT, PDF, DJVU, TEXT, ZIP, XML, DOCBOOK, EPUB, POSTSCRIPT,
+     DVI, INFO
+can be defined '-D' in the variable TEXI2DVI_FLAGS. Causing the
+associated output to be created.  Customization can be made by defining
+different values in TEXI2DVI_FLAGS. The variable TEXI2DVI_FLAGS can be
+customized on the command line.  See the following examples.
+
+'make clean; make TEXI2DVI_FLAGS='''
+     Do nothing.
+'make clean; make 'TEXI2DVI_FLAGS=-D SPLIT''
+     Generate index.html
+'make clean; make 'TEXI2DVI_FLAGS=-D SPLIT -D NOSPLIT''
+     Generate index.html and indexNoSplit.html
+'make clean; make 'TEXI2DVI_FLAGS=-D SPLIT -D NOSPLIT -D ZIP''
+     Generate index.html, indexNoSplit.html and Zip file content.
+'make clean; make 'TEXI2DVI_FLAGS=-D SPLIT -D NOSPLIT -D PDF''
+     Generate index.html, indexNoSplit.html and PDF.
+'make clean; make 'TEXI2DVI_FLAGS=-D SPLIT -D NOSPLIT -D PDF -D DJVU''
+     Generate index.html, indexNoSplit.html, PDF and DjVu.
+'make clean; make 'TEXI2DVI_FLAGS=-D SPLIT -D NOSPLIT -D PDF -D EPUB''
+     Generate index.html, indexNoSplit.html, PDF and EPUB.
+'make clean; make 'TEXI2DVI_FLAGS=-D SPLIT -D POSTSCRIPT -DVI''
+     Generate index.html, PostScript and TeX DVI.
+'make clean; make 'TEXI2DVI_FLAGS=-D SPLIT -D PDF''
+     Generate index.html and PDF.
+'make clean; make 'TEXI2DVI_FLAGS=-D SPLIT -D EPUB''
+     Generate index.html and EPUB.
+'make clean; make 'TEXI2DVI_FLAGS=-D SPLIT -D PDF -D EPUB''
+     Generate index.html, PDF and EPUB.
+HTML output always has links to non-HTML formats.  'make' and 'make all'
+are equivalent to 'make 'TEXI2DVI_FLAGS=-D SPLIT -D NOSPLIT -D PDF -D
+TEXT -D EPUB -D ZIP''.
+
+The variable TEXI2DVI_FLAGS can also be customized by editing the
+'Makefile'.
+
+4 Learning GNU Texinfo
+**********************
+
+4.1 GNU Texinfo web resources
+=============================
+
+You will have to learn a little GNU Texinfo.  See the GNU Texinfo Manual
+(http://www.gnu.org/software/texinfo/manual/texinfo/) and the GNU
+Texinfo Reference Card
+(http://svn.savannah.gnu.org/viewvc/*checkout*/trunk/doc/refcard/txirefcard.pdf?root=texinfo&content-type=text%2Fplain).
+Don't be alarmed at the size of the GNU Texinfo Manual.  Few Texinfo
+commands are needed to have great looking multi-format content.
+
+4.2 Basic changes
+=================
+
+Inside the directory 'texinfopublisher-1.1/' you will see a file
+'Website.texi'.  This is the source file that is compiled when the
+command 'make' is run.  The result of the compilation is the building of
+your content.  Change your working directory to 'texinfopublisher-1.1/'
+and type
+     make
+You have compiled a basic template with examples.  The 'Makefile' is
+verbose and will give instructions to view the resulting output formats.
+
+
+Using your favorite editor ('vi', 'emacs', 'gedit', 'kate', 'notepad')
+edit
+     texinfopublisher-1.1/Website.texi
+Trying adding simple text to any of the nodes/sections and running
+'make' to re-compile from the command line.  View the resulting output
+to confirm the changes.
+
+4.3 GNU Texinfo commands
+========================
+
+4.3.1 @node
+-----------
+
+Create new nodes (chapters) with the @node command followed with a
+@chapter command.  All nodes names must also be declared between the
+@menu and @end menu section of the .texi file.
+
+Based on all the references to "Chapter 9" in
+'texinfopublisher-1.1/Website.texi' think of what modifications would
+have to be made to the file to create a "Chapter 10".
+
+Try creating a "Chapter 10".  Try creating a chapter named
+"Information".
+
+4.3.2 @section / @subsection / @subsubsection
+---------------------------------------------
+
+Content between @node commands such as text between "@node Chapter 1"
+and "@node Chapter 2" in 'texinfopublisher-1.1/Website.texi' can be
+broken down into sections, subsections and subsubsections.
+
+Try adding text content to sections / subsections and subsubsections.
+Try adding more sections.  Add text like the following
+     @section Another section example
+
+4.3.3 @
+-------
+
+The at sign @ is a special character that starts all Texinfo commands.
+To generated an at sign @ character in Texinfo two @@ characters must be
+entered in the source .texi file.  The email address
+anthony_bradford@yahoo.com will have to be written as
+anthony_bradford@@yahoo.com in a .texi file.
+
+The { and } characters also have to be preceded with an at sign @.  Use
+@{ to generate { and @} to generate }.
+
+4.3.4 @c
+--------
+
+The @c Texinfo command generates a comment.  This would be a comment in
+a Texinfo file.
+     @c This is a comment.
+
+4.3.5 @*
+--------
+
+The @* command creates a line break.
+
+Try adding some line breaks between sentences.
+
+4.3.6 @b
+--------
+
+Write in bold text by using the @b command.  If you write
+     @b{This will produce bold text}.
+You will get
+     This will produce bold text.
+
+4.3.7 @i
+--------
+
+Write in italics by using the @i command.  If you write
+     @i{This will produce italics text}.
+You will get
+     This will produce italics text.
+
+4.3.8 @sansserif
+----------------
+
+Write in sans serif font by using the @sansserif command.  If you write
+     @sansserif{This will produce sans serif}.
+You will get
+     This will produce sans serif.
+
+4.3.9 @url
+----------
+
+@url produces a hypertext URL link
+
+@url{http://fsf.org} produces <http://fsf.org>.
+
+@url{http://fsf.org,The Free Software Foundation} produces The Free
+Software Foundation (http://fsf.org).
+
+4.3.10 @email
+-------------
+
+@email produces a hypertext mailto: email address.  Remember to generate
+an at sign @ two are needed @@.
+
+@email{anthony_bradford@@yahoo.com} produces
+<anthony_bradford@yahoo.com>.
+
+@email{anthony_bradford@@yahoo.com,Anthony Bradford} produces Anthony
+Bradford <anthony_bradford@yahoo.com>.
+
+Note that anthony_bradford@@yahoo.com produces
+anthony_bradford@yahoo.com, which is a email address with no hyperlink
+properties.
+
+4.3.11 @example / @smallexample
+-------------------------------
+
+@example
+This is example text
+@end example
+
+Produces
+     This is example text.
+
+@smallexample
+This is small example text.
+@end smallexample
+
+Produces
+     This is small example text.
+
+4.3.12 @itemize
+---------------
+
+@itemize
+@item one
+@item two
+@item three
+@item four
+@end itemize
+
+Will produce
+   * one
+   * two
+   * three
+   * four
+See the GNU Texinfo Manual
+(http://www.gnu.org/software/texinfo/manual/texinfo/) for other list and
+table commands such as @enumerate, @table and @multitable.  The GNU
+Texinfo Manual has many examples.
+
+4.3.13 @image
+-------------
+
+Keep all images in the directory 'texinfopublisher-1.1/images/'.  Image
+file name extensions (.jpg, .png, .eps) should always be kept lowercase.
+The 'images/' directory is never cleaned by 'make clean'.  The command
+     @image{images/open_book_blue,,80pt,Picture of a open book,png}
+inserts the image 'texinfopublisher-1.1/images/open_book_blue.png' into
+your content.
+Producing
+
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWNX0kkkxxxxxxxxxxxxxxxxxxxdxxxxxdoo0WMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNOxxxxxxxxxkkkkOOOOOOkkkOOO0000KNWWMMW0ddxXWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWWWNNNNWWMMMMMMMMMMMMMMNxodkKNWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWKdlokXMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMNKOkkkkOO0000000OkkxOXWMMMMMXkxk0WMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWKOkkx0WMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMWN0kxddxOXNMMMMMMMMMMMMN0xodxXMXxlxXMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWXxdx0WMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMWKkoodkXWMMMMMMMMMMMMMMMMMMMMWXkooclXMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWKkolxKWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMNkddx0NMMMMMMMMMMMMMMMMMMMMMMMMMMMXdc:dKWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWKxodOWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMWXOkkkONMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWKxloxNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWXkxkOKWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMKdddxKWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMW0lc0WMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMXkdod0WMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMWXOdokXWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWk;l0WMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWXkodKWMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMKdc;oOKWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMXkold0WMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWKkkxk0NMMMMMMMMMMMMMMMMMMMMMM
+MMMMK,;xl;xWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMXo:c0MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNOdddKMMMMMMMMMMMMMMMMMMMM
+MMMMx'kWWk:dWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMXd:kNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNOod0NMMMMMMMMMMMMMMMMM
+MMMMllNMMWKldNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMKoloONMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMW0kkkkONMMMMMMMMMMMMM
+MMKo'dWMMMMWdlXMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNx:;dXMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMW0doxXWMMMMMMMMMM
+MMXl..dNMMMMXcc0WMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNx:;kWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWNNXXXKK000OOkkkxxddollcc:.'dXMMMMMMMMM
+MMMWo..:OWMMMXd:dXMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMN0llxXWMMMMMMMMMMMMMMMMMMMMWXK0kxddooollllllooooooodddddddddddxxxxko.cNMMMMMMMMM
+MMMMNo. .oXMMMMKl:OWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWO:,l0WMMMMMMMMMMMMMMWXkl;,;:codxO0KXNNWWMMMMMMMMMMMMMMMMMMMMMMMMX,.oKWMMMMMMM
+MMMMMWx' .cKMMMMXo;xWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNk:,cOWMMMMMMMMMN0dc;;ok0XWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWl. .cxXWMMMM
+MMMMMMWk,..;KMMMMWk;kMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNOc'dWMMMMMMNk:,cxKNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMO'   .'dNMMM
+MMMMMMMMKl..;KMMMMMKlkWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWKoco0NMW0ccxKWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWWWWWNo.    .,kWM
+MMMMMMMMMWO,.,kWMMMMK:lKMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWNX0Okkxddddddod:..;dl.dWMMMMMMMMMMMMMMMNK0OOOOOkxddoolllcc:::::;;;;;;;;;;'.     .oWM
+MMMMMMMMMMW0' .dNMMMM0::OWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWN0kdooloooodddxxxxxdddo,...dNMMMMMMMMMMMWKkdl,........                             ...,kWM
+MMMMMMMMMMMMO'..;OWMMMNxcdXMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWX0xdddddxk0XWWMMMMMMMMMMMMMKl..,x0kkkKWMMMNOdc,..                 .....''',;::cloodxxkkOO0KXNWMM
+MMMMMMMMMMMMMK:. .oNMMMMKc;kWMMMMMMMMMMMMMMMMMMMMMMMMMWKxl:clkXNMMMMMMMMMMMMMMMMMMMMMK'  ....   .dWNk;.         .....,;:cldxxk0KKXNNNWMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMXo. .cXMMMMNd;OMMMMMMMMMMMMMMMMMMMMMMWKxlccdOXMMMMMMMMMMMMMMMMMMMMMMMMMo           'c;..',;;::cloxkO0KXNWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMWO;..cXMMMMW0lOWMMMMMMMMMMMMMMMWXOxoloxKNWMMMMMMMMMMMMMMMMMWWWWNNNNNNN:           .';o0NNNWWWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMNo..;0MMMMM0;oNMMMMMMMMMMMMKoccoxKWMMMMMMMMMMMMMMMMWXkdolc:;,,''',,,.       .,cdOXWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMWx. 'kWMMMM0:cKMMMMMMMN0xlldONMMMMMMMMMMMMMMWNKkol:..      ..;cllc;;,;;:codONWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMWx. .cKMMMMXd:dXN0xxxdxk0NMMMMMMMMMMMMNKOxc,'..   ..',:lox0XWMMMMWWWWWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMWk'  'xNMMMM0:,:okXWMMMMMMMMMMMMMNOxl,..     .';cxKNWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMW0;. .lNMMMWo.dWMMMMMMMMMMMMMNOd;..     .:ldOKNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMKc. .xMMMNc.kMMMMMMMMMMN0xl,.   ..,:ld0WMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMNx'..dXMK;,KMMMMMWX0d;'.....,cxOKNWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMXc..;0x.lWMMXOo:'. ..;lx0XWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMX; .,,.dNOc,. ..'lkKWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMK;. ..,'.':ldkKNWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMNo...;lONMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNOOKWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+
+Use the @center command to center the image
+     @center @image{images/open_book_blue,,80pt,Picture of a open book,png}
+Produces
+
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWNX0kkkxxxxxxxxxxxxxxxxxxxdxxxxxdoo0WMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNOxxxxxxxxxkkkkOOOOOOkkkOOO0000KNWWMMW0ddxXWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWWWNNNNWWMMMMMMMMMMMMMMNxodkKNWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWKdlokXMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMNKOkkkkOO0000000OkkxOXWMMMMMXkxk0WMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWKOkkx0WMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMWN0kxddxOXNMMMMMMMMMMMMN0xodxXMXxlxXMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWXxdx0WMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMWKkoodkXWMMMMMMMMMMMMMMMMMMMMWXkooclXMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWKkolxKWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMNkddx0NMMMMMMMMMMMMMMMMMMMMMMMMMMMXdc:dKWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWKxodOWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMWXOkkkONMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWKxloxNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWXkxkOKWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMKdddxKWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMW0lc0WMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMXkdod0WMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMWXOdokXWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWk;l0WMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWXkodKWMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMKdc;oOKWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMXkold0WMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWKkkxk0NMMMMMMMMMMMMMMMMMMMMMM
+MMMMK,;xl;xWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMXo:c0MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNOdddKMMMMMMMMMMMMMMMMMMMM
+MMMMx'kWWk:dWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMXd:kNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNOod0NMMMMMMMMMMMMMMMMM
+MMMMllNMMWKldNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMKoloONMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMW0kkkkONMMMMMMMMMMMMM
+MMKo'dWMMMMWdlXMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNx:;dXMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMW0doxXWMMMMMMMMMM
+MMXl..dNMMMMXcc0WMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNx:;kWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWNNXXXKK000OOkkkxxddollcc:.'dXMMMMMMMMM
+MMMWo..:OWMMMXd:dXMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMN0llxXWMMMMMMMMMMMMMMMMMMMMWXK0kxddooollllllooooooodddddddddddxxxxko.cNMMMMMMMMM
+MMMMNo. .oXMMMMKl:OWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWO:,l0WMMMMMMMMMMMMMMWXkl;,;:codxO0KXNNWWMMMMMMMMMMMMMMMMMMMMMMMMX,.oKWMMMMMMM
+MMMMMWx' .cKMMMMXo;xWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNk:,cOWMMMMMMMMMN0dc;;ok0XWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWl. .cxXWMMMM
+MMMMMMWk,..;KMMMMWk;kMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNOc'dWMMMMMMNk:,cxKNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMO'   .'dNMMM
+MMMMMMMMKl..;KMMMMMKlkWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWKoco0NMW0ccxKWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWWWWWNo.    .,kWM
+MMMMMMMMMWO,.,kWMMMMK:lKMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWNX0Okkxddddddod:..;dl.dWMMMMMMMMMMMMMMMNK0OOOOOkxddoolllcc:::::;;;;;;;;;;'.     .oWM
+MMMMMMMMMMW0' .dNMMMM0::OWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWN0kdooloooodddxxxxxdddo,...dNMMMMMMMMMMMWKkdl,........                             ...,kWM
+MMMMMMMMMMMMO'..;OWMMMNxcdXMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWX0xdddddxk0XWWMMMMMMMMMMMMMKl..,x0kkkKWMMMNOdc,..                 .....''',;::cloodxxkkOO0KXNWMM
+MMMMMMMMMMMMMK:. .oNMMMMKc;kWMMMMMMMMMMMMMMMMMMMMMMMMMWKxl:clkXNMMMMMMMMMMMMMMMMMMMMMK'  ....   .dWNk;.         .....,;:cldxxk0KKXNNNWMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMXo. .cXMMMMNd;OMMMMMMMMMMMMMMMMMMMMMMWKxlccdOXMMMMMMMMMMMMMMMMMMMMMMMMMo           'c;..',;;::cloxkO0KXNWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMWO;..cXMMMMW0lOWMMMMMMMMMMMMMMMWXOxoloxKNWMMMMMMMMMMMMMMMMMWWWWNNNNNNN:           .';o0NNNWWWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMNo..;0MMMMM0;oNMMMMMMMMMMMMKoccoxKWMMMMMMMMMMMMMMMMWXkdolc:;,,''',,,.       .,cdOXWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMWx. 'kWMMMM0:cKMMMMMMMN0xlldONMMMMMMMMMMMMMMWNKkol:..      ..;cllc;;,;;:codONWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMWx. .cKMMMMXd:dXN0xxxdxk0NMMMMMMMMMMMMNKOxc,'..   ..',:lox0XWMMMMWWWWWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMWk'  'xNMMMM0:,:okXWMMMMMMMMMMMMMNOxl,..     .';cxKNWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMW0;. .lNMMMWo.dWMMMMMMMMMMMMMNOd;..     .:ldOKNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMKc. .xMMMNc.kMMMMMMMMMMN0xl,.   ..,:ld0WMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMNx'..dXMK;,KMMMMMWX0d;'.....,cxOKNWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMXc..;0x.lWMMXOo:'. ..;lx0XWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMX; .,,.dNOc,. ..'lkKWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMK;. ..,'.':ldkKNWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMNo...;lONMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNOOKWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+
+
+The argument "80pt" is the image point scaling.  This is impacting to
+PDF/DVI/PostScript output but not impacting to HTML/EPUB output.  The
+following examples are scaled larger in the PDF/DVI/PostScript content
+but are the same size in the HTML/EPUB content.  Switch to other content
+formats by clicking here here
+(http://AnthonyBradford.com/TexinfoPublisher/index.html).
+
+     @image{images/open_book_blue,,120pt,Picture of a open book,png}
+Produces
+
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWNX0kkkxxxxxxxxxxxxxxxxxxxdxxxxxdoo0WMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNOxxxxxxxxxkkkkOOOOOOkkkOOO0000KNWWMMW0ddxXWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWWWNNNNWWMMMMMMMMMMMMMMNxodkKNWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWKdlokXMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMNKOkkkkOO0000000OkkxOXWMMMMMXkxk0WMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWKOkkx0WMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMWN0kxddxOXNMMMMMMMMMMMMN0xodxXMXxlxXMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWXxdx0WMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMWKkoodkXWMMMMMMMMMMMMMMMMMMMMWXkooclXMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWKkolxKWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMNkddx0NMMMMMMMMMMMMMMMMMMMMMMMMMMMXdc:dKWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWKxodOWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMWXOkkkONMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWKxloxNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWXkxkOKWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMKdddxKWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMW0lc0WMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMXkdod0WMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMWXOdokXWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWk;l0WMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWXkodKWMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMKdc;oOKWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMXkold0WMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWKkkxk0NMMMMMMMMMMMMMMMMMMMMMM
+MMMMK,;xl;xWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMXo:c0MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNOdddKMMMMMMMMMMMMMMMMMMMM
+MMMMx'kWWk:dWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMXd:kNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNOod0NMMMMMMMMMMMMMMMMM
+MMMMllNMMWKldNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMKoloONMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMW0kkkkONMMMMMMMMMMMMM
+MMKo'dWMMMMWdlXMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNx:;dXMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMW0doxXWMMMMMMMMMM
+MMXl..dNMMMMXcc0WMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNx:;kWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWNNXXXKK000OOkkkxxddollcc:.'dXMMMMMMMMM
+MMMWo..:OWMMMXd:dXMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMN0llxXWMMMMMMMMMMMMMMMMMMMMWXK0kxddooollllllooooooodddddddddddxxxxko.cNMMMMMMMMM
+MMMMNo. .oXMMMMKl:OWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWO:,l0WMMMMMMMMMMMMMMWXkl;,;:codxO0KXNNWWMMMMMMMMMMMMMMMMMMMMMMMMX,.oKWMMMMMMM
+MMMMMWx' .cKMMMMXo;xWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNk:,cOWMMMMMMMMMN0dc;;ok0XWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWl. .cxXWMMMM
+MMMMMMWk,..;KMMMMWk;kMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNOc'dWMMMMMMNk:,cxKNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMO'   .'dNMMM
+MMMMMMMMKl..;KMMMMMKlkWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWKoco0NMW0ccxKWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWWWWWNo.    .,kWM
+MMMMMMMMMWO,.,kWMMMMK:lKMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWNX0Okkxddddddod:..;dl.dWMMMMMMMMMMMMMMMNK0OOOOOkxddoolllcc:::::;;;;;;;;;;'.     .oWM
+MMMMMMMMMMW0' .dNMMMM0::OWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWN0kdooloooodddxxxxxdddo,...dNMMMMMMMMMMMWKkdl,........                             ...,kWM
+MMMMMMMMMMMMO'..;OWMMMNxcdXMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWX0xdddddxk0XWWMMMMMMMMMMMMMKl..,x0kkkKWMMMNOdc,..                 .....''',;::cloodxxkkOO0KXNWMM
+MMMMMMMMMMMMMK:. .oNMMMMKc;kWMMMMMMMMMMMMMMMMMMMMMMMMMWKxl:clkXNMMMMMMMMMMMMMMMMMMMMMK'  ....   .dWNk;.         .....,;:cldxxk0KKXNNNWMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMXo. .cXMMMMNd;OMMMMMMMMMMMMMMMMMMMMMMWKxlccdOXMMMMMMMMMMMMMMMMMMMMMMMMMo           'c;..',;;::cloxkO0KXNWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMWO;..cXMMMMW0lOWMMMMMMMMMMMMMMMWXOxoloxKNWMMMMMMMMMMMMMMMMMWWWWNNNNNNN:           .';o0NNNWWWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMNo..;0MMMMM0;oNMMMMMMMMMMMMKoccoxKWMMMMMMMMMMMMMMMMWXkdolc:;,,''',,,.       .,cdOXWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMWx. 'kWMMMM0:cKMMMMMMMN0xlldONMMMMMMMMMMMMMMWNKkol:..      ..;cllc;;,;;:codONWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMWx. .cKMMMMXd:dXN0xxxdxk0NMMMMMMMMMMMMNKOxc,'..   ..',:lox0XWMMMMWWWWWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMWk'  'xNMMMM0:,:okXWMMMMMMMMMMMMMNOxl,..     .';cxKNWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMW0;. .lNMMMWo.dWMMMMMMMMMMMMMNOd;..     .:ldOKNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMKc. .xMMMNc.kMMMMMMMMMMN0xl,.   ..,:ld0WMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMNx'..dXMK;,KMMMMMWX0d;'.....,cxOKNWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMXc..;0x.lWMMXOo:'. ..;lx0XWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMX; .,,.dNOc,. ..'lkKWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMK;. ..,'.':ldkKNWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMNo...;lONMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNOOKWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+
+     @image{images/open_book_blue,,150pt,Picture of a open book,png}
+Produces
+
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWNX0kkkxxxxxxxxxxxxxxxxxxxdxxxxxdoo0WMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNOxxxxxxxxxkkkkOOOOOOkkkOOO0000KNWWMMW0ddxXWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWWWNNNNWWMMMMMMMMMMMMMMNxodkKNWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWKdlokXMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMNKOkkkkOO0000000OkkxOXWMMMMMXkxk0WMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWKOkkx0WMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMWN0kxddxOXNMMMMMMMMMMMMN0xodxXMXxlxXMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWXxdx0WMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMWKkoodkXWMMMMMMMMMMMMMMMMMMMMWXkooclXMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWKkolxKWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMNkddx0NMMMMMMMMMMMMMMMMMMMMMMMMMMMXdc:dKWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWKxodOWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMWXOkkkONMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWKxloxNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWXkxkOKWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMKdddxKWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMW0lc0WMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMXkdod0WMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMWXOdokXWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWk;l0WMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWXkodKWMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMKdc;oOKWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMXkold0WMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWKkkxk0NMMMMMMMMMMMMMMMMMMMMMM
+MMMMK,;xl;xWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMXo:c0MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNOdddKMMMMMMMMMMMMMMMMMMMM
+MMMMx'kWWk:dWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMXd:kNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNOod0NMMMMMMMMMMMMMMMMM
+MMMMllNMMWKldNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMKoloONMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMW0kkkkONMMMMMMMMMMMMM
+MMKo'dWMMMMWdlXMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNx:;dXMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMW0doxXWMMMMMMMMMM
+MMXl..dNMMMMXcc0WMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNx:;kWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWNNXXXKK000OOkkkxxddollcc:.'dXMMMMMMMMM
+MMMWo..:OWMMMXd:dXMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMN0llxXWMMMMMMMMMMMMMMMMMMMMWXK0kxddooollllllooooooodddddddddddxxxxko.cNMMMMMMMMM
+MMMMNo. .oXMMMMKl:OWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWO:,l0WMMMMMMMMMMMMMMWXkl;,;:codxO0KXNNWWMMMMMMMMMMMMMMMMMMMMMMMMX,.oKWMMMMMMM
+MMMMMWx' .cKMMMMXo;xWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNk:,cOWMMMMMMMMMN0dc;;ok0XWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWl. .cxXWMMMM
+MMMMMMWk,..;KMMMMWk;kMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNOc'dWMMMMMMNk:,cxKNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMO'   .'dNMMM
+MMMMMMMMKl..;KMMMMMKlkWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWKoco0NMW0ccxKWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWWWWWNo.    .,kWM
+MMMMMMMMMWO,.,kWMMMMK:lKMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWNX0Okkxddddddod:..;dl.dWMMMMMMMMMMMMMMMNK0OOOOOkxddoolllcc:::::;;;;;;;;;;'.     .oWM
+MMMMMMMMMMW0' .dNMMMM0::OWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWN0kdooloooodddxxxxxdddo,...dNMMMMMMMMMMMWKkdl,........                             ...,kWM
+MMMMMMMMMMMMO'..;OWMMMNxcdXMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWX0xdddddxk0XWWMMMMMMMMMMMMMKl..,x0kkkKWMMMNOdc,..                 .....''',;::cloodxxkkOO0KXNWMM
+MMMMMMMMMMMMMK:. .oNMMMMKc;kWMMMMMMMMMMMMMMMMMMMMMMMMMWKxl:clkXNMMMMMMMMMMMMMMMMMMMMMK'  ....   .dWNk;.         .....,;:cldxxk0KKXNNNWMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMXo. .cXMMMMNd;OMMMMMMMMMMMMMMMMMMMMMMWKxlccdOXMMMMMMMMMMMMMMMMMMMMMMMMMo           'c;..',;;::cloxkO0KXNWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMWO;..cXMMMMW0lOWMMMMMMMMMMMMMMMWXOxoloxKNWMMMMMMMMMMMMMMMMMWWWWNNNNNNN:           .';o0NNNWWWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMNo..;0MMMMM0;oNMMMMMMMMMMMMKoccoxKWMMMMMMMMMMMMMMMMWXkdolc:;,,''',,,.       .,cdOXWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMWx. 'kWMMMM0:cKMMMMMMMN0xlldONMMMMMMMMMMMMMMWNKkol:..      ..;cllc;;,;;:codONWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMWx. .cKMMMMXd:dXN0xxxdxk0NMMMMMMMMMMMMNKOxc,'..   ..',:lox0XWMMMMWWWWWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMWk'  'xNMMMM0:,:okXWMMMMMMMMMMMMMNOxl,..     .';cxKNWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMW0;. .lNMMMWo.dWMMMMMMMMMMMMMNOd;..     .:ldOKNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMKc. .xMMMNc.kMMMMMMMMMMN0xl,.   ..,:ld0WMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMNx'..dXMK;,KMMMMMWX0d;'.....,cxOKNWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMXc..;0x.lWMMXOo:'. ..;lx0XWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMX; .,,.dNOc,. ..'lkKWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMK;. ..,'.':ldkKNWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMNo...;lONMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNOOKWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+
+     @image{images/open_book_blue,,180pt,Picture of a open book,png}
+Produces
+
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWNX0kkkxxxxxxxxxxxxxxxxxxxdxxxxxdoo0WMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNOxxxxxxxxxkkkkOOOOOOkkkOOO0000KNWWMMW0ddxXWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWWWNNNNWWMMMMMMMMMMMMMMNxodkKNWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWKdlokXMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMNKOkkkkOO0000000OkkxOXWMMMMMXkxk0WMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWKOkkx0WMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMWN0kxddxOXNMMMMMMMMMMMMN0xodxXMXxlxXMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWXxdx0WMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMWKkoodkXWMMMMMMMMMMMMMMMMMMMMWXkooclXMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWKkolxKWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMNkddx0NMMMMMMMMMMMMMMMMMMMMMMMMMMMXdc:dKWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWKxodOWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMWXOkkkONMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWKxloxNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWXkxkOKWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMKdddxKWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMW0lc0WMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMXkdod0WMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMWXOdokXWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWk;l0WMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWXkodKWMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMKdc;oOKWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMXkold0WMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWKkkxk0NMMMMMMMMMMMMMMMMMMMMMM
+MMMMK,;xl;xWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMXo:c0MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNOdddKMMMMMMMMMMMMMMMMMMMM
+MMMMx'kWWk:dWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMXd:kNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNOod0NMMMMMMMMMMMMMMMMM
+MMMMllNMMWKldNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMKoloONMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMW0kkkkONMMMMMMMMMMMMM
+MMKo'dWMMMMWdlXMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNx:;dXMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMW0doxXWMMMMMMMMMM
+MMXl..dNMMMMXcc0WMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNx:;kWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWNNXXXKK000OOkkkxxddollcc:.'dXMMMMMMMMM
+MMMWo..:OWMMMXd:dXMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMN0llxXWMMMMMMMMMMMMMMMMMMMMWXK0kxddooollllllooooooodddddddddddxxxxko.cNMMMMMMMMM
+MMMMNo. .oXMMMMKl:OWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWO:,l0WMMMMMMMMMMMMMMWXkl;,;:codxO0KXNNWWMMMMMMMMMMMMMMMMMMMMMMMMX,.oKWMMMMMMM
+MMMMMWx' .cKMMMMXo;xWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNk:,cOWMMMMMMMMMN0dc;;ok0XWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWl. .cxXWMMMM
+MMMMMMWk,..;KMMMMWk;kMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNOc'dWMMMMMMNk:,cxKNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMO'   .'dNMMM
+MMMMMMMMKl..;KMMMMMKlkWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWKoco0NMW0ccxKWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWWWWWNo.    .,kWM
+MMMMMMMMMWO,.,kWMMMMK:lKMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWNX0Okkxddddddod:..;dl.dWMMMMMMMMMMMMMMMNK0OOOOOkxddoolllcc:::::;;;;;;;;;;'.     .oWM
+MMMMMMMMMMW0' .dNMMMM0::OWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWN0kdooloooodddxxxxxdddo,...dNMMMMMMMMMMMWKkdl,........                             ...,kWM
+MMMMMMMMMMMMO'..;OWMMMNxcdXMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWX0xdddddxk0XWWMMMMMMMMMMMMMKl..,x0kkkKWMMMNOdc,..                 .....''',;::cloodxxkkOO0KXNWMM
+MMMMMMMMMMMMMK:. .oNMMMMKc;kWMMMMMMMMMMMMMMMMMMMMMMMMMWKxl:clkXNMMMMMMMMMMMMMMMMMMMMMK'  ....   .dWNk;.         .....,;:cldxxk0KKXNNNWMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMXo. .cXMMMMNd;OMMMMMMMMMMMMMMMMMMMMMMWKxlccdOXMMMMMMMMMMMMMMMMMMMMMMMMMo           'c;..',;;::cloxkO0KXNWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMWO;..cXMMMMW0lOWMMMMMMMMMMMMMMMWXOxoloxKNWMMMMMMMMMMMMMMMMMWWWWNNNNNNN:           .';o0NNNWWWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMNo..;0MMMMM0;oNMMMMMMMMMMMMKoccoxKWMMMMMMMMMMMMMMMMWXkdolc:;,,''',,,.       .,cdOXWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMWx. 'kWMMMM0:cKMMMMMMMN0xlldONMMMMMMMMMMMMMMWNKkol:..      ..;cllc;;,;;:codONWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMWx. .cKMMMMXd:dXN0xxxdxk0NMMMMMMMMMMMMNKOxc,'..   ..',:lox0XWMMMMWWWWWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMWk'  'xNMMMM0:,:okXWMMMMMMMMMMMMMNOxl,..     .';cxKNWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMW0;. .lNMMMWo.dWMMMMMMMMMMMMMNOd;..     .:ldOKNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMKc. .xMMMNc.kMMMMMMMMMMN0xl,.   ..,:ld0WMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMNx'..dXMK;,KMMMMMWX0d;'.....,cxOKNWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMXc..;0x.lWMMXOo:'. ..;lx0XWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMX; .,,.dNOc,. ..'lkKWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMK;. ..,'.':ldkKNWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMNo...;lONMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNOOKWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+
+
+4.3.14 @cindex
+--------------
+
+Index items using the @cindex command.
+     @cindex blueberry
+Will place the word blueberry in the ending index of this document.
+*Note Concept index::, and look for blueberry.
+
+4.3.15 @paragraphindent
+-----------------------
+
+To turn off automatic paragraph indenting use the command
+     @paragraphindent none
+Place this command towards the top the of Website.texi file.  This
+manual was written with paragraph indenting turned off.
+
+4.3.16 @cartouche
+-----------------
+
+@cartouche
+This is a test.
+@end cartouche
+
+Produces text in a box.
+This is a test.
+@cartouche is not translated into the EPUB book format.
+
+5 Output formats
+****************
+
+All output formats should be inspected.
+
+5.1 HTML
+========
+
+GNU Texinfo generates high quality HTML. HTML images are not scaled with
+the @image command.  *Note Image re-sizing: imageresize, to re-size
+images.  Text exceeding page width is not a concern in HTML. The files
+'index.html' and 'indexNoSplit.html' will have links to other content
+output formats due to the framework of the Texinfo Publisher.
+
+5.2 PDF
+=======
+
+5.2.1 PDF restrictions
+----------------------
+
+GNU Texinfo generates high quality PDFs, but the PDF format is
+restrictive.  PDFs have limited page width.  Text or images can exceed a
+PDFs page width.  HTML output can be problem free while there are issues
+with the PDF output.  If text runs over a PDFs page width force a
+newline via the @* command.  Be careful of the @image command.  A large
+image can exceed a PDFs page width.  Adjust the images point scale to a
+lower value until the image fits within the PDF page.
+
+*Note Images: image, for more information on images.
+
+5.2.2 Viewing PDFs
+------------------
+
+The GNOME document viewer 'evince' can be used to view PDFs.
+
+5.3 EPUB
+========
+
+EPUB (.epub) is not generated directly from GNU Texinfo.  Texinfo is
+converted into DocBook via 'makeinfo'/'texi2any', then converted into
+EPUB via 'dbtoepub'.  Texinfo not generating EPUB directly is considered
+a bug (http://savannah.gnu.org/bugs/?24973).
+
+5.3.1 EPUB line break issues
+----------------------------
+
+The @* commands are not passed to EPUB output causing some text not to
+have line breaks.  One solution is to globally replace all references of
+@* to the next 4 lines:
+     @*
+     @ifdocbook
+
+     @end ifdocbook
+
+5.3.2 EPUB double index issues
+------------------------------
+
+In the table of contents two link references to the ending index can be
+generated with some versions of Texinfo.  The program, Sigil - The EPUB
+Editor (http://www.google.com/search?q=sigil+EPUB), can be used to
+remove one of the index references.
+
+Sigil can be installed on 'yum' based systems with the command
+     sudo yum install sigil
+
+5.3.3 Viewing the EPUB book format
+----------------------------------
+
+The EPUB book format can be viewed with the programs 'sigil' and
+'okular'.  'okular' may also need the okular-extra-backends package
+installed.
+
+5.4 PostScript and DVI
+======================
+
+PostScript (.ps) and the DVI output formats (.dvi) both need images to
+be stored in the Encapsulated PostScript (EPS) format.  Images should be
+stored in the directory 'texinfopublisher-1.1/images/'.  To convert
+images to the EPS format try the following
+'make jpg2eps'
+     Converts the JPG format to the EPS format.
+'make png2eps'
+     Converts the PNG format to the EPS format.
+'make gif2eps'
+     Converts the GIF format to the EPS format.
+
+The commands 'make dvi' and 'make ps' both automatically run jpg2eps,
+png2eps and gif2eps.
+
+*Note Image converting: Imageconverting, for more information on
+converting images.
+
+5.5 Zip file
+============
+
+Un-zip the 'Website.zip' into any public_html web server space.
+'Website.zip' can be un-zipped to a directory below public_html but you
+must establish a link to the content.
+
+5.6 Microsoft HTML Helper file
+==============================
+
+Microsoft HTML Helper (.chm) is not generated directly from Texinfo.
+Texinfo is converted into DocBook via 'makeinfo'/'texi2any', then
+converted into Microsoft HTML Helper via 'a2x' and 'hhc.exe'.  With some
+versions of Texinfo the @* commands are not passed to Microsoft HTML
+Helper files causing some text not to have line breaks.  One solution is
+to globally replace all references of @* to the next 4 lines:
+     @*
+     @ifdocbook
+
+     @end ifdocbook
+Microsoft HTML Helper files (.chm) only run under the Microsoft Windows
+operating system and cannot be run from network drives.
+
+5.7 Plain text
+==============
+
+GNU Texinfo generates high quality plain text.  Images are not passed to
+the plain text generated.  Ensure when using the @image command in .texi
+sources that the @image argument alttext gives a description of the
+image.  In the @image example below the alttext is "Picture of a open
+book".
+     @image{images/open_book_blue,,180pt,Picture of a open book,png}
+In the compiled plain text output you will see
+     [Picture of a open book]
+
+6 Images
+********
+
+6.1 Public domain image resources
+=================================
+
+Use images in your documents.  If you did not create the image use a
+public domain image.
+
+For a list of public domain image resources see
+<http://en.wikipedia.org/wiki/Wikipedia:Public_domain_image_resources>
+
+The image of the open blue book used in this manual is from the public
+domain.  *Note Images: image.
+
+6.2 Image re-sizing
+===================
+
+Keep all images in the directory 'texinfopublisher-1.1/images/'.
+
+If you want to re-size JPEG images for HTML display type on the command
+line
+     make resizejpg
+To re-size PNG images type
+     make resizepng
+To re-size both JPEG and PNG files
+     make resize
+The 'make resize' command makes backups of the original images in
+'images/bak/' directory.  All images will be re-sized to 960x576,
+640x480 and 320x240.  These new image sizes might be better for HTML
+display.
+
+6.3 Image format converting
+===========================
+
+Texinfo Publisher does batch image format conversions in the directory
+'texinfopublisher-1.1/images/'.  Images are converted to the target
+formats.  The original image format file is left un-touched.
+'make jpg2eps'
+     Converts JPG format to the EPS format.
+'make png2eps'
+     Converts PNG format to the EPS format.
+'make gif2eps'
+     Converts GIF format to the EPS format.
+'make jpg2png'
+     Converts JPG format to the PNG format.
+'make gif2png'
+     Converts GIF format to the PNG format.
+'make gif2jpg'
+     Converts GIF format to the JPG format.
+'make eps2pdf'
+     Converts EPS format to the PDF format.
+'make jpg2txt'
+     Converts JPG to ASCII text file using 'jp2a'.
+'make png2txt'
+     Converts PNG to ASCII text file using 'jp2a'.
+
+7 Language analysis
+*******************
+
+7.1 Spell checking
+==================
+
+To spell check content type on the command line
+     make spelling
+The GNU 'aspell' interactive spell checker will be run on your .texi
+content.  If 'apsell' flags words such as "HTML", "EPUB", "DVI" as
+spelled wrong, use the "a) Add" feature so these words are not flagged
+on the next run.
+
+For more information on 'aspell' type 'man aspell' on the command line.
+
+7.2 Diction analysis
+====================
+
+To diction analyze content type on the command line
+     make diction
+The GNU 'diction' analyzer will be run on your text output.  GNU
+'diction' prints wordy and commonly misused phrases in sentences.
+
+For more information on 'diction' type 'man diction' on the command
+line.
+
+7.3 Style analysis
+==================
+
+To style analyze content type on the command line
+     make style
+The GNU 'style' analyzer will be run on your text output.  Your content
+will be analyzed for readability grades, sentence info, word usage and
+sentence beginnings.
+
+For more information on 'style' type 'man style' on the command line.
+
+8 Broken link checking
+**********************
+
+To find broken links in HTML output run the command
+     make linkchecker
+A file 'linkchecker-out.html' will be created.  This file gives a report
+on bad links.  View this file by typing 'firefox linkchecker-out.html'
+on the command line.
+
+9 Misc
+******
+
+9.1 Renaming the prefix "Website"
+=================================
+
+The prefix file name 'Website' is set in several places.  This prefix
+controls the name of output files such as 'Website.pdf', 'Website.epub',
+'Website.dbk' and 'Website.txt'.  You may want to change it to another
+name.
+
+Edit the 'Makefile' variable 'Manual = Website' to something like
+'Manual = YourName'.  Rename the Website.texi on the command line with
+'mv Website.texi YourName.texi'.  Change the '@set Manual Website'
+inside the .texi file to '@set Manual YourName'.  This will change the
+prefix file name 'Website' to YourName.  On the command line run 'make'
+to test building the new outputs.  The system will generate the files
+'YourName.pdf', 'YourName.epub', 'Website.dbk' and 'YourName.txt'.
+
+If the 'Makefile' becomes corrupt, dated backups can be found the
+directory 'texinfopublisher-1.1/bak/'.
+
+9.2 'texinfopublisher-1.1/files' directory
+==========================================
+
+The 'files/' directory can be used for miscellaneous files associated
+with your content.  The use of this directory will reduce clutter.  The
+'files/' directory is never cleaned by 'make clean'.
+
+9.3 Favicon
+===========
+
+A favicon (shortcut icon, Web site icon, tab icon or bookmark icon) is
+provided as 'texinfopublisher-1.1/favicon.ico'.  Feel free to use or
+create your own favicon.
+
+9.4 Automatic backups
+=====================
+
+Every time the command 'make' is run the 'texinfopublisher-1.1/bak/'
+directory is populated with a copy of Website.texi with the date
+appended.  The format of the date is year, month and day (YYYYMMDD).
+Therefore a backup created on Jan 8th 2014 will create the file
+'bak/Website.texi.20140108'.  This backup file can be used if the
+'Website.texi' gets corrupted.
+
+9.5 Installing 'texi2any'
+=========================
+
+If your system lacks 'texi2any' or is running a version prior to 5.2
+install the latest version from <http://ftp.gnu.org/gnu/texinfo/>.
+Download the file most recent tar.gz file and do the following
+     tar xfz texinfo-5.2.tar.gz
+     cd texinfo-5.2
+     ./configure
+     make
+     sudo make install
+Confirm installation by typing
+     texi2any --version
+
+9.6 Compiling Texinfo Publisher documentation
+=============================================
+
+This Texinfo Publisher manual is written in GNU Texinfo.  Inside the
+directory of 'texinfopublisher-1.1/doc/' see a file
+'TexinfoPublisher.texi'.  This is the source file that is compiled when
+the command 'make' is run.  The result of the compilation is the
+building of this Texinfo Publisher Manual (the manual that your are
+reading now).  Change your working directory to
+'texinfopublisher-1.1/doc/' and type
+     make
+This will compile the documentation into many formats.
+
+Appendix A GNU Free Documentation License
+*****************************************
+
+                     Version 1.3, 3 November 2008
+
+     Copyright (C) 2000, 2001, 2002, 2007, 2008 Free Software Foundation, Inc.
+     <http://fsf.org/>
+
+     Everyone is permitted to copy and distribute verbatim copies
+     of this license document, but changing it is not allowed.
+
+  0. PREAMBLE
+
+     The purpose of this License is to make a manual, textbook, or other
+     functional and useful document "free" in the sense of freedom: to
+     assure everyone the effective freedom to copy and redistribute it,
+     with or without modifying it, either commercially or
+     noncommercially.  Secondarily, this License preserves for the
+     author and publisher a way to get credit for their work, while not
+     being considered responsible for modifications made by others.
+
+     This License is a kind of "copyleft", which means that derivative
+     works of the document must themselves be free in the same sense.
+     It complements the GNU General Public License, which is a copyleft
+     license designed for free software.
+
+     We have designed this License in order to use it for manuals for
+     free software, because free software needs free documentation: a
+     free program should come with manuals providing the same freedoms
+     that the software does.  But this License is not limited to
+     software manuals; it can be used for any textual work, regardless
+     of subject matter or whether it is published as a printed book.  We
+     recommend this License principally for works whose purpose is
+     instruction or reference.
+
+  1. APPLICABILITY AND DEFINITIONS
+
+     This License applies to any manual or other work, in any medium,
+     that contains a notice placed by the copyright holder saying it can
+     be distributed under the terms of this License.  Such a notice
+     grants a world-wide, royalty-free license, unlimited in duration,
+     to use that work under the conditions stated herein.  The
+     "Document", below, refers to any such manual or work.  Any member
+     of the public is a licensee, and is addressed as "you".  You accept
+     the license if you copy, modify or distribute the work in a way
+     requiring permission under copyright law.
+
+     A "Modified Version" of the Document means any work containing the
+     Document or a portion of it, either copied verbatim, or with
+     modifications and/or translated into another language.
+
+     A "Secondary Section" is a named appendix or a front-matter section
+     of the Document that deals exclusively with the relationship of the
+     publishers or authors of the Document to the Document's overall
+     subject (or to related matters) and contains nothing that could
+     fall directly within that overall subject.  (Thus, if the Document
+     is in part a textbook of mathematics, a Secondary Section may not
+     explain any mathematics.)  The relationship could be a matter of
+     historical connection with the subject or with related matters, or
+     of legal, commercial, philosophical, ethical or political position
+     regarding them.
+
+     The "Invariant Sections" are certain Secondary Sections whose
+     titles are designated, as being those of Invariant Sections, in the
+     notice that says that the Document is released under this License.
+     If a section does not fit the above definition of Secondary then it
+     is not allowed to be designated as Invariant.  The Document may
+     contain zero Invariant Sections.  If the Document does not identify
+     any Invariant Sections then there are none.
+
+     The "Cover Texts" are certain short passages of text that are
+     listed, as Front-Cover Texts or Back-Cover Texts, in the notice
+     that says that the Document is released under this License.  A
+     Front-Cover Text may be at most 5 words, and a Back-Cover Text may
+     be at most 25 words.
+
+     A "Transparent" copy of the Document means a machine-readable copy,
+     represented in a format whose specification is available to the
+     general public, that is suitable for revising the document
+     straightforwardly with generic text editors or (for images composed
+     of pixels) generic paint programs or (for drawings) some widely
+     available drawing editor, and that is suitable for input to text
+     formatters or for automatic translation to a variety of formats
+     suitable for input to text formatters.  A copy made in an otherwise
+     Transparent file format whose markup, or absence of markup, has
+     been arranged to thwart or discourage subsequent modification by
+     readers is not Transparent.  An image format is not Transparent if
+     used for any substantial amount of text.  A copy that is not
+     "Transparent" is called "Opaque".
+
+     Examples of suitable formats for Transparent copies include plain
+     ASCII without markup, Texinfo input format, LaTeX input format,
+     SGML or XML using a publicly available DTD, and standard-conforming
+     simple HTML, PostScript or PDF designed for human modification.
+     Examples of transparent image formats include PNG, XCF and JPG.
+     Opaque formats include proprietary formats that can be read and
+     edited only by proprietary word processors, SGML or XML for which
+     the DTD and/or processing tools are not generally available, and
+     the machine-generated HTML, PostScript or PDF produced by some word
+     processors for output purposes only.
+
+     The "Title Page" means, for a printed book, the title page itself,
+     plus such following pages as are needed to hold, legibly, the
+     material this License requires to appear in the title page.  For
+     works in formats which do not have any title page as such, "Title
+     Page" means the text near the most prominent appearance of the
+     work's title, preceding the beginning of the body of the text.
+
+     The "publisher" means any person or entity that distributes copies
+     of the Document to the public.
+
+     A section "Entitled XYZ" means a named subunit of the Document
+     whose title either is precisely XYZ or contains XYZ in parentheses
+     following text that translates XYZ in another language.  (Here XYZ
+     stands for a specific section name mentioned below, such as
+     "Acknowledgements", "Dedications", "Endorsements", or "History".)
+     To "Preserve the Title" of such a section when you modify the
+     Document means that it remains a section "Entitled XYZ" according
+     to this definition.
+
+     The Document may include Warranty Disclaimers next to the notice
+     which states that this License applies to the Document.  These
+     Warranty Disclaimers are considered to be included by reference in
+     this License, but only as regards disclaiming warranties: any other
+     implication that these Warranty Disclaimers may have is void and
+     has no effect on the meaning of this License.
+
+  2. VERBATIM COPYING
+
+     You may copy and distribute the Document in any medium, either
+     commercially or noncommercially, provided that this License, the
+     copyright notices, and the license notice saying this License
+     applies to the Document are reproduced in all copies, and that you
+     add no other conditions whatsoever to those of this License.  You
+     may not use technical measures to obstruct or control the reading
+     or further copying of the copies you make or distribute.  However,
+     you may accept compensation in exchange for copies.  If you
+     distribute a large enough number of copies you must also follow the
+     conditions in section 3.
+
+     You may also lend copies, under the same conditions stated above,
+     and you may publicly display copies.
+
+  3. COPYING IN QUANTITY
+
+     If you publish printed copies (or copies in media that commonly
+     have printed covers) of the Document, numbering more than 100, and
+     the Document's license notice requires Cover Texts, you must
+     enclose the copies in covers that carry, clearly and legibly, all
+     these Cover Texts: Front-Cover Texts on the front cover, and
+     Back-Cover Texts on the back cover.  Both covers must also clearly
+     and legibly identify you as the publisher of these copies.  The
+     front cover must present the full title with all words of the title
+     equally prominent and visible.  You may add other material on the
+     covers in addition.  Copying with changes limited to the covers, as
+     long as they preserve the title of the Document and satisfy these
+     conditions, can be treated as verbatim copying in other respects.
+
+     If the required texts for either cover are too voluminous to fit
+     legibly, you should put the first ones listed (as many as fit
+     reasonably) on the actual cover, and continue the rest onto
+     adjacent pages.
+
+     If you publish or distribute Opaque copies of the Document
+     numbering more than 100, you must either include a machine-readable
+     Transparent copy along with each Opaque copy, or state in or with
+     each Opaque copy a computer-network location from which the general
+     network-using public has access to download using public-standard
+     network protocols a complete Transparent copy of the Document, free
+     of added material.  If you use the latter option, you must take
+     reasonably prudent steps, when you begin distribution of Opaque
+     copies in quantity, to ensure that this Transparent copy will
+     remain thus accessible at the stated location until at least one
+     year after the last time you distribute an Opaque copy (directly or
+     through your agents or retailers) of that edition to the public.
+
+     It is requested, but not required, that you contact the authors of
+     the Document well before redistributing any large number of copies,
+     to give them a chance to provide you with an updated version of the
+     Document.
+
+  4. MODIFICATIONS
+
+     You may copy and distribute a Modified Version of the Document
+     under the conditions of sections 2 and 3 above, provided that you
+     release the Modified Version under precisely this License, with the
+     Modified Version filling the role of the Document, thus licensing
+     distribution and modification of the Modified Version to whoever
+     possesses a copy of it.  In addition, you must do these things in
+     the Modified Version:
+
+       A. Use in the Title Page (and on the covers, if any) a title
+          distinct from that of the Document, and from those of previous
+          versions (which should, if there were any, be listed in the
+          History section of the Document).  You may use the same title
+          as a previous version if the original publisher of that
+          version gives permission.
+
+       B. List on the Title Page, as authors, one or more persons or
+          entities responsible for authorship of the modifications in
+          the Modified Version, together with at least five of the
+          principal authors of the Document (all of its principal
+          authors, if it has fewer than five), unless they release you
+          from this requirement.
+
+       C. State on the Title page the name of the publisher of the
+          Modified Version, as the publisher.
+
+       D. Preserve all the copyright notices of the Document.
+
+       E. Add an appropriate copyright notice for your modifications
+          adjacent to the other copyright notices.
+
+       F. Include, immediately after the copyright notices, a license
+          notice giving the public permission to use the Modified
+          Version under the terms of this License, in the form shown in
+          the Addendum below.
+
+       G. Preserve in that license notice the full lists of Invariant
+          Sections and required Cover Texts given in the Document's
+          license notice.
+
+       H. Include an unaltered copy of this License.
+
+       I. Preserve the section Entitled "History", Preserve its Title,
+          and add to it an item stating at least the title, year, new
+          authors, and publisher of the Modified Version as given on the
+          Title Page.  If there is no section Entitled "History" in the
+          Document, create one stating the title, year, authors, and
+          publisher of the Document as given on its Title Page, then add
+          an item describing the Modified Version as stated in the
+          previous sentence.
+
+       J. Preserve the network location, if any, given in the Document
+          for public access to a Transparent copy of the Document, and
+          likewise the network locations given in the Document for
+          previous versions it was based on.  These may be placed in the
+          "History" section.  You may omit a network location for a work
+          that was published at least four years before the Document
+          itself, or if the original publisher of the version it refers
+          to gives permission.
+
+       K. For any section Entitled "Acknowledgements" or "Dedications",
+          Preserve the Title of the section, and preserve in the section
+          all the substance and tone of each of the contributor
+          acknowledgements and/or dedications given therein.
+
+       L. Preserve all the Invariant Sections of the Document, unaltered
+          in their text and in their titles.  Section numbers or the
+          equivalent are not considered part of the section titles.
+
+       M. Delete any section Entitled "Endorsements".  Such a section
+          may not be included in the Modified Version.
+
+       N. Do not retitle any existing section to be Entitled
+          "Endorsements" or to conflict in title with any Invariant
+          Section.
+
+       O. Preserve any Warranty Disclaimers.
+
+     If the Modified Version includes new front-matter sections or
+     appendices that qualify as Secondary Sections and contain no
+     material copied from the Document, you may at your option designate
+     some or all of these sections as invariant.  To do this, add their
+     titles to the list of Invariant Sections in the Modified Version's
+     license notice.  These titles must be distinct from any other
+     section titles.
+
+     You may add a section Entitled "Endorsements", provided it contains
+     nothing but endorsements of your Modified Version by various
+     parties--for example, statements of peer review or that the text
+     has been approved by an organization as the authoritative
+     definition of a standard.
+
+     You may add a passage of up to five words as a Front-Cover Text,
+     and a passage of up to 25 words as a Back-Cover Text, to the end of
+     the list of Cover Texts in the Modified Version.  Only one passage
+     of Front-Cover Text and one of Back-Cover Text may be added by (or
+     through arrangements made by) any one entity.  If the Document
+     already includes a cover text for the same cover, previously added
+     by you or by arrangement made by the same entity you are acting on
+     behalf of, you may not add another; but you may replace the old
+     one, on explicit permission from the previous publisher that added
+     the old one.
+
+     The author(s) and publisher(s) of the Document do not by this
+     License give permission to use their names for publicity for or to
+     assert or imply endorsement of any Modified Version.
+
+  5. COMBINING DOCUMENTS
+
+     You may combine the Document with other documents released under
+     this License, under the terms defined in section 4 above for
+     modified versions, provided that you include in the combination all
+     of the Invariant Sections of all of the original documents,
+     unmodified, and list them all as Invariant Sections of your
+     combined work in its license notice, and that you preserve all
+     their Warranty Disclaimers.
+
+     The combined work need only contain one copy of this License, and
+     multiple identical Invariant Sections may be replaced with a single
+     copy.  If there are multiple Invariant Sections with the same name
+     but different contents, make the title of each such section unique
+     by adding at the end of it, in parentheses, the name of the
+     original author or publisher of that section if known, or else a
+     unique number.  Make the same adjustment to the section titles in
+     the list of Invariant Sections in the license notice of the
+     combined work.
+
+     In the combination, you must combine any sections Entitled
+     "History" in the various original documents, forming one section
+     Entitled "History"; likewise combine any sections Entitled
+     "Acknowledgements", and any sections Entitled "Dedications".  You
+     must delete all sections Entitled "Endorsements."
+
+  6. COLLECTIONS OF DOCUMENTS
+
+     You may make a collection consisting of the Document and other
+     documents released under this License, and replace the individual
+     copies of this License in the various documents with a single copy
+     that is included in the collection, provided that you follow the
+     rules of this License for verbatim copying of each of the documents
+     in all other respects.
+
+     You may extract a single document from such a collection, and
+     distribute it individually under this License, provided you insert
+     a copy of this License into the extracted document, and follow this
+     License in all other respects regarding verbatim copying of that
+     document.
+
+  7. AGGREGATION WITH INDEPENDENT WORKS
+
+     A compilation of the Document or its derivatives with other
+     separate and independent documents or works, in or on a volume of a
+     storage or distribution medium, is called an "aggregate" if the
+     copyright resulting from the compilation is not used to limit the
+     legal rights of the compilation's users beyond what the individual
+     works permit.  When the Document is included in an aggregate, this
+     License does not apply to the other works in the aggregate which
+     are not themselves derivative works of the Document.
+
+     If the Cover Text requirement of section 3 is applicable to these
+     copies of the Document, then if the Document is less than one half
+     of the entire aggregate, the Document's Cover Texts may be placed
+     on covers that bracket the Document within the aggregate, or the
+     electronic equivalent of covers if the Document is in electronic
+     form.  Otherwise they must appear on printed covers that bracket
+     the whole aggregate.
+
+  8. TRANSLATION
+
+     Translation is considered a kind of modification, so you may
+     distribute translations of the Document under the terms of section
+     4.  Replacing Invariant Sections with translations requires special
+     permission from their copyright holders, but you may include
+     translations of some or all Invariant Sections in addition to the
+     original versions of these Invariant Sections.  You may include a
+     translation of this License, and all the license notices in the
+     Document, and any Warranty Disclaimers, provided that you also
+     include the original English version of this License and the
+     original versions of those notices and disclaimers.  In case of a
+     disagreement between the translation and the original version of
+     this License or a notice or disclaimer, the original version will
+     prevail.
+
+     If a section in the Document is Entitled "Acknowledgements",
+     "Dedications", or "History", the requirement (section 4) to
+     Preserve its Title (section 1) will typically require changing the
+     actual title.
+
+  9. TERMINATION
+
+     You may not copy, modify, sublicense, or distribute the Document
+     except as expressly provided under this License.  Any attempt
+     otherwise to copy, modify, sublicense, or distribute it is void,
+     and will automatically terminate your rights under this License.
+
+     However, if you cease all violation of this License, then your
+     license from a particular copyright holder is reinstated (a)
+     provisionally, unless and until the copyright holder explicitly and
+     finally terminates your license, and (b) permanently, if the
+     copyright holder fails to notify you of the violation by some
+     reasonable means prior to 60 days after the cessation.
+
+     Moreover, your license from a particular copyright holder is
+     reinstated permanently if the copyright holder notifies you of the
+     violation by some reasonable means, this is the first time you have
+     received notice of violation of this License (for any work) from
+     that copyright holder, and you cure the violation prior to 30 days
+     after your receipt of the notice.
+
+     Termination of your rights under this section does not terminate
+     the licenses of parties who have received copies or rights from you
+     under this License.  If your rights have been terminated and not
+     permanently reinstated, receipt of a copy of some or all of the
+     same material does not give you any rights to use it.
+
+  10. FUTURE REVISIONS OF THIS LICENSE
+
+     The Free Software Foundation may publish new, revised versions of
+     the GNU Free Documentation License from time to time.  Such new
+     versions will be similar in spirit to the present version, but may
+     differ in detail to address new problems or concerns.  See
+     <http://www.gnu.org/copyleft/>.
+
+     Each version of the License is given a distinguishing version
+     number.  If the Document specifies that a particular numbered
+     version of this License "or any later version" applies to it, you
+     have the option of following the terms and conditions either of
+     that specified version or of any later version that has been
+     published (not as a draft) by the Free Software Foundation.  If the
+     Document does not specify a version number of this License, you may
+     choose any version ever published (not as a draft) by the Free
+     Software Foundation.  If the Document specifies that a proxy can
+     decide which future versions of this License can be used, that
+     proxy's public statement of acceptance of a version permanently
+     authorizes you to choose that version for the Document.
+
+  11. RELICENSING
+
+     "Massive Multiauthor Collaboration Site" (or "MMC Site") means any
+     World Wide Web server that publishes copyrightable works and also
+     provides prominent facilities for anybody to edit those works.  A
+     public wiki that anybody can edit is an example of such a server.
+     A "Massive Multiauthor Collaboration" (or "MMC") contained in the
+     site means any set of copyrightable works thus published on the MMC
+     site.
+
+     "CC-BY-SA" means the Creative Commons Attribution-Share Alike 3.0
+     license published by Creative Commons Corporation, a not-for-profit
+     corporation with a principal place of business in San Francisco,
+     California, as well as future copyleft versions of that license
+     published by that same organization.
+
+     "Incorporate" means to publish or republish a Document, in whole or
+     in part, as part of another Document.
+
+     An MMC is "eligible for relicensing" if it is licensed under this
+     License, and if all works that were first published under this
+     License somewhere other than this MMC, and subsequently
+     incorporated in whole or in part into the MMC, (1) had no cover
+     texts or invariant sections, and (2) were thus incorporated prior
+     to November 1, 2008.
+
+     The operator of an MMC Site may republish an MMC contained in the
+     site under CC-BY-SA on the same site at any time before August 1,
+     2009, provided the MMC is eligible for relicensing.
+
+ADDENDUM: How to use this License for your documents
+====================================================
+
+To use this License in a document you have written, include a copy of
+the License in the document and put the following copyright and license
+notices just after the title page:
+
+       Copyright (C)  YEAR  YOUR NAME.
+       Permission is granted to copy, distribute and/or modify this document
+       under the terms of the GNU Free Documentation License, Version 1.3
+       or any later version published by the Free Software Foundation;
+       with no Invariant Sections, no Front-Cover Texts, and no Back-Cover
+       Texts.  A copy of the license is included in the section entitled ``GNU
+       Free Documentation License''.
+
+If you have Invariant Sections, Front-Cover Texts and Back-Cover Texts,
+replace the "with...Texts." line with this:
+
+         with the Invariant Sections being LIST THEIR TITLES, with
+         the Front-Cover Texts being LIST, and with the Back-Cover Texts
+         being LIST.
+
+If you have Invariant Sections without Cover Texts, or some other
+combination of the three, merge those two alternatives to suit the
+situation.
+
+If your document contains nontrivial examples of program code, we
+recommend releasing these examples in parallel under your choice of free
+software license, such as the GNU General Public License, to permit
+their use in free software.
+
+Concept index
+*************
+
+* Menu:
+
+* .chm:                                  Output formats.     (line  943)
+* .dbk:                                  Compiling and viewing content.
+                                                             (line  249)
+* .dbk <1>:                              Compiling and viewing content.
+                                                             (line  301)
+* .dvi:                                  Compiling and viewing content.
+                                                             (line  317)
+* .dvi <1>:                              Output formats.     (line  916)
+* .eps:                                  Compiling and viewing content.
+                                                             (line  257)
+* .eps <1>:                              Output formats.     (line  916)
+* .eps <2>:                              Images.             (line 1005)
+* .epub:                                 Compiling and viewing content.
+                                                             (line  246)
+* .epub <1>:                             Compiling and viewing content.
+                                                             (line  305)
+* .epub <2>:                             Output formats.     (line  879)
+* .gif:                                  Images.             (line 1005)
+* .hhp:                                  Compiling and viewing content.
+                                                             (line  333)
+* .jpg:                                  Images.             (line 1005)
+* .pdf:                                  Compiling and viewing content.
+                                                             (line  242)
+* .pdf <1>:                              Compiling and viewing content.
+                                                             (line  297)
+* .pdf <2>:                              Images.             (line 1005)
+* .png:                                  Images.             (line 1005)
+* .ps:                                   Compiling and viewing content.
+                                                             (line  321)
+* .ps <1>:                               Output formats.     (line  916)
+* .tar.gz:                               Compiling and viewing content.
+                                                             (line  254)
+* .xml:                                  Compiling and viewing content.
+                                                             (line  303)
+* .zip:                                  Compiling and viewing content.
+                                                             (line  251)
+* .zip <1>:                              Output formats.     (line  936)
+* @:                                     Learning GNU Texinfo.
+                                                             (line  466)
+* @*:                                    Learning GNU Texinfo.
+                                                             (line  485)
+* @* <1>:                                Output formats.     (line  861)
+* @* <2>:                                Output formats.     (line  887)
+* @b:                                    Learning GNU Texinfo.
+                                                             (line  492)
+* @c:                                    Learning GNU Texinfo.
+                                                             (line  478)
+* @cartouche:                            Learning GNU Texinfo.
+                                                             (line  833)
+* @chapter:                              Learning GNU Texinfo.
+                                                             (line  441)
+* @cindex:                               Learning GNU Texinfo.
+                                                             (line  817)
+* @email:                                Learning GNU Texinfo.
+                                                             (line  526)
+* @enumerate:                            Learning GNU Texinfo.
+                                                             (line  571)
+* @example:                              Learning GNU Texinfo.
+                                                             (line  542)
+* @i:                                    Learning GNU Texinfo.
+                                                             (line  500)
+* @ifdocbook:                            Output formats.     (line  898)
+* @ifdocbook <1>:                        Output formats.     (line  943)
+* @image:                                Learning GNU Texinfo.
+                                                             (line  579)
+* @image <1>:                            Output formats.     (line  959)
+* @itemize:                              Learning GNU Texinfo.
+                                                             (line  559)
+* @multitable.:                          Learning GNU Texinfo.
+                                                             (line  571)
+* @node:                                 Learning GNU Texinfo.
+                                                             (line  441)
+* @paragraphindent:                      Learning GNU Texinfo.
+                                                             (line  825)
+* @sansserif:                            Learning GNU Texinfo.
+                                                             (line  508)
+* @section:                              Learning GNU Texinfo.
+                                                             (line  455)
+* @smallexample:                         Learning GNU Texinfo.
+                                                             (line  542)
+* @subsection:                           Learning GNU Texinfo.
+                                                             (line  455)
+* @subsubsection:                        Learning GNU Texinfo.
+                                                             (line  455)
+* @table:                                Learning GNU Texinfo.
+                                                             (line  571)
+* @url:                                  Learning GNU Texinfo.
+                                                             (line  518)
+* a2x:                                   Output formats.     (line  943)
+* alttext:                               Output formats.     (line  959)
+* apsell:                                Language analysis.  (line 1033)
+* automated backups:                     Misc.               (line 1110)
+* autotools:                             Downloading Texinfo Publisher.
+                                                             (line  205)
+* backups:                               Misc.               (line 1110)
+* blueberry:                             Learning GNU Texinfo.
+                                                             (line  817)
+* bold:                                  Learning GNU Texinfo.
+                                                             (line  492)
+* bookmark icon:                         Misc.               (line 1103)
+* box:                                   Learning GNU Texinfo.
+                                                             (line  833)
+* broken link checking:                  Broken link checking.
+                                                             (line 1065)
+* Cascading Style Sheets:                Compiling and viewing content.
+                                                             (line  349)
+* Compiling and viewing content:         Compiling and viewing content.
+                                                             (line  225)
+* configure:                             Downloading Texinfo Publisher.
+                                                             (line  202)
+* configure <1>:                         Compiling and viewing content.
+                                                             (line  254)
+* Cygwin:                                Compiling and viewing content.
+                                                             (line  265)
+* dblatex:                               Compiling and viewing content.
+                                                             (line  313)
+* dbtoepub:                              Output formats.     (line  879)
+* diction analysis:                      Language analysis.  (line 1043)
+* DjVu:                                  Compiling and viewing content.
+                                                             (line  257)
+* DjVu <1>:                              Compiling and viewing content.
+                                                             (line  299)
+* DjVu <2>:                              Compiling and viewing content.
+                                                             (line  382)
+* DocBook:                               Compiling and viewing content.
+                                                             (line  301)
+* DocBook <1>:                           Output formats.     (line  879)
+* documentation:                         Misc.               (line 1134)
+* Downloading Texinfo Publisher:         Downloading Texinfo Publisher.
+                                                             (line  185)
+* DVI:                                   Compiling and viewing content.
+                                                             (line  317)
+* DVI <1>:                               Output formats.     (line  916)
+* emacs:                                 Learning GNU Texinfo.
+                                                             (line  428)
+* EPS:                                   Compiling and viewing content.
+                                                             (line  257)
+* EPS <1>:                               Output formats.     (line  916)
+* EPS <2>:                               Output formats.     (line  921)
+* EPS <3>:                               Images.             (line 1006)
+* eps2pdf:                               Images.             (line 1017)
+* EPUB:                                  Compiling and viewing content.
+                                                             (line  246)
+* EPUB <1>:                              Compiling and viewing content.
+                                                             (line  305)
+* EPUB <2>:                              Output formats.     (line  879)
+* evince:                                Output formats.     (line  874)
+* explorer:                              Compiling and viewing content.
+                                                             (line  265)
+* favicon.ico:                           Misc.               (line 1103)
+* firefox:                               Compiling and viewing content.
+                                                             (line  265)
+* firefox <1>:                           Broken link checking.
+                                                             (line 1067)
+* font:                                  Learning GNU Texinfo.
+                                                             (line  492)
+* frames:                                Compiling and viewing content.
+                                                             (line  307)
+* gedit:                                 Learning GNU Texinfo.
+                                                             (line  428)
+* GIF:                                   Images.             (line 1013)
+* gif2eps:                               Output formats.     (line  923)
+* gif2eps <1>:                           Images.             (line 1009)
+* gif2jpg:                               Images.             (line 1015)
+* gif2png:                               Images.             (line 1013)
+* GNOME Desktop:                         Compiling and viewing content.
+                                                             (line  265)
+* GNU aspell:                            Language analysis.  (line 1033)
+* GNU diction:                           Language analysis.  (line 1043)
+* GNU Free Documentation License:        GNU Free Documentation License.
+                                                             (line 1147)
+* GNU style:                             Language analysis.  (line 1054)
+* GNU Texinfo Manual:                    Learning GNU Texinfo.
+                                                             (line  405)
+* GNU Texinfo Manual <1>:                Learning GNU Texinfo.
+                                                             (line  571)
+* hhc.exe:                               Output formats.     (line  943)
+* HTML:                                  Compiling and viewing content.
+                                                             (line  234)
+* HTML <1>:                              Compiling and viewing content.
+                                                             (line  307)
+* HTML <2>:                              Output formats.     (line  849)
+* HTML <3>:                              Broken link checking.
+                                                             (line 1065)
+* HTML (split vs. non-split):            Compiling and viewing content.
+                                                             (line  289)
+* HTML Helper:                           Compiling and viewing content.
+                                                             (line  333)
+* HTML Helper <1>:                       Output formats.     (line  943)
+* image open book:                       Learning GNU Texinfo.
+                                                             (line  582)
+* images:                                Images.             (line  970)
+* index.html:                            Overview of Texinfo Publisher.
+                                                             (line  156)
+* index.html <1>:                        Compiling and viewing content.
+                                                             (line  234)
+* index.html <2>:                        Compiling and viewing content.
+                                                             (line  362)
+* index.html <3>:                        Output formats.     (line  849)
+* indexNoSplit.html:                     Compiling and viewing content.
+                                                             (line  237)
+* indexNoSplit.html <1>:                 Compiling and viewing content.
+                                                             (line  362)
+* indexNoSplit.html <2>:                 Output formats.     (line  849)
+* italics:                               Learning GNU Texinfo.
+                                                             (line  500)
+* jp2a:                                  Images.             (line 1019)
+* JPG:                                   Images.             (line 1013)
+* jpg2eps:                               Output formats.     (line  920)
+* jpg2eps <1>:                           Images.             (line 1006)
+* jpg2png:                               Images.             (line 1011)
+* jpg2txt:                               Images.             (line 1019)
+* kate:                                  Learning GNU Texinfo.
+                                                             (line  428)
+* kde-open:                              Compiling and viewing content.
+                                                             (line  265)
+* language analysis:                     Language analysis.  (line 1027)
+* Learning GNU Texinfo:                  Learning GNU Texinfo.
+                                                             (line  405)
+* license:                               GNU Free Documentation License.
+                                                             (line 1147)
+* linkchecker:                           Broken link checking.
+                                                             (line 1065)
+* make:                                  Compiling and viewing content.
+                                                             (line  229)
+* make clean:                            Compiling and viewing content.
+                                                             (line  341)
+* make diction:                          Language analysis.  (line 1043)
+* make dist:                             Compiling and viewing content.
+                                                             (line  347)
+* make distclean:                        Compiling and viewing content.
+                                                             (line  342)
+* make distclean <1>:                    Compiling and viewing content.
+                                                             (line  347)
+* make docbook:                          Compiling and viewing content.
+                                                             (line  301)
+* make dvi:                              Compiling and viewing content.
+                                                             (line  317)
+* make eps2pdf:                          Images.             (line 1017)
+* make epub:                             Compiling and viewing content.
+                                                             (line  305)
+* make frames:                           Compiling and viewing content.
+                                                             (line  307)
+* make gif2eps:                          Output formats.     (line  923)
+* make gif2eps <1>:                      Images.             (line 1009)
+* make gif2eps <2>:                      Images.             (line 1011)
+* make gif2jpg:                          Images.             (line 1015)
+* make gif2png:                          Images.             (line 1013)
+* make help:                             Compiling and viewing content.
+                                                             (line  355)
+* make info:                             Compiling and viewing content.
+                                                             (line  331)
+* make jpg2eps:                          Output formats.     (line  920)
+* make jpg2eps <1>:                      Images.             (line 1006)
+* make jpg2png:                          Images.             (line 1013)
+* make jpg2txt:                          Images.             (line 1019)
+* make linkchecker:                      Broken link checking.
+                                                             (line 1065)
+* make plaintext:                        Compiling and viewing content.
+                                                             (line  328)
+* make png2eps:                          Output formats.     (line  921)
+* make png2eps <1>:                      Images.             (line 1007)
+* make png2txt:                          Images.             (line 1021)
+* make ps:                               Compiling and viewing content.
+                                                             (line  321)
+* make resizejpg:                        Images.             (line  986)
+* make resizepng:                        Images.             (line  986)
+* make spelling:                         Language analysis.  (line 1031)
+* make style:                            Language analysis.  (line 1054)
+* make text:                             Compiling and viewing content.
+                                                             (line  325)
+* make zip:                              Compiling and viewing content.
+                                                             (line  338)
+* Makefile:                              Overview of Texinfo Publisher.
+                                                             (line  115)
+* Makefile <1>:                          Overview of Texinfo Publisher.
+                                                             (line  156)
+* Makefile <2>:                          Compiling and viewing content.
+                                                             (line  231)
+* Makefile <3>:                          Compiling and viewing content.
+                                                             (line  362)
+* Makefile <4>:                          Misc.               (line 1082)
+* makeinfo:                              Output formats.     (line  879)
+* Microsoft HTML Helper:                 Compiling and viewing content.
+                                                             (line  333)
+* nautilus:                              Compiling and viewing content.
+                                                             (line  265)
+* Non-split HTML:                        Compiling and viewing content.
+                                                             (line  289)
+* notepad:                               Learning GNU Texinfo.
+                                                             (line  428)
+* okular:                                Output formats.     (line  909)
+* open book image:                       Learning GNU Texinfo.
+                                                             (line  582)
+* Output formats:                        Output formats.     (line  844)
+* Overview of Texinfo Publisher:         Overview of Texinfo Publisher.
+                                                             (line  115)
+* PDF:                                   Compiling and viewing content.
+                                                             (line  242)
+* PDF <1>:                               Compiling and viewing content.
+                                                             (line  297)
+* PDF <2>:                               Compiling and viewing content.
+                                                             (line  313)
+* PDF <3>:                               Output formats.     (line  857)
+* Plain text:                            Output formats.     (line  959)
+* PNG:                                   Images.             (line 1013)
+* png2eps:                               Output formats.     (line  921)
+* png2eps <1>:                           Images.             (line 1007)
+* png2txt:                               Images.             (line 1021)
+* PostScript:                            Compiling and viewing content.
+                                                             (line  321)
+* PostScript <1>:                        Output formats.     (line  916)
+* public domain resources:               Images.             (line  974)
+* readability grades:                    Language analysis.  (line 1056)
+* renaming Website:                      Misc.               (line 1077)
+* Shortcut icon:                         Misc.               (line 1103)
+* sigil:                                 Output formats.     (line  909)
+* Single-page HTML:                      Compiling and viewing content.
+                                                             (line  289)
+* spelling:                              Language analysis.  (line 1031)
+* Split HTML:                            Compiling and viewing content.
+                                                             (line  289)
+* style analysis:                        Language analysis.  (line 1054)
+* tar:                                   Downloading Texinfo Publisher.
+                                                             (line  191)
+* tar <1>:                               Compiling and viewing content.
+                                                             (line  254)
+* tar <2>:                               Compiling and viewing content.
+                                                             (line  274)
+* texi2any:                              Output formats.     (line  879)
+* texi2any <1>:                          Misc.               (line 1120)
+* TEXI2DVI_FLAGS:                        Compiling and viewing content.
+                                                             (line  362)
+* Texinfo:                               Overview of Texinfo Publisher.
+                                                             (line  133)
+* Texinfo <1>:                           Learning GNU Texinfo.
+                                                             (line  405)
+* Texinfo Manual:                        Learning GNU Texinfo.
+                                                             (line  404)
+* Texinfo Manual <1>:                    Learning GNU Texinfo.
+                                                             (line  571)
+* texinfopublisher-1.1.tar.gz:           Downloading Texinfo Publisher.
+                                                             (line  191)
+* TexinfoPublisher.texi:                 Misc.               (line 1134)
+* vi:                                    Learning GNU Texinfo.
+                                                             (line  428)
+* Web site icon:                         Misc.               (line 1103)
+* Website.texi:                          Compiling and viewing content.
+                                                             (line  231)
+* Website.texi <1>:                      Learning GNU Texinfo.
+                                                             (line  418)
+* Website.texi <2>:                      Learning GNU Texinfo.
+                                                             (line  430)
+* Website.texi <3>:                      Learning GNU Texinfo.
+                                                             (line  827)
+* Website.texi <4>:                      Misc.               (line 1082)
+* Website_frame.html:                    Compiling and viewing content.
+                                                             (line  240)
+* XML:                                   Compiling and viewing content.
+                                                             (line  303)
+* xmlto:                                 Compiling and viewing content.
+                                                             (line  307)
+* yum:                                   Output formats.     (line  903)
+* Zip:                                   Compiling and viewing content.
+                                                             (line  251)
+* Zip <1>:                               Output formats.     (line  936)
+

@@ -1,0 +1,107 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<!-- This manual is for Texinfo Publisher (version 1.1), a Makefile based multi-format publishing system. Texinfo Publisher is based on GNU Texinfo and is a unrelated project.
+
+Copyright (C)  2012  A. Bradford.
+Permission is granted to copy, distribute and/or modify this document
+under the terms of the GNU Free Documentation License, Version 1.3
+or any later version published by the Free Software Foundation;
+with no Invariant Sections, no Front-Cover Texts, and no Back-Cover
+Texts.  A copy of the license is included in the section entitled "GNU
+Free Documentation License".
+ -->
+<!-- Created by GNU Texinfo 6.7, http://www.gnu.org/software/texinfo/ -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Language analysis (Texinfo Publisher)</title>
+
+<meta name="description" content="Language analysis (Texinfo Publisher)">
+<meta name="keywords" content="Language analysis (Texinfo Publisher)">
+<meta name="resource-type" content="document">
+<meta name="distribution" content="global">
+<meta name="Generator" content="texi2any">
+<link href="index.html" rel="start" title="Top">
+<link href="Concept-index.html" rel="index" title="Concept index">
+<link href="index.html#SEC_Contents" rel="contents" title="Table of Contents">
+<link href="index.html" rel="up" title="Top">
+<link href="Broken-link-checking.html" rel="next" title="Broken link checking">
+<link href="Images.html" rel="prev" title="Images">
+<style type="text/css">
+<!--
+a.summary-letter {text-decoration: none}
+blockquote.indentedblock {margin-right: 0em}
+div.display {margin-left: 3.2em}
+div.example {margin-left: 3.2em}
+div.lisp {margin-left: 3.2em}
+kbd {font-style: oblique}
+pre.display {font-family: inherit}
+pre.format {font-family: inherit}
+pre.menu-comment {font-family: serif}
+pre.menu-preformatted {font-family: serif}
+span.nolinebreak {white-space: nowrap}
+span.roman {font-family: initial; font-weight: normal}
+span.sansserif {font-family: sans-serif; font-weight: normal}
+ul.no-bullet {list-style: none}
+-->
+</style>
+
+
+</head>
+
+<body lang="en">
+<a href="texinfopublisher-1.1.pdf">PDF content of this website</a><span id="Language-analysis"></span><div class="header">
+<p>
+Next: <a href="Broken-link-checking.html" accesskey="n" rel="next">Broken link checking</a>, Previous: <a href="Images.html" accesskey="p" rel="prev">Images</a>, Up: <a href="index.html" accesskey="u" rel="up">Top</a> &nbsp; [<a href="index.html#SEC_Contents" title="Table of contents" rel="contents">Contents</a>][<a href="Concept-index.html" title="Index" rel="index">Index</a>]</p>
+</div>
+<hr>
+<span id="Language-analysis-2"></span><h2 class="chapter">7 Language analysis</h2>
+<span id="index-language-analysis"></span>
+
+<span id="Spell-checking"></span><h3 class="section">7.1 Spell checking</h3>
+<span id="index-make-spelling"></span>
+<span id="index-spelling"></span>
+<p>To spell check content type on the command line
+</p><div class="example">
+<pre class="example">make spelling
+</pre></div>
+<span id="index-apsell"></span>
+<span id="index-GNU-aspell"></span>
+<p>The GNU <code>aspell</code> interactive spell checker will be run on your .texi content. If <code>apsell</code> flags words such as &ldquo;HTML&rdquo;, &ldquo;EPUB&rdquo;, &ldquo;DVI&rdquo; as spelled wrong, use the &ldquo;a) Add&rdquo; feature so these words are not flagged on the next run.
+<br>
+<br>
+For more information on <code>aspell</code> type <code>man aspell</code> on the command line.
+</p>
+<span id="Diction-analysis"></span><h3 class="section">7.2 Diction analysis</h3>
+<span id="index-diction-analysis"></span>
+<span id="index-GNU-diction"></span>
+<span id="index-make-diction"></span>
+<p>To diction analyze content type on the command line
+</p><div class="example">
+<pre class="example">make diction
+</pre></div>
+<p>The GNU <code>diction</code> analyzer will be run on your text output.
+GNU <code>diction</code> prints wordy and commonly misused phrases in sentences.
+<br>
+<br>
+For more information on <code>diction</code> type <code>man diction</code> on the command line.
+</p>
+<span id="Style-analysis"></span><h3 class="section">7.3 Style analysis</h3>
+<span id="index-style-analysis"></span>
+<span id="index-GNU-style"></span>
+<span id="index-make-style"></span>
+<p>To style analyze content type on the command line
+</p><div class="example">
+<pre class="example">make style
+</pre></div>
+<span id="index-readability-grades"></span>
+<p>The GNU <code>style</code> analyzer will be run on your text output.
+Your content will be analyzed for readability grades, sentence info, word usage and sentence beginnings.
+<br>
+<br>
+For more information on <code>style</code> type <code>man style</code> on the command line.
+</p>
+
+
+<a href="texinfopublisher-1.1.pdf">PDF content of this website</a>
+</body>
+</html>

@@ -1,0 +1,326 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<!-- This manual is for Texinfo Publisher (version 1.1), a Makefile based multi-format publishing system. Texinfo Publisher is based on GNU Texinfo and is a unrelated project.
+
+Copyright (C)  2012  A. Bradford.
+Permission is granted to copy, distribute and/or modify this document
+under the terms of the GNU Free Documentation License, Version 1.3
+or any later version published by the Free Software Foundation;
+with no Invariant Sections, no Front-Cover Texts, and no Back-Cover
+Texts.  A copy of the license is included in the section entitled "GNU
+Free Documentation License".
+ -->
+<!-- Created by GNU Texinfo 6.7, http://www.gnu.org/software/texinfo/ -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Compiling and viewing content (Texinfo Publisher)</title>
+
+<meta name="description" content="Compiling and viewing content (Texinfo Publisher)">
+<meta name="keywords" content="Compiling and viewing content (Texinfo Publisher)">
+<meta name="resource-type" content="document">
+<meta name="distribution" content="global">
+<meta name="Generator" content="texi2any">
+<link href="index.html" rel="start" title="Top">
+<link href="Concept-index.html" rel="index" title="Concept index">
+<link href="index.html#SEC_Contents" rel="contents" title="Table of Contents">
+<link href="index.html" rel="up" title="Top">
+<link href="Learning-GNU-Texinfo.html" rel="next" title="Learning GNU Texinfo">
+<link href="Downloading-Texinfo-Publisher.html" rel="prev" title="Downloading Texinfo Publisher">
+<style type="text/css">
+<!--
+a.summary-letter {text-decoration: none}
+blockquote.indentedblock {margin-right: 0em}
+div.display {margin-left: 3.2em}
+div.example {margin-left: 3.2em}
+div.lisp {margin-left: 3.2em}
+kbd {font-style: oblique}
+pre.display {font-family: inherit}
+pre.format {font-family: inherit}
+pre.menu-comment {font-family: serif}
+pre.menu-preformatted {font-family: serif}
+span.nolinebreak {white-space: nowrap}
+span.roman {font-family: initial; font-weight: normal}
+span.sansserif {font-family: sans-serif; font-weight: normal}
+ul.no-bullet {list-style: none}
+-->
+</style>
+
+
+</head>
+
+<body lang="en">
+<a href="texinfopublisher-1.1.pdf">PDF content of this website</a><span id="Compiling-and-viewing-content"></span><div class="header">
+<p>
+Next: <a href="Learning-GNU-Texinfo.html" accesskey="n" rel="next">Learning GNU Texinfo</a>, Previous: <a href="Downloading-Texinfo-Publisher.html" accesskey="p" rel="prev">Downloading Texinfo Publisher</a>, Up: <a href="index.html" accesskey="u" rel="up">Top</a> &nbsp; [<a href="index.html#SEC_Contents" title="Table of contents" rel="contents">Contents</a>][<a href="Concept-index.html" title="Index" rel="index">Index</a>]</p>
+</div>
+<hr>
+<span id="Compiling-and-viewing-content-1"></span><h2 class="chapter">3 Compiling and viewing content</h2>
+<span id="index-Compiling-and-viewing-content"></span>
+
+<span id="Compiling-content"></span><h3 class="section">3.1 Compiling content</h3>
+<span id="index-make"></span>
+<p>In the directory <samp>texinfopublisher-1.1/</samp> type the GNU / Linux command
+</p><div class="example">
+<pre class="example">make
+</pre></div>
+<span id="index-Makefile-2"></span>
+<span id="index-Website_002etexi"></span>
+<p>The <samp>Makefile</samp> will execute and process the file Texinfo <samp>Website.texi</samp>. The following files will build.
+</p><dl compact="compact">
+<dt>&lsquo;<samp>index.html</samp>&rsquo;</dt>
+<dd><span id="index-index_002ehtml-1"></span>
+<span id="index-HTML"></span>
+<p>This file has relative links to the .pdf, .txt, .epub and .zip files. Other associated HTML files many appear.
+</p></dd>
+<dt>&lsquo;<samp>indexNoSplit.html</samp>&rsquo;</dt>
+<dd><span id="index-indexNoSplit_002ehtml"></span>
+<p>This file has relative links to the .pdf, .txt, .epub and .zip files. Content is one large HTML page.
+</p></dd>
+<dt>&lsquo;<samp>Website_frame.html</samp>&rsquo;</dt>
+<dd><span id="index-Website_005fframe_002ehtml"></span>
+<p>Framed version of of index.html
+</p></dd>
+<dt>&lsquo;<samp>Website.pdf</samp>&rsquo;</dt>
+<dd><span id="index-_002epdf"></span>
+<span id="index-PDF"></span>
+<p>PDF of website content.
+</p></dd>
+<dt>&lsquo;<samp>Website.txt</samp>&rsquo;</dt>
+<dd><p>Text version of website content.
+</p></dd>
+<dt>&lsquo;<samp>Website.epub</samp>&rsquo;</dt>
+<dd><span id="index-_002eepub"></span>
+<span id="index-EPUB-1"></span>
+<p>EPUB book of website content. This will only be created if your system has the package <code>dbtoepub</code> installed.
+</p></dd>
+<dt>&lsquo;<samp>Website.dbk</samp>&rsquo;</dt>
+<dd><span id="index-_002edbk"></span>
+<p>DocBook version of website content.
+</p></dd>
+<dt>&lsquo;<samp>Website.zip</samp>&rsquo;</dt>
+<dd><span id="index-Zip-1"></span>
+<span id="index-_002ezip"></span>
+<p>Zip file of all HTML, PDF, DocBook, Text, and EPUB files. All content can be regenerated from this zip file distribution.
+</p></dd>
+<dt>&lsquo;<samp>Website.tar.gz</samp>&rsquo;</dt>
+<dd><span id="index-tar-1"></span>
+<span id="index-_002etar_002egz"></span>
+<span id="index-configure-1"></span>
+<p>Compressed source tar file of all content including <samp>Makefile</samp>, <samp>configure</samp> file and build scripts. All content can be regenerated from this tar file distribution.
+</p></dd>
+</dl>
+<span id="index-EPS"></span>
+<span id="index-_002eeps"></span>
+<span id="index-DjVu"></span>
+<p>The HTML always has links to the non-HTML output formats.
+Info, XML, PostScript, TeX DVI and DjVu output formats are not created by default.
+These formats can be added with command line options to <code>make</code>. 
+</p>
+<span id="Viewing-content"></span><h3 class="section">3.2 Viewing content</h3>
+<p>To view content run the following command depending on which system or desktop you are running.
+<span id="index-kde_002dopen"></span>
+<span id="index-Cygwin"></span>
+<span id="index-firefox"></span>
+<span id="index-GNOME-Desktop"></span>
+<span id="index-nautilus"></span>
+<span id="index-explorer"></span>
+</p><table>
+<thead><tr><th width="33%">Command</th><th width="50%">System</th></tr></thead>
+<tr><td width="33%">firefox index.html</td><td width="50%">Unix/Linux</td></tr>
+<tr><td width="33%">nautilus .</td><td width="50%">GNOME Desktop</td></tr>
+<tr><td width="33%">kde-open index.html</td><td width="50%">KDE</td></tr>
+<tr><td width="33%">explorer .</td><td width="50%">Windows / Cygwin</td></tr>
+<tr><td width="33%">explorer index.html</td><td width="50%">Windows / Cygwin</td></tr>
+</table>
+<br>
+<p>From the main HTML page, <samp>index.html</samp>, you will see links labeled
+<span id="index-tar-2"></span>
+</p><ul>
+<li> PDF version of this website
+</li><li> HTML version of this website
+</li><li> Framed HTML version of this website
+</li><li> Single-page HTML version of this website
+</li><li> Text version of this website
+</li><li> Plain text version of this website
+</li><li> Split text version of this website
+</li><li> Split plain text version of this website
+</li><li> EPUB version of this website
+</li><li> HTML zip package of this website
+</li><li> Gzipped tar source of this website 
+</li></ul>
+<p>Click on these links to view the formats. Content between all formats is matching.
+<br>
+<br>
+<span id="index-Split-HTML"></span>
+<span id="index-Single_002dpage-HTML"></span>
+<span id="index-Non_002dsplit-HTML"></span>
+<span id="index-HTML-_0028split-vs_002e-non_002dsplit_0029"></span>
+HTML or split HTML indicates Texinfo source is compiled to multiple HTML pages. Single-page (non-split) HTML indicates Texinfo source is compiled to one large HTML page.
+</p>
+<span id="More-building-options"></span><h3 class="section">3.3 More building options</h3>
+<dl compact="compact">
+<dt>&lsquo;<samp>make pdf</samp>&rsquo;</dt>
+<dd><span id="index-PDF-1"></span>
+<span id="index-_002epdf-1"></span>
+<p>Builds PDF file Website.pdf
+</p></dd>
+<dt>&lsquo;<samp>make djvu</samp>&rsquo;</dt>
+<dd><span id="index-DjVu-1"></span>
+<p>Builds DjVu file Website.djvu 
+</p></dd>
+<dt>&lsquo;<samp>make docbook</samp>&rsquo;</dt>
+<dd><span id="index-make-docbook"></span>
+<span id="index-DocBook"></span>
+<span id="index-_002edbk-1"></span>
+<p>Builds DocBook file Website.dbk
+</p></dd>
+<dt>&lsquo;<samp>make xml</samp>&rsquo;</dt>
+<dd><span id="index-XML"></span>
+<span id="index-_002exml"></span>
+<p>Builds XML file Website.xml
+</p></dd>
+<dt>&lsquo;<samp>make epub</samp>&rsquo;</dt>
+<dd><span id="index-make-epub"></span>
+<span id="index-EPUB-2"></span>
+<span id="index-_002eepub-1"></span>
+<p>Builds EPUB file Website.epub
+</p></dd>
+<dt>&lsquo;<samp>make frames</samp>&rsquo;</dt>
+<dd><span id="index-make-frames"></span>
+<span id="index-frames"></span>
+<span id="index-HTML-1"></span>
+<p>Builds HTML with frames file Website_frame.html
+<span id="index-xmlto"></span>
+</p></dd>
+<dt>&lsquo;<samp>make html2</samp>&rsquo;</dt>
+<dd><p>Builds index.html and associated HTML files with the command <code>xmlto</code>. This HTML output is a different style from the HTML generated from &rsquo;make&rsquo; or &rsquo;make all&rsquo;.
+</p></dd>
+<dt>&lsquo;<samp>make pdf2</samp>&rsquo;</dt>
+<dd><span id="index-dblatex"></span>
+<span id="index-PDF-2"></span>
+<p>Builds Website.pdf with the command <code>dblatex</code>. This PDF is different style from the PDF generated from &rsquo;make&rsquo;, &rsquo;make all&rsquo; or &rsquo;make pdf&rsquo;.
+</p></dd>
+<dt>&lsquo;<samp>make dvi</samp>&rsquo;</dt>
+<dd><span id="index-make-dvi"></span>
+<span id="index-DVI"></span>
+<span id="index-_002edvi"></span>
+<p>Builds Device independent file format (DVI) file Website.dvi. All .png, .jpg and .gif images are automatically converted to .eps format in the directory <samp>images/</samp>.
+</p></dd>
+<dt>&lsquo;<samp>make ps</samp>&rsquo;</dt>
+<dd><span id="index-make-ps"></span>
+<span id="index-PostScript"></span>
+<span id="index-_002eps"></span>
+<p>Builds PostScript file Website.ps. All .png, .jpg and .gif images are automatically converted to the .eps format in the directory <samp>images/</samp>.
+</p></dd>
+<dt>&lsquo;<samp>make text</samp>&rsquo;</dt>
+<dd><span id="index-make-text"></span>
+<p>This will build a text file with no headers Website.txt. Images are converted to ASCII.
+</p></dd>
+<dt>&lsquo;<samp>make plaintext</samp>&rsquo;</dt>
+<dd><span id="index-make-plaintext"></span>
+<p>This will build a text file with no headers Website.txt Images are <i>not</i> converted to ASCII.
+</p></dd>
+<dt>&lsquo;<samp>make info</samp>&rsquo;</dt>
+<dd><span id="index-make-info"></span>
+<p>This will build the Info file Website.info
+</p></dd>
+<dt>&lsquo;<samp>make htmlhelp</samp>&rsquo;</dt>
+<dd><span id="index-HTML-Helper"></span>
+<span id="index-Microsoft-HTML-Helper"></span>
+<span id="index-_002ehhp"></span>
+<p>This will create the file Website.hhp which can be made into a
+Microsoft HTML Helper file (.chm) with the Microsoft utility hhc.exe. Microsoft HTML Helper files (.chm) only run under the Microsoft Windows operating system.
+</p></dd>
+<dt>&lsquo;<samp>make zip</samp>&rsquo;</dt>
+<dd><span id="index-make-zip"></span>
+<p>Creates a .zip file distribution including <samp>Makefile</samp> and build scripts. All content can be regenerated from this tar file.
+</p></dd>
+<dt>&lsquo;<samp>make clean</samp>&rsquo;</dt>
+<dd><span id="index-make-clean"></span>
+<p>Clean all compiled content. The source files of the content will not be deleted.
+<span id="index-make-distclean"></span>
+</p></dd>
+<dt>&lsquo;<samp>make distclean</samp>&rsquo;</dt>
+<dd><p>Same as <code>make clean</code> but all files in bak/ and images/bak directories are deleted.
+</p></dd>
+<dt>&lsquo;<samp>make distclean ; make dist</samp>&rsquo;</dt>
+<dd><span id="index-make-dist"></span>
+<span id="index-make-distclean-1"></span>
+<p>Creates a compressed source tar file of all content including <samp>Makefile</samp> and build scripts. All content can be regenerated from this tar file.
+<span id="index-Cascading-Style-Sheets"></span>
+</p></dd>
+<dt>&lsquo;<samp>make CSS=css/janix-texinfo.css</samp>&rsquo;</dt>
+<dd><p>Generate HTML using the Cascading Style Sheet <samp>css/janix-texinfo.css</samp>.
+</p></dd>
+<dt>&lsquo;<samp>make CSS=css/bright-colors.css</samp>&rsquo;</dt>
+<dd><p>Generate HTML using the Cascading Style Sheet <samp>css/bright-colors.css</samp>.
+<span id="index-make-help"></span>
+</p></dd>
+<dt>&lsquo;<samp>make help</samp>&rsquo;</dt>
+<dd><p>lists all <code>make</code> options.
+</p></dd>
+</dl>
+
+<span id="make-arguments-to-control-output-formats"></span><h3 class="section">3.4 <code>make</code> arguments to control output formats</h3>
+<span id="index-TEXI2DVI_005fFLAGS"></span>
+<span id="index-index_002ehtml-2"></span>
+<span id="index-indexNoSplit_002ehtml-1"></span>
+<span id="index-Makefile-3"></span>
+<p>Texinfo Publisher&rsquo;s <samp>Makefile</samp> uses the variable TEXI2DVI_FLAGS to control which output formats are created. TEXI2DVI_FLAGS also controls links in the <samp>index.html</samp> and <samp>indexNoSplit.html</samp> to the output formats. The values of
+</p><div class="example">
+<pre class="example">SPLIT, NOSPLIT, PDF, DJVU, TEXT, ZIP, XML, DOCBOOK, EPUB, POSTSCRIPT,
+DVI, INFO
+</pre></div>
+<p>can be defined &rsquo;-D&rsquo; in the variable TEXI2DVI_FLAGS. Causing the associated output to be created. Customization can be made by defining different values in TEXI2DVI_FLAGS. The variable TEXI2DVI_FLAGS can be customized on the command line. See the following examples.
+</p>
+<dl compact="compact">
+<dt>&lsquo;<samp>make clean; make TEXI2DVI_FLAGS=''</samp>&rsquo;</dt>
+<dd><p>Do nothing.
+</p></dd>
+<dt>&lsquo;<samp>make clean; make 'TEXI2DVI_FLAGS=-D SPLIT'</samp>&rsquo;</dt>
+<dd><p>Generate index.html
+</p></dd>
+<dt>&lsquo;<samp>make clean; make 'TEXI2DVI_FLAGS=-D SPLIT -D NOSPLIT'</samp>&rsquo;</dt>
+<dd><p>Generate index.html and indexNoSplit.html
+</p></dd>
+<dt>&lsquo;<samp>make clean; make 'TEXI2DVI_FLAGS=-D SPLIT -D NOSPLIT -D ZIP'</samp>&rsquo;</dt>
+<dd><p>Generate index.html, indexNoSplit.html and Zip file content.
+</p></dd>
+<dt>&lsquo;<samp>make clean; make 'TEXI2DVI_FLAGS=-D SPLIT -D NOSPLIT -D PDF'</samp>&rsquo;</dt>
+<dd><p>Generate index.html, indexNoSplit.html and PDF.
+<span id="index-DjVu-2"></span>
+</p></dd>
+<dt>&lsquo;<samp>make clean; make 'TEXI2DVI_FLAGS=-D SPLIT -D NOSPLIT -D PDF -D DJVU'</samp>&rsquo;</dt>
+<dd><p>Generate index.html, indexNoSplit.html, PDF and DjVu.
+</p></dd>
+<dt>&lsquo;<samp>make clean; make 'TEXI2DVI_FLAGS=-D SPLIT -D NOSPLIT -D PDF -D EPUB'</samp>&rsquo;</dt>
+<dd><p>Generate index.html, indexNoSplit.html, PDF and EPUB.
+</p></dd>
+<dt>&lsquo;<samp>make clean; make 'TEXI2DVI_FLAGS=-D SPLIT -D POSTSCRIPT -DVI'</samp>&rsquo;</dt>
+<dd><p>Generate index.html, PostScript and TeX DVI.
+</p></dd>
+<dt>&lsquo;<samp>make clean; make 'TEXI2DVI_FLAGS=-D SPLIT -D PDF'</samp>&rsquo;</dt>
+<dd><p>Generate index.html and PDF.
+</p></dd>
+<dt>&lsquo;<samp>make clean; make 'TEXI2DVI_FLAGS=-D SPLIT -D EPUB'</samp>&rsquo;</dt>
+<dd><p>Generate index.html and EPUB.
+</p></dd>
+<dt>&lsquo;<samp>make clean; make 'TEXI2DVI_FLAGS=-D SPLIT -D PDF -D EPUB'</samp>&rsquo;</dt>
+<dd><p>Generate index.html, PDF and EPUB.
+</p></dd>
+</dl>
+<p>HTML output always has links to non-HTML formats. <code>make</code> and <code>make all</code> are equivalent to <code>make 'TEXI2DVI_FLAGS=-D SPLIT -D NOSPLIT -D PDF -D TEXT -D EPUB -D ZIP'</code>.
+<br>
+<br>
+The variable TEXI2DVI_FLAGS can also be customized by editing the <samp>Makefile</samp>.
+</p>
+<hr>
+<div class="header">
+<p>
+Next: <a href="Learning-GNU-Texinfo.html" accesskey="n" rel="next">Learning GNU Texinfo</a>, Previous: <a href="Downloading-Texinfo-Publisher.html" accesskey="p" rel="prev">Downloading Texinfo Publisher</a>, Up: <a href="index.html" accesskey="u" rel="up">Top</a> &nbsp; [<a href="index.html#SEC_Contents" title="Table of contents" rel="contents">Contents</a>][<a href="Concept-index.html" title="Index" rel="index">Index</a>]</p>
+</div>
+
+
+<a href="texinfopublisher-1.1.pdf">PDF content of this website</a>
+</body>
+</html>

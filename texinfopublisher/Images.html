@@ -1,0 +1,166 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<!-- This manual is for Texinfo Publisher (version 1.1), a Makefile based multi-format publishing system. Texinfo Publisher is based on GNU Texinfo and is a unrelated project.
+
+Copyright (C)  2012  A. Bradford.
+Permission is granted to copy, distribute and/or modify this document
+under the terms of the GNU Free Documentation License, Version 1.3
+or any later version published by the Free Software Foundation;
+with no Invariant Sections, no Front-Cover Texts, and no Back-Cover
+Texts.  A copy of the license is included in the section entitled "GNU
+Free Documentation License".
+ -->
+<!-- Created by GNU Texinfo 6.7, http://www.gnu.org/software/texinfo/ -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Images (Texinfo Publisher)</title>
+
+<meta name="description" content="Images (Texinfo Publisher)">
+<meta name="keywords" content="Images (Texinfo Publisher)">
+<meta name="resource-type" content="document">
+<meta name="distribution" content="global">
+<meta name="Generator" content="texi2any">
+<link href="index.html" rel="start" title="Top">
+<link href="Concept-index.html" rel="index" title="Concept index">
+<link href="index.html#SEC_Contents" rel="contents" title="Table of Contents">
+<link href="index.html" rel="up" title="Top">
+<link href="Language-analysis.html" rel="next" title="Language analysis">
+<link href="Output-formats.html" rel="prev" title="Output formats">
+<style type="text/css">
+<!--
+a.summary-letter {text-decoration: none}
+blockquote.indentedblock {margin-right: 0em}
+div.display {margin-left: 3.2em}
+div.example {margin-left: 3.2em}
+div.lisp {margin-left: 3.2em}
+kbd {font-style: oblique}
+pre.display {font-family: inherit}
+pre.format {font-family: inherit}
+pre.menu-comment {font-family: serif}
+pre.menu-preformatted {font-family: serif}
+span.nolinebreak {white-space: nowrap}
+span.roman {font-family: initial; font-weight: normal}
+span.sansserif {font-family: sans-serif; font-weight: normal}
+ul.no-bullet {list-style: none}
+-->
+</style>
+
+
+</head>
+
+<body lang="en">
+<a href="texinfopublisher-1.1.pdf">PDF content of this website</a><span id="Images"></span><div class="header">
+<p>
+Next: <a href="Language-analysis.html" accesskey="n" rel="next">Language analysis</a>, Previous: <a href="Output-formats.html" accesskey="p" rel="prev">Output formats</a>, Up: <a href="index.html" accesskey="u" rel="up">Top</a> &nbsp; [<a href="index.html#SEC_Contents" title="Table of contents" rel="contents">Contents</a>][<a href="Concept-index.html" title="Index" rel="index">Index</a>]</p>
+</div>
+<hr>
+<span id="Images-1"></span><h2 class="chapter">6 Images</h2>
+<span id="index-images"></span>
+
+<span id="Public-domain-image-resources"></span><h3 class="section">6.1 Public domain image resources</h3>
+<span id="index-public-domain-resources"></span>
+<p>Use images in your documents. If you did not create the image use a public
+domain image.
+<br>
+<br>
+For a list of public domain image resources see
+<br>
+<a href="http://en.wikipedia.org/wiki/Wikipedia:Public_domain_image_resources">http://en.wikipedia.org/wiki/Wikipedia:Public_domain_image_resources</a>
+<br>
+<br>
+The image of the open blue book used in this manual is from the public domain.
+See <a href="Learning-GNU-Texinfo.html#image">Images</a>.
+</p>
+<span id="Image-re_002dsizing"></span><h3 class="section">6.2 Image re-sizing</h3>
+<span id="index-make-resizejpg"></span>
+<span id="index-make-resizepng"></span>
+<span id="imageresize"></span><p>Keep all images in the directory <samp>texinfopublisher-1.1/images/</samp>.
+<br>
+<br>
+If you want to re-size JPEG images for HTML display type on the command line
+</p><div class="example">
+<pre class="example">make resizejpg
+</pre></div>
+<p>To re-size PNG images type
+</p><div class="example">
+<pre class="example">make resizepng
+</pre></div>
+<p>To re-size both JPEG and PNG files
+</p><div class="example">
+<pre class="example">make resize
+</pre></div>
+<p>The <code>make resize</code> command makes backups of the original images in <samp>images/bak/</samp> directory. All images will be re-sized to 960x576, 640x480 and 320x240. These new image sizes might be better for HTML display.
+</p>
+<span id="Image-format-converting"></span><h3 class="section">6.3 Image format converting</h3>
+<span id="Imageconverting"></span><p>Texinfo Publisher does batch image format conversions in the directory <samp>texinfopublisher-1.1/images/</samp>.
+Images are converted to the target formats. The original image format file is left un-touched.
+<span id="index-_002ejpg"></span>
+<span id="index-_002epng"></span>
+<span id="index-_002egif"></span>
+<span id="index-_002eeps-2"></span>
+<span id="index-_002epdf-2"></span>
+</p><dl compact="compact">
+<dd><span id="index-jpg2eps-1"></span>
+<span id="index-EPS-3"></span>
+<span id="index-make-jpg2eps-1"></span>
+</dd>
+<dt>&lsquo;<samp>make jpg2eps</samp>&rsquo;</dt>
+<dd><p>Converts JPG format to the EPS format.
+<span id="index-png2eps-1"></span>
+<span id="index-make-png2eps-1"></span>
+</p></dd>
+<dt>&lsquo;<samp>make png2eps</samp>&rsquo;</dt>
+<dd><p>Converts PNG format to the EPS format.
+<span id="index-gif2eps-1"></span>
+<span id="index-make-gif2eps-1"></span>
+</p></dd>
+<dt>&lsquo;<samp>make gif2eps</samp>&rsquo;</dt>
+<dd><span id="index-make-gif2eps-2"></span>
+<p>Converts GIF format to the EPS format.
+<span id="index-jpg2png"></span>
+</p></dd>
+<dt>&lsquo;<samp>make jpg2png</samp>&rsquo;</dt>
+<dd><span id="index-make-jpg2png"></span>
+<span id="index-JPG"></span>
+<span id="index-PNG"></span>
+<p>Converts JPG format to the PNG format.
+<span id="index-gif2png"></span>
+<span id="index-GIF"></span>
+<span id="index-make-gif2png"></span>
+</p></dd>
+<dt>&lsquo;<samp>make gif2png</samp>&rsquo;</dt>
+<dd><p>Converts GIF format to the PNG format.
+<span id="index-gif2jpg"></span>
+<span id="index-make-gif2jpg"></span>
+</p></dd>
+<dt>&lsquo;<samp>make gif2jpg</samp>&rsquo;</dt>
+<dd><p>Converts GIF format to the JPG format.
+<span id="index-eps2pdf"></span>
+<span id="index-make-eps2pdf"></span>
+</p></dd>
+<dt>&lsquo;<samp>make eps2pdf</samp>&rsquo;</dt>
+<dd><p>Converts EPS format to the PDF format.
+<span id="index-jpg2txt"></span>
+<span id="index-make-jpg2txt"></span>
+<span id="index-jp2a"></span>
+</p></dd>
+<dt>&lsquo;<samp>make jpg2txt</samp>&rsquo;</dt>
+<dd><p>Converts JPG to ASCII text file using <code>jp2a</code>.
+<span id="index-png2txt"></span>
+<span id="index-make-png2txt"></span>
+</p></dd>
+<dt>&lsquo;<samp>make png2txt</samp>&rsquo;</dt>
+<dd><p>Converts PNG to ASCII text file using <code>jp2a</code>.
+</p></dd>
+</dl>
+
+<hr>
+<div class="header">
+<p>
+Next: <a href="Language-analysis.html" accesskey="n" rel="next">Language analysis</a>, Previous: <a href="Output-formats.html" accesskey="p" rel="prev">Output formats</a>, Up: <a href="index.html" accesskey="u" rel="up">Top</a> &nbsp; [<a href="index.html#SEC_Contents" title="Table of contents" rel="contents">Contents</a>][<a href="Concept-index.html" title="Index" rel="index">Index</a>]</p>
+</div>
+
+
+<a href="texinfopublisher-1.1.pdf">PDF content of this website</a>
+</body>
+</html>

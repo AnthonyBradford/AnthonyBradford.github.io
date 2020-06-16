@@ -1,0 +1,57 @@
+6 Images
+********
+
+6.1 Public domain image resources
+=================================
+
+Use images in your documents.  If you did not create the image use a
+public domain image.
+
+For a list of public domain image resources see
+<http://en.wikipedia.org/wiki/Wikipedia:Public_domain_image_resources>
+
+The image of the open blue book used in this manual is from the public
+domain.  *Note Images: image.
+
+6.2 Image re-sizing
+===================
+
+Keep all images in the directory 'texinfopublisher-1.1/images/'.
+
+If you want to re-size JPEG images for HTML display type on the command
+line
+     make resizejpg
+To re-size PNG images type
+     make resizepng
+To re-size both JPEG and PNG files
+     make resize
+The 'make resize' command makes backups of the original images in
+'images/bak/' directory.  All images will be re-sized to 960x576,
+640x480 and 320x240.  These new image sizes might be better for HTML
+display.
+
+6.3 Image format converting
+===========================
+
+Texinfo Publisher does batch image format conversions in the directory
+'texinfopublisher-1.1/images/'.  Images are converted to the target
+formats.  The original image format file is left un-touched.
+'make jpg2eps'
+     Converts JPG format to the EPS format.
+'make png2eps'
+     Converts PNG format to the EPS format.
+'make gif2eps'
+     Converts GIF format to the EPS format.
+'make jpg2png'
+     Converts JPG format to the PNG format.
+'make gif2png'
+     Converts GIF format to the PNG format.
+'make gif2jpg'
+     Converts GIF format to the JPG format.
+'make eps2pdf'
+     Converts EPS format to the PDF format.
+'make jpg2txt'
+     Converts JPG to ASCII text file using 'jp2a'.
+'make png2txt'
+     Converts PNG to ASCII text file using 'jp2a'.
+

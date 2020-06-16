@@ -1,0 +1,9 @@
+8 Broken link checking
+**********************
+
+To find broken links in HTML output run the command
+     make linkchecker
+A file 'linkchecker-out.html' will be created.  This file gives a report
+on bad links.  View this file by typing 'firefox linkchecker-out.html'
+on the command line.
+

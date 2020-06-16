@@ -1,0 +1,41 @@
+2 Downloading Texinfo Publisher
+*******************************
+
+Texinfo Publisher works with the GNU / Linux operating system and
+Windows / Cygwin environments.
+
+2.1 Downloading
+===============
+
+Texinfo Publisher can be downloaded as a gzipped tar from
+texinfopublisher-1.1.tar.gz
+(http://AnthonyBradford.com/TexinfoPublisher/texinfopublisher-1.1.tar.gz)
+or sourceforge.net
+(https://sourceforge.net/projects/texinfo-web-publisher/?source=directory).
+
+2.2 Configuring
+===============
+
+After downloading type the following commands
+
+     tar xfz texinfopublisher-1.1.tar.gz
+     cd texinfopublisher-1.1
+     ./configure
+The configure shell script will give system specific instructions on
+package installation depending on your system.  This is not a autotools
+package.
+
+2.3 Configuration issues
+========================
+
+Texinfo Publisher will work with recent versions of 'texi2any'.
+Texi2any (GNU texinfo) 5.2 or greater is recommended.  To find out which
+version of 'texi2any' your system is running type
+     texi2any --version
+If your system is running a older version you can install the latest
+version.  *Note Texi2any Installation: installtexi2any, for installation
+instructions.
+
+See 'README.testing' in the tar package for information on systems
+Texinfo Publisher has been tested on.
+

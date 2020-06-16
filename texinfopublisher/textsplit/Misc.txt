@@ -1,0 +1,73 @@
+9 Misc
+******
+
+9.1 Renaming the prefix "Website"
+=================================
+
+The prefix file name 'Website' is set in several places.  This prefix
+controls the name of output files such as 'Website.pdf', 'Website.epub',
+'Website.dbk' and 'Website.txt'.  You may want to change it to another
+name.
+
+Edit the 'Makefile' variable 'Manual = Website' to something like
+'Manual = YourName'.  Rename the Website.texi on the command line with
+'mv Website.texi YourName.texi'.  Change the '@set Manual Website'
+inside the .texi file to '@set Manual YourName'.  This will change the
+prefix file name 'Website' to YourName.  On the command line run 'make'
+to test building the new outputs.  The system will generate the files
+'YourName.pdf', 'YourName.epub', 'Website.dbk' and 'YourName.txt'.
+
+If the 'Makefile' becomes corrupt, dated backups can be found the
+directory 'texinfopublisher-1.1/bak/'.
+
+9.2 'texinfopublisher-1.1/files' directory
+==========================================
+
+The 'files/' directory can be used for miscellaneous files associated
+with your content.  The use of this directory will reduce clutter.  The
+'files/' directory is never cleaned by 'make clean'.
+
+9.3 Favicon
+===========
+
+A favicon (shortcut icon, Web site icon, tab icon or bookmark icon) is
+provided as 'texinfopublisher-1.1/favicon.ico'.  Feel free to use or
+create your own favicon.
+
+9.4 Automatic backups
+=====================
+
+Every time the command 'make' is run the 'texinfopublisher-1.1/bak/'
+directory is populated with a copy of Website.texi with the date
+appended.  The format of the date is year, month and day (YYYYMMDD).
+Therefore a backup created on Jan 8th 2014 will create the file
+'bak/Website.texi.20140108'.  This backup file can be used if the
+'Website.texi' gets corrupted.
+
+9.5 Installing 'texi2any'
+=========================
+
+If your system lacks 'texi2any' or is running a version prior to 5.2
+install the latest version from <http://ftp.gnu.org/gnu/texinfo/>.
+Download the file most recent tar.gz file and do the following
+     tar xfz texinfo-5.2.tar.gz
+     cd texinfo-5.2
+     ./configure
+     make
+     sudo make install
+Confirm installation by typing
+     texi2any --version
+
+9.6 Compiling Texinfo Publisher documentation
+=============================================
+
+This Texinfo Publisher manual is written in GNU Texinfo.  Inside the
+directory of 'texinfopublisher-1.1/doc/' see a file
+'TexinfoPublisher.texi'.  This is the source file that is compiled when
+the command 'make' is run.  The result of the compilation is the
+building of this Texinfo Publisher Manual (the manual that your are
+reading now).  Change your working directory to
+'texinfopublisher-1.1/doc/' and type
+     make
+This will compile the documentation into many formats.
+
