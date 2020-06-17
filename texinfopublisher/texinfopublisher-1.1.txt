@@ -138,17 +138,17 @@ proprietary corporate documentation.
 The Texinfo Publisher manual was published with Texinfo Publisher and is
 available in many formats.
    * HTML version of this manual
-     (http://AnthonyBradford.com/TexinfoPublisher/index.html)
+     (http://anthonybradford.github.io/texinfopublisher/index.html)
    * Single-page HTML version of this manual
-     (http://AnthonyBradford.com/TexinfoPublisher/indexNoSplit.html)
+     (http://anthonybradford.github.io/texinfopublisher/indexNoSplit.html)
    * HTML zip package of this manual
-     (http://AnthonyBradford.com/TexinfoPublisher/texinfopublisher-1.1.zip)
+     (http://anthonybradford.github.io/texinfopublisher/texinfopublisher-1.1.zip)
    * Text version of this manual
-     (http://AnthonyBradford.com/TexinfoPublisher/texinfopublisher-1.1.txt)
+     (http://anthonybradford.github.io/texinfopublisher/texinfopublisher-1.1.txt)
    * DocBook version of this manual
-     (http://AnthonyBradford.com/TexinfoPublisher/texinfopublisher-1.1.dbk)
+     (http://anthonybradford.github.io/texinfopublisher/texinfopublisher-1.1.dbk)
    * EPUB version of this manual
-     (http://AnthonyBradford.com/TexinfoPublisher/texinfopublisher-1.1.epub)
+     (http://anthonybradford.github.io/texinfopublisher/texinfopublisher-1.1.epub)
 Texinfo Publisher is based on GNU Texinfo and is a unrelated project.
 
 1.1 GNU Texinfo wrapper
@@ -191,7 +191,7 @@ Windows / Cygwin environments.
 
 Texinfo Publisher can be downloaded as a gzipped tar from
 texinfopublisher-1.1.tar.gz
-(http://AnthonyBradford.com/TexinfoPublisher/texinfopublisher-1.1.tar.gz)
+(http://anthonybradford.github.io/texinfopublisher/texinfopublisher-1.1.tar.gz)
 or sourceforge.net
 (https://sourceforge.net/projects/texinfo-web-publisher/?source=directory).
 
@@ -677,7 +677,7 @@ PDF/DVI/PostScript output but not impacting to HTML/EPUB output.  The
 following examples are scaled larger in the PDF/DVI/PostScript content
 but are the same size in the HTML/EPUB content.  Switch to other content
 formats by clicking here here
-(http://AnthonyBradford.com/TexinfoPublisher/index.html).
+(http://anthonybradford.github.io/texinfopublisher/index.html).
 
      @image{images/open_book_blue,,120pt,Picture of a open book,png}
 Produces

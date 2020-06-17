@@ -1,8 +1,8 @@
 \input texinfo @c -*-texinfo-*-
 @c %**start of header
 @set VERSION 1.1
-@set Website AnthonyBradford.com
-@set Directory TexinfoPublisher
+@set Website anthonybradford.github.io
+@set Directory texinfopublisher
 @set Manual texinfopublisher-@value{VERSION}
 @setfilename @value{Manual}.info
 @settitle Texinfo Publisher

@@ -114,12 +114,12 @@ Texinfo Publisher also features
 
 
 The Texinfo Publisher manual was published with Texinfo Publisher and is available in many formats.
-</para><itemizedlist><listitem><para><ulink url="http://AnthonyBradford.com/TexinfoPublisher/index.html">HTML version of this manual</ulink>
-</para></listitem><listitem><para><ulink url="http://AnthonyBradford.com/TexinfoPublisher/indexNoSplit.html">Single-page HTML version of this manual</ulink>
-</para></listitem><listitem><para><ulink url="http://AnthonyBradford.com/TexinfoPublisher/texinfopublisher-1.1.zip">HTML zip package of this manual</ulink>
-</para></listitem><listitem><para><ulink url="http://AnthonyBradford.com/TexinfoPublisher/texinfopublisher-1.1.txt">Text version of this manual</ulink>
-</para></listitem><listitem><para><ulink url="http://AnthonyBradford.com/TexinfoPublisher/texinfopublisher-1.1.dbk">DocBook version of this manual</ulink>
-</para></listitem><listitem><para><ulink url="http://AnthonyBradford.com/TexinfoPublisher/texinfopublisher-1.1.epub">EPUB version of this manual</ulink>
+</para><itemizedlist><listitem><para><ulink url="http://anthonybradford.github.io/texinfopublisher/index.html">HTML version of this manual</ulink>
+</para></listitem><listitem><para><ulink url="http://anthonybradford.github.io/texinfopublisher/indexNoSplit.html">Single-page HTML version of this manual</ulink>
+</para></listitem><listitem><para><ulink url="http://anthonybradford.github.io/texinfopublisher/texinfopublisher-1.1.zip">HTML zip package of this manual</ulink>
+</para></listitem><listitem><para><ulink url="http://anthonybradford.github.io/texinfopublisher/texinfopublisher-1.1.txt">Text version of this manual</ulink>
+</para></listitem><listitem><para><ulink url="http://anthonybradford.github.io/texinfopublisher/texinfopublisher-1.1.dbk">DocBook version of this manual</ulink>
+</para></listitem><listitem><para><ulink url="http://anthonybradford.github.io/texinfopublisher/texinfopublisher-1.1.epub">EPUB version of this manual</ulink>
 <!-- @item @url{http://@value{Website}/@value{Directory}/@value{Manual}.info,Info version of this manual} -->
 <!-- @item @url{http://@value{Website}/@value{Directory}/@value{Manual}.xml,XML version of this manual} -->
 <!-- @item @url{http://@value{Website}/@value{Directory}/@value{Manual}.ps,PostScript version of this manual} -->
@@ -163,7 +163,7 @@ Batch image re-sizing is also provided for optimal web viewing.
 <title>Downloading</title>
 <indexterm role="cp"><primary>texinfopublisher-1.1.tar.gz</primary></indexterm>
 <indexterm role="cp"><primary>tar</primary></indexterm>
-<para>Texinfo Publisher can be downloaded as a gzipped tar from <ulink url="http://AnthonyBradford.com/TexinfoPublisher/texinfopublisher-1.1.tar.gz">texinfopublisher-1.1.tar.gz</ulink> or
+<para>Texinfo Publisher can be downloaded as a gzipped tar from <ulink url="http://anthonybradford.github.io/texinfopublisher/texinfopublisher-1.1.tar.gz">texinfopublisher-1.1.tar.gz</ulink> or
 <ulink url="https://sourceforge.net/projects/texinfo-web-publisher/?source=directory">sourceforge.net</ulink>.
 </para>
 </sect1>
@@ -764,7 +764,7 @@ MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
 
 
 
-<para>The argument &#8220;80pt&#8221; is the image point scaling. This is impacting to PDF/DVI/PostScript output but not impacting to HTML/EPUB output. The following examples are scaled larger in the PDF/DVI/PostScript content but are the same size in the HTML/EPUB content. Switch to other content formats by clicking here <ulink url="http://AnthonyBradford.com/TexinfoPublisher/index.html">here</ulink>.
+<para>The argument &#8220;80pt&#8221; is the image point scaling. This is impacting to PDF/DVI/PostScript output but not impacting to HTML/EPUB output. The following examples are scaled larger in the PDF/DVI/PostScript content but are the same size in the HTML/EPUB content. Switch to other content formats by clicking here <ulink url="http://anthonybradford.github.io/texinfopublisher/index.html">here</ulink>.
 
 
 

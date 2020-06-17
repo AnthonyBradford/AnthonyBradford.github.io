@@ -26,17 +26,17 @@ proprietary corporate documentation.
 The Texinfo Publisher manual was published with Texinfo Publisher and is
 available in many formats.
    * HTML version of this manual
-     (http://AnthonyBradford.com/TexinfoPublisher/index.html)
+     (http://anthonybradford.github.io/texinfopublisher/index.html)
    * Single-page HTML version of this manual
-     (http://AnthonyBradford.com/TexinfoPublisher/indexNoSplit.html)
+     (http://anthonybradford.github.io/texinfopublisher/indexNoSplit.html)
    * HTML zip package of this manual
-     (http://AnthonyBradford.com/TexinfoPublisher/texinfopublisher-1.1.zip)
+     (http://anthonybradford.github.io/texinfopublisher/texinfopublisher-1.1.zip)
    * Text version of this manual
-     (http://AnthonyBradford.com/TexinfoPublisher/texinfopublisher-1.1.txt)
+     (http://anthonybradford.github.io/texinfopublisher/texinfopublisher-1.1.txt)
    * DocBook version of this manual
-     (http://AnthonyBradford.com/TexinfoPublisher/texinfopublisher-1.1.dbk)
+     (http://anthonybradford.github.io/texinfopublisher/texinfopublisher-1.1.dbk)
    * EPUB version of this manual
-     (http://AnthonyBradford.com/TexinfoPublisher/texinfopublisher-1.1.epub)
+     (http://anthonybradford.github.io/texinfopublisher/texinfopublisher-1.1.epub)
 Texinfo Publisher is based on GNU Texinfo and is a unrelated project.
 
 1.1 GNU Texinfo wrapper

@@ -9,7 +9,7 @@ Windows / Cygwin environments.
 
 Texinfo Publisher can be downloaded as a gzipped tar from
 texinfopublisher-1.1.tar.gz
-(http://AnthonyBradford.com/TexinfoPublisher/texinfopublisher-1.1.tar.gz)
+(http://anthonybradford.github.io/texinfopublisher/texinfopublisher-1.1.tar.gz)
 or sourceforge.net
 (https://sourceforge.net/projects/texinfo-web-publisher/?source=directory).
 

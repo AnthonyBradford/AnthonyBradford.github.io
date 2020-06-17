@@ -197,7 +197,7 @@ PDF/DVI/PostScript output but not impacting to HTML/EPUB output.  The
 following examples are scaled larger in the PDF/DVI/PostScript content
 but are the same size in the HTML/EPUB content.  Switch to other content
 formats by clicking here here
-(http://AnthonyBradford.com/TexinfoPublisher/index.html).
+(http://anthonybradford.github.io/texinfopublisher/index.html).
 
      @image{images/open_book_blue,,120pt,Picture of a open book,png}
 Produces
