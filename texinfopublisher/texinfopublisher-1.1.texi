@@ -85,10 +85,10 @@ Copyright @copyright{}  @var{2012}  @var{A. Bradford}.
 @cindex Plain text
 <a href="@value{Manual}_PlainText.txt">Plain text version of this manual</a> 
 <br>
-<a href="textsplit/">Split text version of this manual</a>
-<br>
-<a href="plaintextsplit/">Split plain text version of this manual</a>
-<br>
+<!-- <a href="textsplit/">Split text version of this manual</a>-->
+<!-- <br>-->
+<!-- <a href="plaintextsplit/">Split plain text version of this manual</a>-->
+<!-- <br>-->
 @end ifset
 @ifset EPUB
 @cindex EPUB
