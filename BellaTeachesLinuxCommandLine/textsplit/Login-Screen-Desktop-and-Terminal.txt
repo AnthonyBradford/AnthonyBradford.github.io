@@ -264,8 +264,8 @@ c::;:cc:clllllc:::::,,c:;::::;:;;;;:cc:ccc::c;;::;;locc;:clc::::cc:clccc:;;;;lc:
 1.3 Terminal
 ============
 
-We will proceed to open a Linux terminal.  On the upper left hand side
-of the screen select Activities.
+Open a Linux terminal.  On the upper left hand side of the screen select
+Activities.
 
 ...........................................................................................................................................................
 ....,...,',..',,'.'.'......................................................................................................................................
@@ -307,7 +307,7 @@ of the screen select Activities.
  .0Xd.o0kO0o.xN0. .........................................................................................................................................
 
 
-A input box saying "Type To Search" box will appear.
+An input box saying "Type To Search..."  box will appear.
 
                                                                                ..   ... ...                                                                
                                                                               .,,;'..,;.;'.                                                                
@@ -325,7 +325,7 @@ A input box saying "Type To Search" box will appear.
                                                                                                                                                            
 
 
-Inside the "Type To Search" input box type the word Terminal.
+Inside the "Type To Search..."  input box type the word "terminal".
 
                                                                               .... ........                                                                
                                                                               .,';'..',.;,.                                                                
@@ -351,8 +351,9 @@ Inside the "Type To Search" input box type the word Terminal.
                          .   ..                      .                                                ..              .                                    
 
 
-The Linux terminal will appear.  The terminal is also known as the Linux
-Shell or the command line.
+The Linux terminal icon will appear.  Select the terminal icon by
+clicking on it with the left mouse button.  The terminal is also known
+as the Linux shell or the command line.
 
 ...........................................................................................................................................................
 ...............................................................'...'.'...'.............'..............................................................,,...

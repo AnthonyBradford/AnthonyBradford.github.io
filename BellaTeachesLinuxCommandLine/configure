@@ -4,7 +4,7 @@ echo
 echo "Bella Teaches Linux. Copyright (C) A. Bradford 2019."
 echo
 echo "****If packages are missing under GNU/Linux using apt-get run"
-echo "sudo apt-get install make texinfo texlive xmlto dblatex dbtoepub asciidoc aspell linkchecker imagemagick zip unzip tar diction ghostscript dvi2ps pdf2djvu jp2a texlive-font-utils"
+echo "sudo apt-get install make texinfo texlive xmlto dblatex dbtoepub asciidoc aspell imagemagick zip unzip tar diction ghostscript dvi2ps pdf2djvu jp2a texlive-font-utils"
 echo
 echo "****If packages are missing under GNU/Linux using rpm run"
 echo "yum install make texinfo texlive texinfo-tex texlive-collection-basic texlive-collection-latex xmlto dblatex dbtoepub asciidoc linkchecker aspell ImageMagick zip unzip tar diction ghostscript pdf2djvu jp2a"

@@ -1,0 +1,546 @@
+\input texinfo @c -*-texinfo-*-
+@c %**start of header
+@set Manual BellaTeachesLinuxCommandLine
+@setfilename @value{Manual}.info
+@settitle Bella Teaches the Linux Command Line
+
+@c Define a new index for options.
+@defcodeindex op
+@c Combine everything into one index (arbitrarily chosen to be the
+@c concept index).
+@syncodeindex op cp
+@c %**end of header
+@image{images/Bella-1,,160pt,Picture of Bella,jpg}
+
+@copying
+Bella Teaches the Linux Command Line. Copyright Bella @copyright{} 2020.
+
+@quotation
+All rights reserved.
+@end quotation
+@end copying
+
+@dircategory Template
+@direntry
+* The Texinfo BellaTeachesLinuxCommandLine
+@end direntry
+
+@titlepage
+@title Bella Teaches the Linux Command Line
+@subtitle for version @today{}
+@sp 10
+@author @email{anthony_bradford@@yahoo.com,A. Bradford}
+@page
+@vskip 0pt plus 1filll
+@insertcopying
+@end titlepage
+
+@ifnothtml
+@contents
+@end ifnothtml
+
+@ifnottex
+@node Top
+@top Bella Teaches the Linux Command Line Version @today{}
+ 
+Bella Teaches the Linux Command Line. Copyright @copyright{} 2020.
+@end ifnottex
+
+@html
+@ifset PDF
+<a href="@value{Manual}.pdf">PDF version of Bella Teaches the Linux Command Line</a>
+<br>
+@end ifset
+@ifset DJVU
+<a href="@value{Manual}.djvu">DjVu version of Bella Teaches the Linux Command Line</a>
+<br>
+@end ifset
+@ifset SPLIT
+<a href="index.html">HTML version of Bella Teaches the Linux Command Line</a>
+<br>
+<a href="@value{Manual}_frame.html">Framed HTML version of Bella Teaches the Linux Command Line</a>
+<br>
+@end ifset
+@ifset NOSPLIT
+<a href="indexNoSplit.html">Single-page HTML version of Bella Teaches the Linux Command Line</a>
+<br>
+@end ifset
+@ifset TEXT
+@cindex Text
+<a href="@value{Manual}.txt">Text version of Bella Teaches the Linux Command Line</a> 
+<br>
+@cindex Plain text
+<a href="@value{Manual}_PlainText.txt">Plain text version of Bella Teaches the Linux Command Line</a> 
+<br>
+<a href="textsplit">Split text version of Bella Teaches the Linux Command Line</a> 
+<br>
+<a href="plaintextsplit">Split plain text version of Bella Teaches the Linux Command Line</a>
+<br>
+@end ifset
+@ifset EPUB
+@cindex EPUB
+<a href="@value{Manual}.epub">EPUB version of Bella Teaches the Linux Command Line</a> 
+<br>
+@end ifset
+@ifset POSTSCRIPT
+@cindex PostScript
+<a href="@value{Manual}.ps">PostScript version of Bella Teaches the Linux Command Line</a> 
+<br>
+@end ifset
+@ifset DVI
+@cindex @TeX{} DVI
+@cindex DVI
+<a href="@value{Manual}.dvi">@TeX{} DVI version of this manual</a> 
+<br>
+@end ifset
+@ifset ZIP
+@cindex Zip
+<a href="@value{Manual}.zip">HTML zip package of Bella Teaches the Linux Command Line</a>
+<br>
+@end ifset
+<a href="@value{Manual}.tar.gz">Gzipped tar source of Bella Teaches the Linux Command Line</a> 
+<br>
+<br>
+@end html
+
+@ifnottex
+@menu
+* Login Screen Desktop and Terminal::
+* Linux Commands::
+* Concept index::	Index of concepts.
+@end menu
+@end ifnottex
+
+@html
+@ifset LongContents
+@contents
+@end ifset
+@ifset ShortContents
+@shortcontents
+@end ifset
+@end html
+
+@paragraphindent none
+
+@node Login Screen Desktop and Terminal
+@chapter Login Screen, Desktop and Terminal
+Examples are given with Ubuntu Linux. Other Linux distributions should be
+similar.
+
+@section Login Screen
+@cindex Login Screen
+Start the Linux computer and it will proceed to the login screen.
+@*
+@*
+@center @image{images/LoginScreenCropped,12.5cm,7.5cm,Login Screen Linux,png}
+@*
+@*
+Select the user name and enter the password.
+@*
+@*
+@center @image{images/LoginScreenPasswordCropped,12.5cm,7.5cm,Login Screen Linux,png}
+
+@section Desktop
+@cindex Desktop
+The Linux desktop will display.
+@*
+@*
+@center @image{images/Desktop,,200pt,Desktop Linux Screen,png}
+@*
+@*
+@center @image{images/Bella-2,,180pt,Picture of Bella,jpg}
+
+@section Terminal
+@cindex Terminal
+We will proceed to open a Linux terminal. On the upper left hand side of the screen select Activities.
+@*
+@*
+@center @image{images/Activities,,100pt,Activies on upper left hand of Linux Desktop,png}
+@*
+@*
+A input box saying ``Type To Search...'' box will appear.
+@*
+@*
+@center @image{images/TypeToSearch,12cm,2.5cm,Type To Search box,png}
+@*
+@*
+Inside the ``Type To Search...'' input box type the word ``terminal''.
+@*
+@*
+@center @image{images/TypeToSearchTerminal,12cm,3.5cm,Terminal typed into Type to Search box,png}
+@*
+@*
+The Linux terminal icon will appear. Select the terminal icon by clicking the left mouse button. The terminal is also known as the Linux Shell or the command line.
+@*
+@*
+@center @image{images/Terminal,12cm,7cm,Image of the Linux Terminal,png}
+@*
+@*
+@center @image{images/Bella-3,,180pt,Picture of Bella,jpg}
+@*
+@*
+Congratulations! You have logged into Linux and opened a terminal on the desktop! The Linux Terminal is a command language interpreter that executes commands read from your input. In the next chapter we will execute some commands.
+
+@node Linux Commands
+@chapter Linux Commands
+@cindex Linux Commands
+@center @image{images/Bella-5,,180pt,Picture of Bella,jpg}
+@section @command{whoami}
+@cindex whoami
+The command @command{whoami} prints your userid. At the Linux terminal type the command: @command{whoami}.
+@*
+@*
+@c @image{images/command-whoami,13cm,2cm,Example of Linux command whoami,png}
+@image{images/whoami,,37pt,Example of Linux command whoami,png}
+@*
+@*
+Linux responds that ``bella'' is the userid. Your system should respond with your userid.
+
+@section @command{pwd}
+@cindex pwd
+The command @command{pwd} is used to print the name of current working directory.
+@*
+@*
+@c @image{images/commamd=pwd,11cm,1.75cm,Example of Linux command pwd,png}
+@image{images/pwd,,38pt,Example of Linux command pwd,png}
+@*
+@*
+Bella's current working directory is @file{/home/bella}. Therefore the @file{bella} directory is
+inside the @file{home} directory. The first slash character @file{/} in the @file{/home/bella} directory name is know as the root directory.
+The @file{home} directory is subdirectory of @file{root}. The @file{bella} directory is a subdirectory of @file{home}. All users of Linux have a directory in @file{/home}.
+@*
+@*
+Linux has a hierarchical file system. The hierarchy starts with the root directory @file{/}. The structure of the file system looks like a tree. Inside the root directory @file{/} you will find files and subdirectories. The subdirectories can continue to have their own files or subdirectories. This structure can continue for many levels.
+
+@section @command{ls}
+@cindex ls
+The command @command{ls} lists directory contents. Directories can also be called folders. At the Linux terminal type the command @command{ls}.
+@*
+@*
+@c @image{images/command-ls,15cm,2cm,Example of Linux command ls,png}
+@image{images/ls,,37pt,Example of Linux command ls,png}
+@*
+@*
+We see Bella has the following directories:
+@*
+Desktop, Documents, Downloads, Music, Pictures, Public, Templates, Videos.
+@*
+Your system should display something similar.
+@*
+@*
+We can look inside an individual directory by giving command @command{ls} a specific
+directory name to look in. Type the command: @command{ls Music}
+@*
+@*
+@image{images/ls-Music,,47pt,Example of Linux command ls on Music directory,png}
+@*
+@*
+Looks like Bella has no music since the @file{Music} directory is empty. When we type a command such as @command{ls Music} we say that @file{Music} is an argument to the command @command{ls}.
+When we type the command @command{ls} alone we can say @command{ls} has no arguments.
+@*
+@*
+We can check if Bella has any documents. Type the command: @command{ls Documents}
+@*
+@*
+@image{images/ls-Music-Documents,,56pt,Example of Linux command ls on Documents directory,png}
+@*
+@*
+Bella has no documents.
+@*
+@*
+@center @image{images/Bella-4,,180pt,Picture of Bella,jpg}
+@*
+@*
+Use the command @command{ls} to explore the Linux filesystem. Type the command: @command{ls /}
+@*
+@*
+@image{images/ls-root,,73pt,Example of Linux command ls on Documents directory,png}
+@*
+@*
+This lists the contents of the ``/'' which is know as root.
+@*
+Type the command: @command{ls /home}
+@*
+@*
+@image{images/ls-home,,41pt,Example of Linux command ls on Documents directory,png}
+@*
+@*
+You should see Bella's home directory listed with any other users of your system.
+@*
+@*
+The command @command{ls} can also take options (also called switches). The listing contents of all subdirectories can be done with the command: @command{ls -R}
+@*
+The @command{-R} part of command tells @command{ls} to recursively list all subdirectories. Try typing the command: @command{ls -R}
+
+@section @command{cd}
+@cindex cd
+The command @command{cd} changes your current working directory.
+@*
+@*
+When the command @command{cd} is typed alone (with no arguments) the current working directory is changed to your home directory.
+@*
+@*
+@image{images/cd-0,,25pt,Example of Linux command ls on Documents directory,png}
+@*
+@*
+At the Linux terminal type the command: @command{cd Music}.
+@*
+@*
+Now the current working directory has changed to the Music directory.
+@*
+@*
+The command @command{ls} will display the contents of the ``Music'' directory.
+@*
+@*
+@image{images/cd-Music-ls,,39pt,Example of Linux command ls on Documents directory,png}
+@*
+@*
+The ``Music'' is empty.
+@*
+@*
+The command @command{pwd} will display the full directory path.
+@*
+@*
+@image{images/cd-Music-ls-pwd,,58pt,Example of Linux command ls on Documents directory,png}
+@*
+@*
+@center @image{images/Bella-6,,180pt,Picture of Bella,jpg}
+@*
+@*
+To pop up from the ``Music'' directory type the command: @command{cd ..}
+@*
+@*
+@center @image{images/cd-dot-dot,,70pt,Picture of Bella,jpg}
+@*
+@*
+Now the current working directory is one level above. To confirm this type the command: @command{ls}
+@*
+@*
+@center @image{images/cd-dot-dot-ls,,89pt,Picture of Bella,jpg}
+
+@section @command{mkdir} and @command{rmdir}
+@cindex mkdir
+@cindex rmdir
+When using the command @command{ls} we can see that Bella has the following folders in
+her ``/home/bella'' directory.
+@*
+@*
+@c @image{images/command-ls,15cm,2cm,Example of Linux command ls,png}
+@image{images/ls,,37pt,Example of Linux command ls,png}
+@*
+@*
+To create a directory named ``Test'' type the command: @command{mkdir Test}
+@*
+@*
+@image{images/ls-mkdir-Test,,45pt,Example of Linux command ls,png}
+@*
+@*
+Try typing the command @command{ls} to confirm this directory was created.
+@*
+@*
+@image{images/ls-mkdir-Test-ls,,77pt,Example of Linux command ls,png}
+@*
+@*
+To remove the directory named ``Test'' type the command: @command{rmdir Test}
+@*
+@*
+@image{images/ls-mkdir-Test-ls-rmdir-Test,,85pt,Example of Linux command ls,png}
+@*
+@*
+Type the command @command{ls} to confirm that the directory ``Test'' has been removed.
+@*
+@*
+@c @image{images/command-ls,15cm,2cm,Example of Linux command ls,png}
+@image{images/ls-mkdir-Test-ls-rmdir-Test-ls,,103pt,Example of Linux command ls,png}
+@*
+@*
+@center @image{images/Bella-8,,180pt,Picture of Bella,jpg}
+
+@section @command{echo} and @command{cat}
+@cindex echo
+@cindex cat
+The command @command{echo} is used to write text to the screen. The command @command{echo} can also write text to a file. At the Linux terminal type the command: @command{echo}.
+@*
+@*
+@image{images/echo,,37pt,Example of Linux command ls,png}
+@*
+@*
+The command @command{echo} with no arguments will just display a blank line.
+@*
+Now try typing the command: @command{echo Hello}
+@*
+@*
+@image{images/echo-echo-Hello,,56pt,Example of Linux command ls,png}
+@*
+@*
+The text ``Hello'' will be displayed to the terminal. The command @command{echo} can also push text to a file.
+@*
+@*
+Try the command: @command{echo "This is a test" > file.txt}
+@*
+@*
+@image{images/echo-echo-Hello-echo-file,,70pt,Example of Linux command ls,png}
+@*
+@*
+The command @command{echo} has placed the text ``This is a test'' inside the @file{file.txt}.
+@*
+@*
+We can confirm the file exists with the command @command{ls}
+@*
+@*
+@image{images/echo-echo-Hello-echo-file-ls,,100pt,Example of Linux command ls,png}
+@*
+@*
+Notice the file @file{file.txt}. The contents of the file @file{file.txt} can be displayed with the command: @command{cat file.txt}. The command @command{cat} can concatenate files and print on the display. The contents of the file is the text ``This is a test''.
+@*
+@*
+@image{images/echo-echo-Hello-echo-file-ls-cat,,120pt,Example of Linux command ls,png}
+@*
+@*
+@center @image{images/Bella-9,,180pt,Picture of Bella,jpg}
+
+@section @command{cp} and @command{rm}
+@cindex cp
+@cindex rm
+The command @command{cp} copies files and directories. The command @command{rm} removes files or directories.
+@*
+Create a file with the command: @command{echo "This is another test file" > TestFile.txt}
+@*
+@*
+@image{images/echo-Test-File,,26pt,Example of Linux command ls,png}
+@*
+@*
+Confirm the file exists with the command @command{ls} and confirm the file contents with the command @command{cat}.
+@*
+@*
+@image{images/echo-Test-File-cat,,77pt,Example of Linux command ls,png}
+@*
+@*
+Using the command @command{rm} delete the file with: @command{rm TestFile.txt}
+@*
+@*
+@image{images/echo-Test-File-cat-rm,,85pt,Example of Linux command ls,png}
+@*
+@*
+Now confirm the file was deleted with the command @command{ls}
+@*
+@*
+@image{images/echo-Test-File-cat-rm-ls,,98pt,Example of Linux command ls,png}
+@*
+@*
+@center @image{images/Bella-11,,180pt,Picture of Bella,jpg}
+@*
+@*
+Using the command @command{echo} lets create another file @file{NewTestFile.txt}.
+@*
+Type the command: @command{echo "Test file to be copied" > NewTestFile.txt}
+@*
+@*
+Confirm the file exists with the command @command{ls}. Confirm the contents with the command @command{cat}.
+@*
+@*
+@center @image{images/cp-1,,70pt,Picture of Bella,jpg}
+@*
+@*
+Copy the file @file{NewTestFile.txt} to the file @file{1.txt} with the command: @command{cp NewTestFile.txt 1.txt}
+@*
+@*
+@image{images/cp-2,,77pt,Picture of Bella,jpg}
+@*
+@*
+Copy the file @file{NewTestFile.txt} to the file @file{2.txt} with the command: @command{cp NewTestFile.txt 2.txt}
+@*
+@*
+@image{images/cp-3,,80pt,Picture of Bella,jpg}
+@*
+@*
+Copy the file @file{NewTestFile.txt} to the file @file{3.txt} with the command: @command{cp NewTestFile.txt 3.txt}
+@*
+@*
+@image{images/cp-4,,95pt,Picture of Bella,jpg}
+@*
+@*
+Confirm the existance of the new files @file{1.txt}, @file{2.txt} and @file{3.txt} with the command: @command{ls}
+@*
+@*
+@image{images/cp-5,,130pt,Picture of Bella,jpg}
+@*
+@*
+Concatenate the files @file{1.txt}, @file{2.txt} and @file{3.txt} to be diplayed on the screen with the command: @command{cat 1.txt 2.txt 3.txt}
+@*
+@*
+@image{images/cp-6,,170pt,Picture of Bella,jpg}
+@*
+@*
+All three files are displayed on the screen. All three files have the same contents. Remove one of the files with the command: @command{rm 1.txt}
+@*
+@*
+@image{images/cp-7,,170pt,Picture of Bella,jpg}
+@*
+@*
+Using what is known as a wildcard have command @command{ls} check for files only ending with ``.txt'' file extension. Try the command: @command{ls *.txt}
+@*
+@*
+@image{images/cp-8,,35pt,Picture of Bella,jpg}
+@*
+@*
+Only files with the ``.txt'' file extension have been displayed. The file @file{1.txt} has been removed. Remove the files @file{2.txt} and @file{3.txt} with
+the command command: @command{rm 2.txt 3.txt}
+@*
+@*
+@image{images/cp-9,,23pt,Picture of Bella,jpg}
+@*
+@*
+Confirm the removal of @file{2.txt} and @file{3.txt} by wildcard listing ``.txt'' file extension with command: @command{ls *.txt}
+@*
+@*
+@image{images/cp-10,,35pt,Picture of Bella,jpg}
+
+@section @command{gedit}
+@cindex gedit
+@*
+@*
+@center @image{images/Bella-15,,180pt,Picture of Bella,jpg}
+
+@section @command{more} and @command{less}
+@cindex more
+@cindex less
+@*
+@*
+@center @image{images/Bella-16,,180pt,Picture of Bella,jpg}
+
+@section @command{man}
+@cindex man
+@*
+@*
+@center @image{images/Bella-17,,180pt,Picture of Bella,jpg}
+
+@section @command{date}
+@cindex date
+@*
+@*
+@center @image{images/Bella-19,,180pt,Picture of Bella,jpg}
+
+@section @command{cal}
+@cindex cal
+@*
+@*
+@center @image{images/Bella-14,,180pt,Picture of Bella,jpg}
+
+@section @command{top}
+@cindex top
+@*
+@*
+@center @image{images/Bella-12,,180pt,Picture of Bella,jpg}
+
+@section @command{clear}
+@cindex clear
+@*
+@*
+@center @image{images/Bella-18,,180pt,Picture of Bella,jpg}
+
+@node Concept index
+@unnumbered Concept index
+@printindex cp
+
+@bye

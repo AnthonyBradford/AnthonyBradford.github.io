@@ -1,29 +1,35 @@
 [Picture of Bella]
-Bella Teaches the Linux Command Line Version February 26, 2020
+Bella Teaches the Linux Command Line Version August 25, 2020
 1 Login Screen, Desktop and Terminal
   1.1 Login Screen
   1.2 Desktop
   1.3 Terminal
 2 Linux Commands
   2.1 'whoami'
-  2.2 'ls'
-  2.3 'pwd'
-  2.4 'mkdir' and 'rmdir'
-  2.5 'cd'
+  2.2 'pwd'
+  2.3 'ls'
+  2.4 'cd'
+  2.5 'mkdir' and 'rmdir'
   2.6 'echo' and 'cat'
   2.7 'cp' and 'rm'
   2.8 'gedit'
   2.9 'more' and 'less'
-  2.10 'man'
-  2.11 'date'
-  2.12 'cal'
-  2.13 'top'
-  2.14 'clear'
+  2.10 'date'
+  2.11 'cal'
+  2.12 'clear'
+  2.13 'man'
+  2.14 'top'
+3 Fun Commands
+  3.1 'fortune'
+  3.2 'cowsay'
+  3.3 'figlet'
+  3.4 'banner'
+  3.5 'toilet'
 Concept index
-Bella Teaches the Linux Command Line Version February 26, 2020
-**************************************************************
+Bella Teaches the Linux Command Line Version August 25, 2020
+************************************************************
 
-Bella Teaches the Linux Command Line.  Copyright (C) 2019.
+Bella Teaches the Linux Command Line.  Copyright (C) 2020.
 
 1 Login Screen, Desktop and Terminal
 ************************************
@@ -56,24 +62,25 @@ The Linux desktop will display.
 1.3 Terminal
 ============
 
-We will proceed to open a Linux terminal.  On the upper left hand side
-of the screen select Activities.
+Open a Linux terminal.  On the upper left hand side of the screen select
+Activities.
 
             [Activies on upper left hand of Linux Desktop]
 
 
-A input box saying "Type To Search" box will appear.
+An input box saying "Type To Search..."  box will appear.
 
                          [Type To Search box]
 
 
-Inside the "Type To Search" input box type the word Terminal.
+Inside the "Type To Search..."  input box type the word "terminal".
 
                [Terminal typed into Type to Search box]
 
 
-The Linux terminal will appear.  The terminal is also known as the Linux
-Shell or the command line.
+The Linux terminal icon will appear.  Select the terminal icon by
+clicking on it with the left mouse button.  The terminal is also known
+as the Linux shell or the command line.
 
                      [Image of the Linux Terminal]
 
@@ -95,41 +102,14 @@ execute some commands.
 ============
 
 The command 'whoami' prints your userid.  At the Linux terminal type the
-command 'whoami'.
+command: 'whoami'.
 
 [Example of Linux command whoami]
 
-Linux responds that Bella is logged in.  Your system should respond that
-your logged in by displaying your login name.
+Linux responds that "bella" is the userid.  Your system should respond
+with your userid.
 
-2.2 'ls'
-========
-
-The command 'ls' lists directory contents.  Directories can also be
-called folders.  At the Linux terminal type the command 'ls'.
-
-[Example of Linux command ls]
-
-We see Bella has the following directories:
-Desktop, Documents, Downloads, Music, Pictures, Public, Templates,
-Videos.
-
-We can look inside an individual directory by giving command 'ls' a
-specific directory name to look in.  Type: 'ls Music'
-
-[Example of Linux command ls on Music directory]
-
-Looks like Bella has no music.
-
-We can check if Bella has any documents.  Type: 'ls Documents'
-
-[Example of Linux command ls on Documents directory]
-
-Bella has no documents
-
-                          [Picture of Bella]
-
-2.3 'pwd'
+2.2 'pwd'
 =========
 
 The command 'pwd' is used to print the name of current working
@@ -137,44 +117,304 @@ directory.
 
 [Example of Linux command pwd]
 
-Bella's current working directory is "/home/bella".  Therefore the
-"bella" directory is inside the "home" directory.
+Bella's current working directory is '/home/bella'.  Therefore the
+'bella' directory is inside the 'home' directory.  The first slash
+character '/' in the '/home/bella' directory name is known as the root
+directory.  The 'home' directory is subdirectory of 'root'.  The 'bella'
+directory is a subdirectory of 'home'.  All users of Linux have a
+directory in '/home'.
 
-2.4 'mkdir' and 'rmdir'
-=======================
+Linux has a hierarchical file system.  The hierarchy starts with the
+root directory '/'.  The structure of the file system looks like a tree.
+Inside the root directory '/' you will find files and subdirectories.
+The subdirectories can continue to have their own files or
+subdirectories.  This structure can continue for many levels.
 
-When using the command 'ls' we can see that Bella has the following
-folders in her "/home/bella" directory.
-     Desktop, Documents, Downloads, Music, Pictures, Public, Templates, Videos
-Try typing the command 'ls' and enter again.
+2.3 'ls'
+========
+
+The command 'ls' lists directory contents.  Directories can also be
+called folders.  At the Linux terminal type the command: 'ls'.
+
+[Example of Linux command ls]
+
+We see Bella has some directories.  Your system should display something
+similar.
+
+We can look inside an individual directory by giving command 'ls' a
+specific directory name to look in.  Type the command: 'ls Music'
+
+[Example of Linux command ls on Music directory]
+
+Looks like Bella has no music since the 'Music' directory is empty.
+When we type a command such as 'ls Music' we say that 'Music' is an
+argument to the command 'ls'.  When we type the command 'ls' alone we
+can say 'ls' has no arguments.
+
+We can check if Bella has any documents.  Type the command: 'ls
+Documents'
+
+[Example of Linux command ls on Documents directory]
+
+The 'Document' directory is empty.  Bella has no documents.
 
                           [Picture of Bella]
 
-2.5 'cd'
+
+The command 'ls' has the ability to match filenames using a wildcard.
+Try typing the command: 'ls D*'
+
+The asterik * or star character tells the command 'ls' to match any
+string after the letter 'D'.  The contents of all directories begining
+with the letter 'D' will be displayed.
+
+[Example of Linux command ls on Documents directory]
+
+The directories 'Desktop', 'Documents' and 'Downloads' are all empty.
+
+Use the command 'ls' to explore the Linux filesystem.  Type the command:
+'ls /'
+
+[Example of Linux command ls on Documents directory]
+
+This lists the contents of the '/' which is known as root.
+Type the command: 'ls /home'
+
+[Example of Linux command ls on Documents directory]
+
+Bella's home directory shows another user.  Your system may display
+other users.
+
+The command 'ls' can also take options (also called switches).  The
+listing of the contents of all subdirectories can be done with the
+command: 'ls -R'
+
+The '-R' part of command tells 'ls' to recursively list all
+subdirectories.  Try typing the command: 'ls -R'
+
+2.4 'cd'
 ========
 
-At the Linux terminal type the command 'cd'.
+The command 'cd' changes your current working directory.
+
+When the command 'cd' is typed alone (with no arguments) the current
+working directory is changed to your home directory.
+
+[Example of Linux command ls on Documents directory]
+
+At the Linux terminal type the command: 'cd Music'.
+
+Now the current working directory has changed to the Music directory.
+
+The command 'ls' will display the contents of the 'Music' directory.
+
+[Example of Linux command ls on Documents directory]
+
+The 'Music' is empty.
+
+The command 'pwd' will display the full directory path.
+
+[Example of Linux command ls on Documents directory]
+
+                          [Picture of Bella]
+
+
+To pop up from the 'Music' directory type the command: 'cd ..'
+
+                          [Picture of Bella]
+
+
+Now the current working directory is one level above.  To confirm this
+type the command: 'ls'
+
+                          [Picture of Bella]
+
+
+Typing the command 'pwd' will confirm that the current working directory
+is back to the user's home directory.
+
+[Example of Linux command pwd]
+2.5 'mkdir' and 'rmdir'
+=======================
+
+When using the command 'ls' we can see that Bella has the following
+folders in her home directory.
+
+[Example of Linux command ls]
+
+To create a directory named 'Test' type the command: 'mkdir Test'
+
+[Example of Linux command ls]
+
+Try typing the command: 'ls' to confirm this directory was created.  You
+should see the directory 'Test' listed with the other directories.
+
+[Example of Linux command ls]
+
+To remove the directory named 'Test' type the command: 'rmdir Test'
+
+[Example of Linux command ls]
+
+Type the command 'ls' to confirm that the directory 'Test' has been
+removed.
+
+[Example of Linux command ls]
 
                           [Picture of Bella]
 
 2.6 'echo' and 'cat'
 ====================
 
-At the Linux terminal type the command 'echo'.
+The command 'echo' is used to write text to the screen.  The command
+'echo' can also write text to a file.  At the Linux terminal type the
+command: 'echo'.
+
+[Example of Linux command ls]
+
+The command 'echo' with no arguments will just display a blank line.
+Now try typing the command: 'echo Hello'
+
+[Example of Linux command ls]
+
+The text 'Hello' will be displayed to the terminal.  The command 'echo'
+can also push text to a file.
+
+Try the command: 'echo "This is a test" > file.txt'
+
+The greater-than sign '>' tells the command 'echo' to redirect the
+output to the file.  The output will not go to the display.
+
+[Example of Linux command ls]
+
+The command 'echo' has placed the text "This is a test" inside the
+'file.txt'.
+
+We can confirm the file exists with the command 'ls'
+
+[Example of Linux command ls]
+
+Notice the new file 'file.txt'.  The contents of the file 'file.txt' can
+be displayed with the command: 'cat file.txt'.  The command 'cat' can
+concatenate files and print files on the display.  The contents of the
+file is the text "This is a test".
+
+[Example of Linux command ls]
 
                           [Picture of Bella]
 
 2.7 'cp' and 'rm'
 =================
 
+The command 'cp' copies files and directories.  The command 'rm' removes
+files or directories.
+Create a file with the command: 'echo "This is another test file" >
+TestFile.txt'
 
+[Example of Linux command ls]
+
+Confirm the file exists with the command 'ls' and confirm the file
+contents with the command 'cat'.
+
+[Example of Linux command ls]
+
+Using the command 'rm' delete the file with: 'rm TestFile.txt'
+
+[Example of Linux command ls]
+
+Now confirm the file was deleted with the command 'ls'
+
+[Example of Linux command ls]
 
                           [Picture of Bella]
 
+
+Create another file 'NewTestFile.txt' with the command 'echo'.
+Type the command: 'echo "Test file to be copied" > NewTestFile.txt'
+
+Confirm the file exists with the command 'ls'.  Confirm the contents
+with the command 'cat'.
+
+                          [Picture of Bella]
+
+
+Copy the file 'NewTestFile.txt' to the file '1.txt' with the command:
+'cp NewTestFile.txt 1.txt'
+
+[Picture of Bella]
+
+Copy the file 'NewTestFile.txt' to the file '2.txt' with the command:
+'cp NewTestFile.txt 2.txt'
+
+[Picture of Bella]
+
+Copy the file 'NewTestFile.txt' to the file '3.txt' with the command:
+'cp NewTestFile.txt 3.txt'
+
+[Picture of Bella]
+
+Confirm the existance of the new files '1.txt', '2.txt' and '3.txt' with
+the command: 'ls'
+
+[Picture of Bella]
+
+Concatenate the files '1.txt', '2.txt' and '3.txt' to the screen display
+with the command: 'cat 1.txt 2.txt 3.txt'
+
+[Picture of Bella]
+
+All three files are displayed on the screen back to back.  All three
+files have the same contents.  Remove one of the files with the command:
+'rm 1.txt'
+
+[Picture of Bella]
+
+Using what is known as a wildcard have command 'ls' check for files only
+ending with '.txt' file extension.  Try the command: 'ls *.txt'
+
+[Picture of Bella]
+
+Only files with the '.txt' file extension have been displayed.  The file
+'1.txt' has been removed.  Remove the files '2.txt' and '3.txt' with the
+command command: 'rm 2.txt 3.txt'
+
+[Picture of Bella]
+
+Confirm the removal of '2.txt' and '3.txt' by wildcard listing '.txt'
+file extension with command: 'ls *.txt'
+
+[Picture of Bella]
 2.8 'gedit'
 ===========
 
+The command 'gedit' is a graphical text editor.  'gedit' can be used to
+create or edit files.  'gedit' can be started from the command line.
+Type the command: 'gedit myfile.txt' to create and edit the file
+'myfile.txt'
 
+[Picture of Bella]
+
+The 'gedit' graphical text editor will display.  Feel free to enter any
+text you want.
+
+                          [Picture of Bella]
+
+
+In this example I have entered the text "This is a test of the gedit
+graphical editor" and pressed newline.  Press the "Save" button to save
+the file 'myfile.txt'
+
+                          [Picture of Bella]
+
+
+Type the command: 'ls' to see that there is a new file named
+'myfile.txt'.
+Also try the command: 'ls *.txt' to list all files ending with '.txt'.
+Both commands will show that the new file 'myfile.txt' exists.
+
+[Picture of Bella]
+
+Feel free to use the command 'gedit myfile.txt' to add more text or
+change the file 'myfile.txt'.
 
                           [Picture of Bella]
 
@@ -185,69 +425,120 @@ At the Linux terminal type the command 'echo'.
 
                           [Picture of Bella]
 
-2.10 'man'
-==========
-
-
-
-                          [Picture of Bella]
-
-2.11 'date'
+2.10 'date'
 ===========
 
+The command 'date' will print the system date and time.
 
+[Image of the command date]
 
                           [Picture of Bella]
 
-2.12 'cal'
+2.11 'cal'
 ==========
 
+The command 'cal' will display a calendar.  With no arguments to the
+command, the current month is displayed.  Todays date will be
+highlighted.
 
+[Image of the command cal]
+
+The command 'cal' can display all months for a year.  The year to
+display can be given as an argument to the command 'cal'.  Try typing
+the command: 'cal 2020'
+
+[Image of the command cal 2020]
+
+The command 'cal' can display calendars in the past.  Try typing the
+command 'cal' and giving the your birthday year as the first argument.
+If your birthday year was 2009 you would type: 'cal 2009'
 
                           [Picture of Bella]
 
-2.13 'top'
-==========
-
-
-
-                          [Picture of Bella]
-
-2.14 'clear'
+2.12 'clear'
 ============
 
+To clear the terminal screen type the command: 'clear'
+
+[Image of the command clear]
+
+                          [Picture of Bella]
+
+2.13 'man'
+==========
+
+The command 'man' provides a reference manual to commands.  All commands
+such as 'whoami', 'pwd', 'ls', 'cd', 'mkdir', 'rmdir', 'echo', 'rm',
+'rm', 'more', 'less', 'date', 'cal' and 'clear' have reference manuals.
+
+The command reference manuals give information on command usage and
+options.  Command switches (options) and arguments are described.  Try
+command 'man ls'
+
+[Image of the command clear]
+
+Explore more 'man' pages.  The command 'man' even has a reference manual
+page.  Try the command: 'man man'.
+                          [Picture of Bella]
+
+2.14 'top'
+==========
+
 
 
                           [Picture of Bella]
+
+3 Fun Commands
+**************
+
+3.1 'fortune'
+=============
+
+3.2 'cowsay'
+============
+
+3.3 'figlet'
+============
+
+3.4 'banner'
+============
+
+3.5 'toilet'
+============
 
 Concept index
 *************
 
 * Menu:
 
-* cal:                                   Linux Commands.      (line 204)
-* cat:                                   Linux Commands.      (line 162)
-* cd:                                    Linux Commands.      (line 155)
-* clear:                                 Linux Commands.      (line 218)
-* cp:                                    Linux Commands.      (line 169)
-* date:                                  Linux Commands.      (line 197)
+* banner:                                Fun Commands.        (line 504)
+* cal:                                   Linux Commands.      (line 439)
+* cat:                                   Linux Commands.      (line 267)
+* cd:                                    Linux Commands.      (line 197)
+* clear:                                 Linux Commands.      (line 460)
+* cowsay:                                Fun Commands.        (line 498)
+* cp:                                    Linux Commands.      (line 307)
+* date:                                  Linux Commands.      (line 430)
 * Desktop:                               Login Screen Desktop and Terminal.
-                                                              (line  48)
-* echo:                                  Linux Commands.      (line 162)
-* gedit:                                 Linux Commands.      (line 176)
-* less:                                  Linux Commands.      (line 183)
-* Linux Commands:                        Linux Commands.      (line  91)
+                                                              (line  54)
+* echo:                                  Linux Commands.      (line 267)
+* figlet:                                Fun Commands.        (line 501)
+* fortune:                               Fun Commands.        (line 495)
+* gedit:                                 Linux Commands.      (line 388)
+* less:                                  Linux Commands.      (line 423)
+* Linux Commands:                        Linux Commands.      (line  98)
 * Login Screen:                          Login Screen Desktop and Terminal.
-                                                              (line  36)
-* ls:                                    Linux Commands.      (line 107)
-* man:                                   Linux Commands.      (line 190)
-* mkdir:                                 Linux Commands.      (line 145)
-* more:                                  Linux Commands.      (line 183)
-* pwd:                                   Linux Commands.      (line 134)
-* rm:                                    Linux Commands.      (line 169)
-* rmdir:                                 Linux Commands.      (line 145)
+                                                              (line  42)
+* ls:                                    Linux Commands.      (line 135)
+* man:                                   Linux Commands.      (line 469)
+* mkdir:                                 Linux Commands.      (line 239)
+* more:                                  Linux Commands.      (line 423)
+* pwd:                                   Linux Commands.      (line 114)
+* rm:                                    Linux Commands.      (line 307)
+* rmdir:                                 Linux Commands.      (line 239)
 * Terminal:                              Login Screen Desktop and Terminal.
-                                                              (line  58)
-* top:                                   Linux Commands.      (line 211)
-* whoami:                                Linux Commands.      (line  96)
+                                                              (line  64)
+* toilet:                                Fun Commands.        (line 507)
+* top:                                   Linux Commands.      (line 486)
+* whoami:                                Linux Commands.      (line 103)
 
